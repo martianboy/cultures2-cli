@@ -1,0 +1,2608 @@
+Hey!
+1 390 2216
+0 \
+1 data\
+2 data\edit\
+3 data\edit\macromaps\
+3 data\edit\randomgroups\
+2 data\engine2d\
+3 data\engine2d\bin\
+4 data\engine2d\bin\bobs\
+4 data\engine2d\bin\palettes\
+5 data\engine2d\bin\palettes\creatures\
+5 data\engine2d\bin\palettes\goods\
+5 data\engine2d\bin\palettes\gui\
+5 data\engine2d\bin\palettes\landscapes\
+4 data\engine2d\bin\sounds\
+5 data\engine2d\bin\sounds\ambient\
+5 data\engine2d\bin\sounds\generic\
+5 data\engine2d\bin\sounds\gui\
+5 data\engine2d\bin\sounds\humantalk\
+6 data\engine2d\bin\sounds\humantalk\arabian\
+6 data\engine2d\bin\sounds\humantalk\latin\
+6 data\engine2d\bin\sounds\humantalk\oldenglish\
+5 data\engine2d\bin\sounds\jingles\
+5 data\engine2d\bin\sounds\static\
+4 data\engine2d\bin\textures\
+3 data\engine2d\inis\
+4 data\engine2d\inis\animals\
+4 data\engine2d\inis\goods\
+4 data\engine2d\inis\houses\
+4 data\engine2d\inis\humans\
+4 data\engine2d\inis\landscapes\
+4 data\engine2d\inis\mapmoveableanimations\
+4 data\engine2d\inis\misc\
+4 data\engine2d\inis\palettes\
+4 data\engine2d\inis\particel\
+4 data\engine2d\inis\patterns\
+4 data\engine2d\inis\patterntransitions\
+4 data\engine2d\inis\soundfx\
+4 data\engine2d\inis\vehicles\
+2 data\gui\
+3 data\gui\bitmaps\
+3 data\gui\fonts\
+3 data\gui\lang\
+4 data\gui\lang\eng\
+5 data\gui\lang\eng\bobs\
+5 data\gui\lang\eng\pictures\
+3 data\gui\palettes\
+2 data\logic\
+3 data\logic\atomicanimations\
+3 data\logic\tribetypes\
+2 data\maps\
+3 data\maps\campaign_01_01\
+4 data\maps\campaign_01_01\sfx\
+5 data\maps\campaign_01_01\sfx\eng\
+4 data\maps\campaign_01_01\text\
+5 data\maps\campaign_01_01\text\eng\
+6 data\maps\campaign_01_01\text\eng\briefings\
+7 data\maps\campaign_01_01\text\eng\briefings\fonts\
+7 data\maps\campaign_01_01\text\eng\briefings\graphics\
+7 data\maps\campaign_01_01\text\eng\briefings\palettes\
+3 data\maps\campaign_01_02\
+4 data\maps\campaign_01_02\sfx\
+5 data\maps\campaign_01_02\sfx\eng\
+4 data\maps\campaign_01_02\text\
+5 data\maps\campaign_01_02\text\eng\
+6 data\maps\campaign_01_02\text\eng\briefings\
+7 data\maps\campaign_01_02\text\eng\briefings\fonts\
+7 data\maps\campaign_01_02\text\eng\briefings\graphics\
+7 data\maps\campaign_01_02\text\eng\briefings\palettes\
+3 data\maps\campaign_01_02-sub\
+4 data\maps\campaign_01_02-sub\text\
+5 data\maps\campaign_01_02-sub\text\eng\
+6 data\maps\campaign_01_02-sub\text\eng\briefings\
+7 data\maps\campaign_01_02-sub\text\eng\briefings\fonts\
+7 data\maps\campaign_01_02-sub\text\eng\briefings\graphics\
+7 data\maps\campaign_01_02-sub\text\eng\briefings\palettes\
+3 data\maps\campaign_01_03\
+4 data\maps\campaign_01_03\sfx\
+5 data\maps\campaign_01_03\sfx\eng\
+4 data\maps\campaign_01_03\text\
+5 data\maps\campaign_01_03\text\eng\
+6 data\maps\campaign_01_03\text\eng\briefings\
+7 data\maps\campaign_01_03\text\eng\briefings\fonts\
+7 data\maps\campaign_01_03\text\eng\briefings\graphics\
+7 data\maps\campaign_01_03\text\eng\briefings\palettes\
+3 data\maps\campaign_01_04\
+4 data\maps\campaign_01_04\sfx\
+5 data\maps\campaign_01_04\sfx\eng\
+4 data\maps\campaign_01_04\text\
+5 data\maps\campaign_01_04\text\eng\
+6 data\maps\campaign_01_04\text\eng\briefings\
+7 data\maps\campaign_01_04\text\eng\briefings\fonts\
+7 data\maps\campaign_01_04\text\eng\briefings\graphics\
+7 data\maps\campaign_01_04\text\eng\briefings\palettes\
+3 data\maps\campaign_01_04-sub\
+4 data\maps\campaign_01_04-sub\text\
+5 data\maps\campaign_01_04-sub\text\eng\
+6 data\maps\campaign_01_04-sub\text\eng\briefings\
+7 data\maps\campaign_01_04-sub\text\eng\briefings\fonts\
+7 data\maps\campaign_01_04-sub\text\eng\briefings\graphics\
+7 data\maps\campaign_01_04-sub\text\eng\briefings\palettes\
+3 data\maps\campaign_01_05\
+4 data\maps\campaign_01_05\sfx\
+5 data\maps\campaign_01_05\sfx\eng\
+4 data\maps\campaign_01_05\text\
+5 data\maps\campaign_01_05\text\eng\
+6 data\maps\campaign_01_05\text\eng\briefings\
+7 data\maps\campaign_01_05\text\eng\briefings\fonts\
+7 data\maps\campaign_01_05\text\eng\briefings\graphics\
+7 data\maps\campaign_01_05\text\eng\briefings\palettes\
+3 data\maps\campaign_01_05-sub\
+4 data\maps\campaign_01_05-sub\text\
+5 data\maps\campaign_01_05-sub\text\eng\
+6 data\maps\campaign_01_05-sub\text\eng\briefings\
+7 data\maps\campaign_01_05-sub\text\eng\briefings\fonts\
+7 data\maps\campaign_01_05-sub\text\eng\briefings\graphics\
+7 data\maps\campaign_01_05-sub\text\eng\briefings\palettes\
+3 data\maps\campaign_01_06\
+4 data\maps\campaign_01_06\sfx\
+5 data\maps\campaign_01_06\sfx\eng\
+4 data\maps\campaign_01_06\text\
+5 data\maps\campaign_01_06\text\eng\
+6 data\maps\campaign_01_06\text\eng\briefings\
+7 data\maps\campaign_01_06\text\eng\briefings\fonts\
+7 data\maps\campaign_01_06\text\eng\briefings\graphics\
+7 data\maps\campaign_01_06\text\eng\briefings\palettes\
+3 data\maps\campaign_01_07\
+4 data\maps\campaign_01_07\sfx\
+5 data\maps\campaign_01_07\sfx\eng\
+4 data\maps\campaign_01_07\text\
+5 data\maps\campaign_01_07\text\eng\
+6 data\maps\campaign_01_07\text\eng\briefings\
+7 data\maps\campaign_01_07\text\eng\briefings\fonts\
+7 data\maps\campaign_01_07\text\eng\briefings\graphics\
+7 data\maps\campaign_01_07\text\eng\briefings\palettes\
+3 data\maps\campaign_01_08\
+4 data\maps\campaign_01_08\sfx\
+5 data\maps\campaign_01_08\sfx\eng\
+4 data\maps\campaign_01_08\text\
+5 data\maps\campaign_01_08\text\eng\
+6 data\maps\campaign_01_08\text\eng\briefings\
+7 data\maps\campaign_01_08\text\eng\briefings\fonts\
+7 data\maps\campaign_01_08\text\eng\briefings\graphics\
+7 data\maps\campaign_01_08\text\eng\briefings\palettes\
+3 data\maps\campaign_01_09\
+4 data\maps\campaign_01_09\sfx\
+5 data\maps\campaign_01_09\sfx\eng\
+4 data\maps\campaign_01_09\text\
+5 data\maps\campaign_01_09\text\eng\
+6 data\maps\campaign_01_09\text\eng\briefings\
+7 data\maps\campaign_01_09\text\eng\briefings\fonts\
+7 data\maps\campaign_01_09\text\eng\briefings\graphics\
+7 data\maps\campaign_01_09\text\eng\briefings\palettes\
+3 data\maps\campaign_01_09-sub\
+4 data\maps\campaign_01_09-sub\text\
+5 data\maps\campaign_01_09-sub\text\eng\
+6 data\maps\campaign_01_09-sub\text\eng\briefings\
+7 data\maps\campaign_01_09-sub\text\eng\briefings\fonts\
+7 data\maps\campaign_01_09-sub\text\eng\briefings\palettes\
+3 data\maps\campaign_01_10\
+4 data\maps\campaign_01_10\sfx\
+5 data\maps\campaign_01_10\sfx\eng\
+4 data\maps\campaign_01_10\text\
+5 data\maps\campaign_01_10\text\eng\
+6 data\maps\campaign_01_10\text\eng\briefings\
+7 data\maps\campaign_01_10\text\eng\briefings\fonts\
+7 data\maps\campaign_01_10\text\eng\briefings\graphics\
+7 data\maps\campaign_01_10\text\eng\briefings\palettes\
+3 data\maps\campaign_01_10-sub\
+4 data\maps\campaign_01_10-sub\text\
+5 data\maps\campaign_01_10-sub\text\eng\
+6 data\maps\campaign_01_10-sub\text\eng\briefings\
+7 data\maps\campaign_01_10-sub\text\eng\briefings\fonts\
+7 data\maps\campaign_01_10-sub\text\eng\briefings\graphics\
+7 data\maps\campaign_01_10-sub\text\eng\briefings\palettes\
+3 data\maps\campaign_01_11\
+4 data\maps\campaign_01_11\sfx\
+5 data\maps\campaign_01_11\sfx\eng\
+4 data\maps\campaign_01_11\text\
+5 data\maps\campaign_01_11\text\eng\
+6 data\maps\campaign_01_11\text\eng\briefings\
+7 data\maps\campaign_01_11\text\eng\briefings\fonts\
+7 data\maps\campaign_01_11\text\eng\briefings\graphics\
+7 data\maps\campaign_01_11\text\eng\briefings\palettes\
+3 data\maps\demo_mainmenu_00\
+3 data\maps\demo_mainmenu_01\
+3 data\maps\demo_mainmenu_02\
+3 data\maps\demo_mainmenu_03\
+3 data\maps\multiplayer_001_militär\
+4 data\maps\multiplayer_001_militär\minimap\
+4 data\maps\multiplayer_001_militär\text\
+5 data\maps\multiplayer_001_militär\text\eng\
+6 data\maps\multiplayer_001_militär\text\eng\briefings\
+7 data\maps\multiplayer_001_militär\text\eng\briefings\fonts\
+7 data\maps\multiplayer_001_militär\text\eng\briefings\palettes\
+3 data\maps\multiplayer_001_ressourcen\
+4 data\maps\multiplayer_001_ressourcen\minimap\
+4 data\maps\multiplayer_001_ressourcen\text\
+5 data\maps\multiplayer_001_ressourcen\text\eng\
+6 data\maps\multiplayer_001_ressourcen\text\eng\briefings\
+7 data\maps\multiplayer_001_ressourcen\text\eng\briefings\fonts\
+7 data\maps\multiplayer_001_ressourcen\text\eng\briefings\palettes\
+3 data\maps\multiplayer_002_militär\
+4 data\maps\multiplayer_002_militär\minimap\
+4 data\maps\multiplayer_002_militär\text\
+5 data\maps\multiplayer_002_militär\text\eng\
+6 data\maps\multiplayer_002_militär\text\eng\briefings\
+7 data\maps\multiplayer_002_militär\text\eng\briefings\fonts\
+7 data\maps\multiplayer_002_militär\text\eng\briefings\palettes\
+3 data\maps\multiplayer_002_ressourcen\
+4 data\maps\multiplayer_002_ressourcen\minimap\
+4 data\maps\multiplayer_002_ressourcen\text\
+5 data\maps\multiplayer_002_ressourcen\text\eng\
+6 data\maps\multiplayer_002_ressourcen\text\eng\briefings\
+7 data\maps\multiplayer_002_ressourcen\text\eng\briefings\fonts\
+7 data\maps\multiplayer_002_ressourcen\text\eng\briefings\palettes\
+3 data\maps\multiplayer_003_militär\
+4 data\maps\multiplayer_003_militär\minimap\
+4 data\maps\multiplayer_003_militär\text\
+5 data\maps\multiplayer_003_militär\text\eng\
+6 data\maps\multiplayer_003_militär\text\eng\briefings\
+7 data\maps\multiplayer_003_militär\text\eng\briefings\fonts\
+7 data\maps\multiplayer_003_militär\text\eng\briefings\palettes\
+3 data\maps\multiplayer_003_ressourcen\
+4 data\maps\multiplayer_003_ressourcen\minimap\
+4 data\maps\multiplayer_003_ressourcen\text\
+5 data\maps\multiplayer_003_ressourcen\text\eng\
+6 data\maps\multiplayer_003_ressourcen\text\eng\briefings\
+7 data\maps\multiplayer_003_ressourcen\text\eng\briefings\fonts\
+7 data\maps\multiplayer_003_ressourcen\text\eng\briefings\palettes\
+3 data\maps\multiplayer_004_militär\
+4 data\maps\multiplayer_004_militär\minimap\
+4 data\maps\multiplayer_004_militär\text\
+5 data\maps\multiplayer_004_militär\text\eng\
+6 data\maps\multiplayer_004_militär\text\eng\briefings\
+7 data\maps\multiplayer_004_militär\text\eng\briefings\fonts\
+7 data\maps\multiplayer_004_militär\text\eng\briefings\palettes\
+3 data\maps\multiplayer_004_ressourcen\
+4 data\maps\multiplayer_004_ressourcen\minimap\
+4 data\maps\multiplayer_004_ressourcen\text\
+5 data\maps\multiplayer_004_ressourcen\text\eng\
+6 data\maps\multiplayer_004_ressourcen\text\eng\briefings\
+7 data\maps\multiplayer_004_ressourcen\text\eng\briefings\fonts\
+7 data\maps\multiplayer_004_ressourcen\text\eng\briefings\palettes\
+3 data\maps\multiplayer_004_special_cap-the-cow\
+4 data\maps\multiplayer_004_special_cap-the-cow\minimap\
+4 data\maps\multiplayer_004_special_cap-the-cow\text\
+5 data\maps\multiplayer_004_special_cap-the-cow\text\eng\
+6 data\maps\multiplayer_004_special_cap-the-cow\text\eng\briefings\
+7 data\maps\multiplayer_004_special_cap-the-cow\text\eng\briefings\fonts\
+7 data\maps\multiplayer_004_special_cap-the-cow\text\eng\briefings\palettes\
+3 data\maps\multiplayer_005_militär\
+4 data\maps\multiplayer_005_militär\minimap\
+4 data\maps\multiplayer_005_militär\text\
+5 data\maps\multiplayer_005_militär\text\eng\
+6 data\maps\multiplayer_005_militär\text\eng\briefings\
+7 data\maps\multiplayer_005_militär\text\eng\briefings\fonts\
+7 data\maps\multiplayer_005_militär\text\eng\briefings\palettes\
+3 data\maps\multiplayer_005_ressourcen\
+4 data\maps\multiplayer_005_ressourcen\minimap\
+4 data\maps\multiplayer_005_ressourcen\text\
+5 data\maps\multiplayer_005_ressourcen\text\eng\
+6 data\maps\multiplayer_005_ressourcen\text\eng\briefings\
+7 data\maps\multiplayer_005_ressourcen\text\eng\briefings\fonts\
+7 data\maps\multiplayer_005_ressourcen\text\eng\briefings\palettes\
+3 data\maps\multiplayer_005_special_cap-the-flag\
+4 data\maps\multiplayer_005_special_cap-the-flag\minimap\
+4 data\maps\multiplayer_005_special_cap-the-flag\text\
+5 data\maps\multiplayer_005_special_cap-the-flag\text\eng\
+6 data\maps\multiplayer_005_special_cap-the-flag\text\eng\briefings\
+7 data\maps\multiplayer_005_special_cap-the-flag\text\eng\briefings\fonts\
+7 data\maps\multiplayer_005_special_cap-the-flag\text\eng\briefings\palettes\
+3 data\maps\multiplayer_007_millitär\
+4 data\maps\multiplayer_007_millitär\minimap\
+4 data\maps\multiplayer_007_millitär\text\
+5 data\maps\multiplayer_007_millitär\text\eng\
+6 data\maps\multiplayer_007_millitär\text\eng\briefings\
+7 data\maps\multiplayer_007_millitär\text\eng\briefings\fonts\
+7 data\maps\multiplayer_007_millitär\text\eng\briefings\palettes\
+3 data\maps\multiplayer_007_ressourcen\
+4 data\maps\multiplayer_007_ressourcen\minimap\
+4 data\maps\multiplayer_007_ressourcen\text\
+5 data\maps\multiplayer_007_ressourcen\text\eng\
+6 data\maps\multiplayer_007_ressourcen\text\eng\briefings\
+7 data\maps\multiplayer_007_ressourcen\text\eng\briefings\fonts\
+7 data\maps\multiplayer_007_ressourcen\text\eng\briefings\palettes\
+3 data\maps\multiplayer_007_special_coop\
+4 data\maps\multiplayer_007_special_coop\minimap\
+4 data\maps\multiplayer_007_special_coop\text\
+5 data\maps\multiplayer_007_special_coop\text\eng\
+6 data\maps\multiplayer_007_special_coop\text\eng\briefings\
+7 data\maps\multiplayer_007_special_coop\text\eng\briefings\fonts\
+7 data\maps\multiplayer_007_special_coop\text\eng\briefings\palettes\
+3 data\maps\multiplayer_008_militär\
+4 data\maps\multiplayer_008_militär\minimap\
+4 data\maps\multiplayer_008_militär\text\
+5 data\maps\multiplayer_008_militär\text\eng\
+6 data\maps\multiplayer_008_militär\text\eng\briefings\
+7 data\maps\multiplayer_008_militär\text\eng\briefings\fonts\
+7 data\maps\multiplayer_008_militär\text\eng\briefings\palettes\
+3 data\maps\multiplayer_008_ressourcen\
+4 data\maps\multiplayer_008_ressourcen\minimap\
+4 data\maps\multiplayer_008_ressourcen\text\
+5 data\maps\multiplayer_008_ressourcen\text\eng\
+6 data\maps\multiplayer_008_ressourcen\text\eng\briefings\
+7 data\maps\multiplayer_008_ressourcen\text\eng\briefings\fonts\
+7 data\maps\multiplayer_008_ressourcen\text\eng\briefings\palettes\
+3 data\maps\multiplayer_009_militär\
+4 data\maps\multiplayer_009_militär\minimap\
+4 data\maps\multiplayer_009_militär\text\
+5 data\maps\multiplayer_009_militär\text\eng\
+6 data\maps\multiplayer_009_militär\text\eng\briefings\
+7 data\maps\multiplayer_009_militär\text\eng\briefings\fonts\
+7 data\maps\multiplayer_009_militär\text\eng\briefings\palettes\
+3 data\maps\singleplayer_01_01\
+4 data\maps\singleplayer_01_01\minimap\
+4 data\maps\singleplayer_01_01\text\
+5 data\maps\singleplayer_01_01\text\eng\
+6 data\maps\singleplayer_01_01\text\eng\briefings\
+7 data\maps\singleplayer_01_01\text\eng\briefings\fonts\
+7 data\maps\singleplayer_01_01\text\eng\briefings\palettes\
+3 data\maps\singleplayer_01_04\
+4 data\maps\singleplayer_01_04\minimap\
+4 data\maps\singleplayer_01_04\text\
+5 data\maps\singleplayer_01_04\text\eng\
+6 data\maps\singleplayer_01_04\text\eng\briefings\
+7 data\maps\singleplayer_01_04\text\eng\briefings\fonts\
+7 data\maps\singleplayer_01_04\text\eng\briefings\palettes\
+3 data\maps\singleplayer_01_05\
+4 data\maps\singleplayer_01_05\minimap\
+4 data\maps\singleplayer_01_05\text\
+5 data\maps\singleplayer_01_05\text\eng\
+6 data\maps\singleplayer_01_05\text\eng\briefings\
+7 data\maps\singleplayer_01_05\text\eng\briefings\fonts\
+7 data\maps\singleplayer_01_05\text\eng\briefings\palettes\
+3 data\maps\singleplayer_01_06\
+4 data\maps\singleplayer_01_06\minimap\
+4 data\maps\singleplayer_01_06\text\
+5 data\maps\singleplayer_01_06\text\eng\
+6 data\maps\singleplayer_01_06\text\eng\briefings\
+7 data\maps\singleplayer_01_06\text\eng\briefings\fonts\
+7 data\maps\singleplayer_01_06\text\eng\briefings\palettes\
+3 data\maps\singleplayer_01_07\
+4 data\maps\singleplayer_01_07\minimap\
+4 data\maps\singleplayer_01_07\text\
+5 data\maps\singleplayer_01_07\text\eng\
+6 data\maps\singleplayer_01_07\text\eng\briefings\
+7 data\maps\singleplayer_01_07\text\eng\briefings\fonts\
+7 data\maps\singleplayer_01_07\text\eng\briefings\palettes\
+3 data\maps\singleplayer_01_08\
+4 data\maps\singleplayer_01_08\minimap\
+4 data\maps\singleplayer_01_08\text\
+5 data\maps\singleplayer_01_08\text\eng\
+6 data\maps\singleplayer_01_08\text\eng\briefings\
+7 data\maps\singleplayer_01_08\text\eng\briefings\fonts\
+7 data\maps\singleplayer_01_08\text\eng\briefings\palettes\
+3 data\maps\singleplayer_01_09\
+4 data\maps\singleplayer_01_09\minimap\
+4 data\maps\singleplayer_01_09\text\
+5 data\maps\singleplayer_01_09\text\eng\
+6 data\maps\singleplayer_01_09\text\eng\briefings\
+7 data\maps\singleplayer_01_09\text\eng\briefings\fonts\
+7 data\maps\singleplayer_01_09\text\eng\briefings\palettes\
+3 data\maps\singleplayer_01_10\
+4 data\maps\singleplayer_01_10\minimap\
+4 data\maps\singleplayer_01_10\text\
+5 data\maps\singleplayer_01_10\text\eng\
+6 data\maps\singleplayer_01_10\text\eng\briefings\
+7 data\maps\singleplayer_01_10\text\eng\briefings\fonts\
+7 data\maps\singleplayer_01_10\text\eng\briefings\palettes\
+2 data\text\
+3 data\text\eng\
+4 data\text\eng\hypertext\
+5 data\text\eng\hypertext\credits\
+6 data\text\eng\hypertext\credits\fonts\
+6 data\text\eng\hypertext\credits\graphics\
+6 data\text\eng\hypertext\credits\palettes\
+5 data\text\eng\hypertext\history\
+6 data\text\eng\hypertext\history\fonts\
+6 data\text\eng\hypertext\history\graphics\
+6 data\text\eng\hypertext\history\palettes\
+5 data\text\eng\hypertext\ingamehelp\
+6 data\text\eng\hypertext\ingamehelp\fonts\
+6 data\text\eng\hypertext\ingamehelp\graphics\
+6 data\text\eng\hypertext\ingamehelp\palettes\
+4 data\text\eng\strings\
+5 data\text\eng\strings\gameobjects\
+5 data\text\eng\strings\help\
+5 data\text\eng\strings\ingamegui\
+5 data\text\eng\strings\mainmenu\
+5 data\text\eng\strings\updates\
+   27690      FED data\edit\macromaps\beachnosound000.cif
+ 77BC78E    338BC data\engine2d\bin\sounds\jingles\jingles_death.wav
+ 7E569C9     32A0 data\engine2d\bin\textures\text_000.pcx
+ 909FC9C     3AEB data\maps\campaign_01_02\text\eng\briefings\fonts\font10.fnt
+ BD40CD6     3AEB data\maps\campaign_01_11\text\eng\briefings\fonts\font10.fnt
+ CBD75AA     3847 data\maps\multiplayer_004_special_cap-the-cow\text\eng\briefings\fonts\font_10.fnt
+ CC9C2EB      24C data\maps\multiplayer_005_militär\text\eng\strings.cif
+ E2B3DEA       7B data\maps\singleplayer_01_09\text\eng\briefings\0008.hlt
+ 3FA48A6    583B1 data\engine2d\bin\bobs\ls_bridge.bmd
+ 5EC38A3      385 data\engine2d\bin\palettes\goods\goods_furniture.pcx
+ 7E59C69    15272 data\engine2d\bin\textures\text_001.pcx
+ 8D2BAF1     45B0 data\maps\campaign_01_01\text\eng\briefings\fonts\font12.fnt
+ 97DBD52     3AEB data\maps\campaign_01_03\text\eng\briefings\fonts\font10.fnt
+ B974D7E     45B0 data\maps\campaign_01_10\text\eng\briefings\fonts\font12.fnt
+ D119BEF     FE36 data\maps\multiplayer_007_millitär\text\eng\briefings\palettes\pal_white.bmp
+ D92D087       C9 data\maps\singleplayer_01_01\text\eng\briefings\briefings.txt
+ E2B3E65       80 data\maps\singleplayer_01_09\text\eng\briefings\0009.hlt
+ E40FE78      B69 data\maps\singleplayer_01_10\text\eng\briefings\briefings.txt
+ E78D898      BEC data\text\eng\strings\gameobjects\jobs.cif
+   44BC2      405 data\edit\macromaps\plaster000.cif
+ 5EC3FAD      385 data\engine2d\bin\palettes\goods\goods_incense.pcx
+ 5EC46B7      385 data\engine2d\bin\palettes\goods\goods_leather.pcx
+ 7E6EEDB    11EDB data\engine2d\bin\textures\text_002.pcx
+ 7EE9AD6     E3E2 data\engine2d\bin\textures\text_200.pcx
+ 90A3787     45B0 data\maps\campaign_01_02\text\eng\briefings\fonts\font12.fnt
+ 9D9C9D8     3AEB data\maps\campaign_01_04\text\eng\briefings\fonts\font10.fnt
+ BD447C1     45B0 data\maps\campaign_01_11\text\eng\briefings\fonts\font12.fnt
+ D3BE62B    F4A5B data\maps\multiplayer_007_special_coop\map.dat
+ 7E80DB6     7433 data\engine2d\bin\textures\text_003.pcx
+ 7EF7EB8     E143 data\engine2d\bin\textures\text_201.pcx
+ 7F77D14     D8E9 data\engine2d\bin\textures\text_210.pcx
+ 97DF83D     45B0 data\maps\campaign_01_03\text\eng\briefings\fonts\font12.fnt
+ A430A0A     3AEB data\maps\campaign_01_05\text\eng\briefings\fonts\font10.fnt
+ D4FD03F      237 data\maps\multiplayer_008_militär\text\eng\strings.cif
+ 6015B66    21E78 data\engine2d\bin\sounds\ambient\bird_01.wav
+ 610DC1A    1D5BE data\engine2d\bin\sounds\ambient\bird_10.wav
+ 7F05FFB     E1E6 data\engine2d\bin\textures\text_202.pcx
+ 7F855FD     DF60 data\engine2d\bin\textures\text_211.pcx
+ 800AFB3     F694 data\engine2d\bin\textures\text_220.pcx
+ 8687C01   17D211 data\gui\lang\eng\bobs\ls_menu_logos.bmd
+ 9DA04C3     45B0 data\maps\campaign_01_04\text\eng\briefings\fonts\font12.fnt
+ A8E2B72     3AEB data\maps\campaign_01_06\text\eng\briefings\fonts\font10.fnt
+ D75C28E      30A data\maps\multiplayer_009_militär\text\eng\strings.cif
+ DC3158C      5C7 data\maps\singleplayer_01_04\text\eng\briefings\briefings.txt
+ E72A071     2F09 data\text\eng\hypertext\history\history.txt
+ 60379DE    17878 data\engine2d\bin\sounds\ambient\bird_02.wav
+ 612B1D8    163F6 data\engine2d\bin\sounds\ambient\bird_11.wav
+ 7F141E1     E7DF data\engine2d\bin\textures\text_203.pcx
+ 7F9355D     E386 data\engine2d\bin\textures\text_212.pcx
+ 801A647     E3D1 data\engine2d\bin\textures\text_221.pcx
+ 80B6F34     E685 data\engine2d\bin\textures\text_230.pcx
+ 88EF46C    EA636 data\gui\lang\eng\pictures\titlescreen.bmp
+ 89DC4E4      386 data\gui\palettes\font_white.pcx
+ A4344F5     45B0 data\maps\campaign_01_05\text\eng\briefings\fonts\font12.fnt
+ AD2E383     3AEB data\maps\campaign_01_07\text\eng\briefings\fonts\font10.fnt
+ DD6030C      851 data\maps\singleplayer_01_05\text\eng\briefings\briefings.txt
+ 5EBC0F9      385 data\engine2d\bin\palettes\creatures\lion.pcx
+ 604F256    1ADBC data\engine2d\bin\sounds\ambient\bird_03.wav
+ 61415CE    25E30 data\engine2d\bin\sounds\ambient\bird_12.wav
+ 7F229C0     E5B4 data\engine2d\bin\textures\text_204.pcx
+ 7FA18E3     DCC9 data\engine2d\bin\textures\text_213.pcx
+ 8028A18     F2A0 data\engine2d\bin\textures\text_222.pcx
+ 80C55B9     E89F data\engine2d\bin\textures\text_231.pcx
+ 814B8DA     FA73 data\engine2d\bin\textures\text_240.pcx
+ 8276DC9    13B5B data\engine2d\bin\textures\tran_sand.pcx
+ A8E665D     45B0 data\maps\campaign_01_06\text\eng\briefings\fonts\font12.fnt
+ B24212D     3AEB data\maps\campaign_01_08\text\eng\briefings\fonts\font10.fnt
+ D129F64       11 data\maps\multiplayer_007_millitär\autor.txt
+ DEFE0AB      A8D data\maps\singleplayer_01_06\text\eng\briefings\briefings.txt
+ 606A012    202D0 data\engine2d\bin\sounds\ambient\bird_04.wav
+ 61673FE    21674 data\engine2d\bin\sounds\ambient\bird_13.wav
+ 7F30F74     EA01 data\engine2d\bin\textures\text_205.pcx
+ 7FAF5AC    13719 data\engine2d\bin\textures\text_214.pcx
+ 8037CB8     E37F data\engine2d\bin\textures\text_223.pcx
+ 80D3E58     DAC5 data\engine2d\bin\textures\text_232.pcx
+ 815B34D     D818 data\engine2d\bin\textures\text_241.pcx
+ AD31E6E     45B0 data\maps\campaign_01_07\text\eng\briefings\fonts\font12.fnt
+ B603965     3AEB data\maps\campaign_01_09\text\eng\briefings\fonts\font10.fnt
+ D37F3BE     59E8 data\maps\multiplayer_007_special_coop\text\eng\briefings\fonts\fonthead16bld.fnt
+ E042D81     1163 data\maps\singleplayer_01_07\text\eng\briefings\briefings.txt
+ 5ED0853      385 data\engine2d\bin\palettes\landscapes\ruins_byzantine.pcx
+ 608A2E2    1DCF0 data\engine2d\bin\sounds\ambient\bird_05.wav
+ 6188A72    15C80 data\engine2d\bin\sounds\ambient\bird_14.wav
+ 7F3F975     E3F8 data\engine2d\bin\textures\text_206.pcx
+ 7FC2CC5    1402D data\engine2d\bin\textures\text_215.pcx
+ 8046037    1509B data\engine2d\bin\textures\text_224.pcx
+ 80E191D     E91A data\engine2d\bin\textures\text_233.pcx
+ 8168B65     DAB9 data\engine2d\bin\textures\text_242.pcx
+ 8515350      4D8 data\engine2d\inis\vehicles\jobgraphics.cif
+ 85A303A    E4BA3 data\gui\lang\eng\bobs\ls_gui_window.bmd
+ B245C18     45B0 data\maps\campaign_01_08\text\eng\briefings\fonts\font12.fnt
+ D0FB2B8    1E937 data\maps\multiplayer_007_millitär\text\eng\briefings\palettes\font_dark.pcx
+ D36C3B8     AF6B data\maps\multiplayer_007_special_coop\minimap\minimap.pcx
+ E187E5D      909 data\maps\singleplayer_01_08\text\eng\briefings\briefings.txt
+ 5EC11EC      385 data\engine2d\bin\palettes\creatures\skin.pcx
+ 60A7FD2    21840 data\engine2d\bin\sounds\ambient\bird_06.wav
+ 619E6F2    16162 data\engine2d\bin\sounds\ambient\bird_15.wav
+ 6C9976A      C78 data\engine2d\bin\sounds\gui\click_fail.wav
+ 7E881E9     FFD6 data\engine2d\bin\textures\text_180.pcx
+ 7F4DD6D     DF75 data\engine2d\bin\textures\text_207.pcx
+ 7FD6CF2    12D77 data\engine2d\bin\textures\text_216.pcx
+ 805B0D2    14ADA data\engine2d\bin\textures\text_225.pcx
+ 80F0237     EC3F data\engine2d\bin\textures\text_234.pcx
+ 817661E     D9CC data\engine2d\bin\textures\text_243.pcx
+ B607450     45B0 data\maps\campaign_01_09\text\eng\briefings\fonts\font12.fnt
+ E2B3EE5      B78 data\maps\singleplayer_01_09\text\eng\briefings\briefings.txt
+ 60C9812    184B8 data\engine2d\bin\sounds\ambient\bird_07.wav
+ 61B4854    2249E data\engine2d\bin\sounds\ambient\bird_16.wav
+ 7EA8BEC    110CC data\engine2d\bin\textures\text_190.pcx
+ 7F5BCE2     DFB1 data\engine2d\bin\textures\text_208.pcx
+ 7FE9A69    13525 data\engine2d\bin\textures\text_217.pcx
+ 806FBAC    150B6 data\engine2d\bin\textures\text_226.pcx
+ 80FEE76     E7AC data\engine2d\bin\textures\text_235.pcx
+ 8183FEA     D812 data\engine2d\bin\textures\text_244.pcx
+ E5274DA      D6B data\text\eng\hypertext\credits\graphics\bink.pcx
+ 60E1CCA    1D748 data\engine2d\bin\sounds\ambient\bird_08.wav
+ 61D6CF2    163B6 data\engine2d\bin\sounds\ambient\bird_17.wav
+ 7EB9CB8    10AF5 data\engine2d\bin\textures\text_191.pcx
+ 7F69C93     E081 data\engine2d\bin\textures\text_209.pcx
+ 7FFCF8E     E025 data\engine2d\bin\textures\text_218.pcx
+ 8084C62    14B32 data\engine2d\bin\textures\text_227.pcx
+ 810D622     E83D data\engine2d\bin\textures\text_236.pcx
+ 81917FC     D759 data\engine2d\bin\textures\text_245.pcx
+ 60FF412     E808 data\engine2d\bin\sounds\ambient\bird_09.wav
+ 7ECA7AD     F8EC data\engine2d\bin\textures\text_192.pcx
+ 8099794     EE45 data\engine2d\bin\textures\text_228.pcx
+ 811BE5F     FDE9 data\engine2d\bin\textures\text_237.pcx
+ 819EF55     DF8B data\engine2d\bin\textures\text_246.pcx
+ 7EDA099     FA3D data\engine2d\bin\textures\text_193.pcx
+ 80A85D9     E95B data\engine2d\bin\textures\text_229.pcx
+ 812BC48     FEF3 data\engine2d\bin\textures\text_238.pcx
+ 81ACEE0     EF6E data\engine2d\bin\textures\text_247.pcx
+ 7E981BF    10A2D data\engine2d\bin\textures\text_185.pcx
+ 813BB3B     FD9F data\engine2d\bin\textures\text_239.pcx
+ 81BBE4E     E7A0 data\engine2d\bin\textures\text_248.pcx
+  1055E1    13538 data\edit\macromaps\shiva farmer test.cif
+ 81E6C03     EC77 data\engine2d\bin\textures\tran_desertbrown.pcx
+ D92D150      1C5 data\maps\singleplayer_01_01\text\eng\strings.cif
+ E4109E1      1C8 data\maps\singleplayer_01_10\text\eng\strings.cif
+ 7D76352     4004 data\engine2d\bin\sounds\static\sword long hit01.wav
+ 5EC7479      385 data\engine2d\bin\palettes\landscapes\bridge.pcx
+ 5ED0F5D      385 data\engine2d\bin\palettes\landscapes\ruins_saracen.pcx
+ 7D7A356     541C data\engine2d\bin\sounds\static\sword long hit02.wav
+ D3A6F24     FE36 data\maps\multiplayer_007_special_coop\text\eng\briefings\palettes\pal_white.bmp
+ 4D275DC   22213B data\engine2d\bin\bobs\ls_houses_viking.bmd
+ 55ECC91     253A data\engine2d\bin\bobs\ls_misc_s.bmd
+ 7D7F772     5DB0 data\engine2d\bin\sounds\static\sword long hit03.wav
+ DC31B53      1D8 data\maps\singleplayer_01_04\text\eng\strings.cif
+ 7742836    34F4C data\engine2d\bin\sounds\jingles\jingles_birth.wav
+ 7D85522     5418 data\engine2d\bin\sounds\static\sword long hit04.wav
+ 7E519C0     5009 data\engine2d\bin\textures\overlay_road_a.pcx
+ DD60B5D      27F data\maps\singleplayer_01_05\text\eng\strings.cif
+ 7D8A93A     15B8 data\engine2d\bin\sounds\static\sword long hit05.wav
+ DEFEB38      21B data\maps\singleplayer_01_06\text\eng\strings.cif
+ 7D8BEF2     1CF0 data\engine2d\bin\sounds\static\sword long hit06.wav
+ CF9E5B6      10D data\maps\multiplayer_005_special_cap-the-flag\text\eng\briefings\0000.hlt
+ E043EE4      2E1 data\maps\singleplayer_01_07\text\eng\strings.cif
+ 4106634     7F64 data\engine2d\bin\bobs\ls_fishes.bmd
+ 517F223     4F3F data\engine2d\bin\bobs\ls_houses_viking2_s.bmd
+ 5D02D64     17B0 data\engine2d\bin\bobs\ls_wall_s.bmd
+ 8A1DB5F      264 data\logic\armortypes.cif
+ D3B728F       11 data\maps\multiplayer_007_special_coop\autor.txt
+ E188766      19A data\maps\singleplayer_01_08\text\eng\strings.cif
+ 41C8E31     C63D data\engine2d\bin\bobs\ls_gui_bubbles.bmd
+ 52AAA00     27BB data\engine2d\bin\bobs\ls_houses_viking3_s.bmd
+ E2B4A5D      182 data\maps\singleplayer_01_09\text\eng\strings.cif
+ E78E542       9F data\text\eng\strings\gameobjects\misclogicstrings.cif
+ 5524A1B     456C data\engine2d\bin\bobs\ls_houses_viking4_s.bmd
+ 83EECC5    CF226 data\engine2d\inis\mapmoveableanimations\animations.cif
+ D3885ED    1E937 data\maps\multiplayer_007_special_coop\text\eng\briefings\palettes\font_dark.pcx
+ 5ECDA92      385 data\engine2d\bin\palettes\landscapes\herbs01.pcx
+ 8A21197     4567 data\logic\housetypes.cif
+ 5ECDE17      385 data\engine2d\bin\palettes\landscapes\herbs02.pcx
+ 6A076E2     DA20 data\engine2d\bin\sounds\generic\animals_chicken01.wav
+ 7980632     172C data\engine2d\bin\sounds\static\arrow_hit.wav
+ 79EA802    186E8 data\engine2d\bin\sounds\static\carpenter_saw01.wav
+ BEA60F1     2FD1 data\maps\demo_mainmenu_00\map.cif
+ BF4EA6F     3847 data\maps\multiplayer_001_militär\text\eng\briefings\fonts\font_10.fnt
+ 5EC270A      385 data\engine2d\bin\palettes\goods\goods_bread.pcx
+ 5ECE19C      385 data\engine2d\bin\palettes\landscapes\herbs03.pcx
+ 6A15102     466C data\engine2d\bin\sounds\generic\animals_chicken02.wav
+ BEE51BF      B78 data\maps\demo_mainmenu_01\map.cif
+ C55C6E5     3847 data\maps\multiplayer_002_militär\text\eng\briefings\fonts\font_10.fnt
+ 5822B41      66E data\engine2d\bin\bobs\ls_temp_s.bmd
+ 6A1976E     5378 data\engine2d\bin\sounds\generic\animals_chicken03.wav
+ BEFA780     1789 data\maps\demo_mainmenu_02\map.cif
+ C78FF1D     3847 data\maps\multiplayer_003_militär\text\eng\briefings\fonts\font_10.fnt
+ 5ED3614      385 data\engine2d\bin\palettes\landscapes\tree_cypress01.pcx
+ 6A1EAE6     3318 data\engine2d\bin\sounds\generic\animals_chicken04.wav
+ 7DD616E    1188C data\engine2d\bin\sounds\static\welllever.wav
+ 89DAFC0      385 data\gui\palettes\campaignbuttons.pcx
+ BF10801     1FF1 data\maps\demo_mainmenu_03\map.cif
+ CAAE6BB     3847 data\maps\multiplayer_004_militär\text\eng\briefings\fonts\font_10.fnt
+ 5ED3999      385 data\engine2d\bin\palettes\landscapes\tree_cypress02.pcx
+ 5ED523F      385 data\engine2d\bin\palettes\landscapes\wheat01.pcx
+ 7B76342     4844 data\engine2d\bin\sounds\static\hotironcoolwater.wav
+ CC69F98     3847 data\maps\multiplayer_005_militär\text\eng\briefings\fonts\font_10.fnt
+ 4138CF7     26CA data\engine2d\bin\bobs\ls_gathering_s.bmd
+ 5D9E9A5       91 data\engine2d\bin\bobs\test_rain.bmd
+ 5EBBD74      385 data\engine2d\bin\palettes\creatures\icebear.pcx
+ 5EC2000      385 data\engine2d\bin\palettes\goods\goods01.pcx
+ 5ED3D1E      385 data\engine2d\bin\palettes\landscapes\tree_cypress03.pcx
+ 5ED55C4      385 data\engine2d\bin\palettes\landscapes\wheat02.pcx
+ 89DC15E      386 data\gui\palettes\font_red.pcx
+ 5ED5949      385 data\engine2d\bin\palettes\landscapes\wheat03.pcx
+ 852B34E    1E93B data\gui\bitmaps\bg_button.pcx
+   32C42      76B data\edit\macromaps\goodsstart00.cif
+ 8DB83CF      174 data\maps\campaign_01_01\text\eng\briefings\0000.hlt
+ BA0BD2A      175 data\maps\campaign_01_10\text\eng\briefings\0000.hlt
+ BEA90C2    3C0FD data\maps\demo_mainmenu_00\map.dat
+ D4CAE17     3847 data\maps\multiplayer_008_militär\text\eng\briefings\fonts\font_10.fnt
+ 82D6EFA     D433 data\engine2d\bin\textures\tran_water_bright_a.pcx
+ 8DB8543       7C data\maps\campaign_01_01\text\eng\briefings\0001.hlt
+ 8DB8AC4       81 data\maps\campaign_01_01\text\eng\briefings\0010.hlt
+ 913DA8C      176 data\maps\campaign_01_02\text\eng\briefings\0000.hlt
+ BA0BE9F       A2 data\maps\campaign_01_10\text\eng\briefings\0001.hlt
+ BA0C436       82 data\maps\campaign_01_10\text\eng\briefings\0010.hlt
+ BDAE026      13F data\maps\campaign_01_11\text\eng\briefings\0000.hlt
+ BEE5D37    14A49 data\maps\demo_mainmenu_01\map.dat
+ D729FCF     3847 data\maps\multiplayer_009_militär\text\eng\briefings\fonts\font_10.fnt
+ 4171E8D    4C960 data\engine2d\bin\bobs\ls_ground.bmd
+ 5EC54CB      385 data\engine2d\bin\palettes\goods\goods_spear_wooden.pcx
+ 8DB85BF       84 data\maps\campaign_01_01\text\eng\briefings\0002.hlt
+ 8DB8B45       80 data\maps\campaign_01_01\text\eng\briefings\0011.hlt
+ 8DB904B       9D data\maps\campaign_01_01\text\eng\briefings\0020.hlt
+ 913DC02       80 data\maps\campaign_01_02\text\eng\briefings\0001.hlt
+ 913E0AB       91 data\maps\campaign_01_02\text\eng\briefings\0010.hlt
+ 986B087      176 data\maps\campaign_01_03\text\eng\briefings\0000.hlt
+ BA0BF41       9D data\maps\campaign_01_10\text\eng\briefings\0002.hlt
+ BA0C4B8       9B data\maps\campaign_01_10\text\eng\briefings\0011.hlt
+ BA0CA26       7A data\maps\campaign_01_10\text\eng\briefings\0020.hlt
+ BDAE165       97 data\maps\campaign_01_11\text\eng\briefings\0001.hlt
+ BEFBF09    148F8 data\maps\demo_mainmenu_02\map.dat
+  271A22     15F2 data\edit\macromaps\watershallow000.cif
+ 8DB8643       84 data\maps\campaign_01_01\text\eng\briefings\0003.hlt
+ 8DB8BC5       7D data\maps\campaign_01_01\text\eng\briefings\0012.hlt
+ 8DB90E8       9D data\maps\campaign_01_01\text\eng\briefings\0021.hlt
+ 8DB956D       7D data\maps\campaign_01_01\text\eng\briefings\0030.hlt
+ 913DC82       84 data\maps\campaign_01_02\text\eng\briefings\0002.hlt
+ 913E13C       79 data\maps\campaign_01_02\text\eng\briefings\0011.hlt
+ 913E6E9       81 data\maps\campaign_01_02\text\eng\briefings\0020.hlt
+ 986B1FD       9E data\maps\campaign_01_03\text\eng\briefings\0001.hlt
+ 986B7DB       A2 data\maps\campaign_01_03\text\eng\briefings\0010.hlt
+ 9E30B52      195 data\maps\campaign_01_04\text\eng\briefings\0000.hlt
+ BA0BFDE       9E data\maps\campaign_01_10\text\eng\briefings\0003.hlt
+ BA0C553       99 data\maps\campaign_01_10\text\eng\briefings\0012.hlt
+ BA0CAA0       A1 data\maps\campaign_01_10\text\eng\briefings\0021.hlt
+ BDAE1FC       79 data\maps\campaign_01_11\text\eng\briefings\0002.hlt
+ BF127F2    24496 data\maps\demo_mainmenu_03\map.dat
+  277916      6C0 data\edit\randomgroups\random_groups_patterns.cif
+ 5ECACD1      385 data\engine2d\bin\palettes\landscapes\grass01.pcx
+ 8360A1E     769D data\engine2d\inis\humans\randompalette.cif
+ 8515828    15B26 data\gui\bitmaps\bg.pcx
+ 8DB86C7       7E data\maps\campaign_01_01\text\eng\briefings\0004.hlt
+ 8DB8C42       9D data\maps\campaign_01_01\text\eng\briefings\0013.hlt
+ 8DB9185       7D data\maps\campaign_01_01\text\eng\briefings\0022.hlt
+ 8DB95EA       7D data\maps\campaign_01_01\text\eng\briefings\0031.hlt
+ 913DD06       7E data\maps\campaign_01_02\text\eng\briefings\0003.hlt
+ 913E1B5      169 data\maps\campaign_01_02\text\eng\briefings\0012.hlt
+ 913E76A       7D data\maps\campaign_01_02\text\eng\briefings\0021.hlt
+ 913EC0E       84 data\maps\campaign_01_02\text\eng\briefings\0030.hlt
+ 986B29B       9E data\maps\campaign_01_03\text\eng\briefings\0002.hlt
+ 986B87D       A1 data\maps\campaign_01_03\text\eng\briefings\0011.hlt
+ 986BD99       81 data\maps\campaign_01_03\text\eng\briefings\0020.hlt
+ 9E30CE7       A3 data\maps\campaign_01_04\text\eng\briefings\0001.hlt
+ 9E31232       9E data\maps\campaign_01_04\text\eng\briefings\0010.hlt
+ A4BBD35      197 data\maps\campaign_01_05\text\eng\briefings\0000.hlt
+ BA0C07C       A8 data\maps\campaign_01_10\text\eng\briefings\0004.hlt
+ BA0C5EC       9A data\maps\campaign_01_10\text\eng\briefings\0013.hlt
+ BDAE275       79 data\maps\campaign_01_11\text\eng\briefings\0003.hlt
+   385CD      FBD data\edit\macromaps\meadowdark000.cif
+ 5ECB056      385 data\engine2d\bin\palettes\landscapes\grass02.pcx
+ 6BB3B86      D64 data\engine2d\bin\sounds\generic\human_fart01.wav
+ 7B1CF46      87C data\engine2d\bin\sounds\static\hammer01.wav
+ 8DB8745       99 data\maps\campaign_01_01\text\eng\briefings\0005.hlt
+ 8DB8CDF       9D data\maps\campaign_01_01\text\eng\briefings\0014.hlt
+ 8DB9202       7D data\maps\campaign_01_01\text\eng\briefings\0023.hlt
+ 8DB9667       87 data\maps\campaign_01_01\text\eng\briefings\0032.hlt
+ 913DD84       7C data\maps\campaign_01_02\text\eng\briefings\0004.hlt
+ 913E31E       82 data\maps\campaign_01_02\text\eng\briefings\0013.hlt
+ 913E7E7       83 data\maps\campaign_01_02\text\eng\briefings\0022.hlt
+ 913EC92       82 data\maps\campaign_01_02\text\eng\briefings\0031.hlt
+ 913F118       9E data\maps\campaign_01_02\text\eng\briefings\0040.hlt
+ 986B339       9C data\maps\campaign_01_03\text\eng\briefings\0003.hlt
+ 986B91E       84 data\maps\campaign_01_03\text\eng\briefings\0012.hlt
+ 986BE1A       82 data\maps\campaign_01_03\text\eng\briefings\0021.hlt
+ 986C2FA       A5 data\maps\campaign_01_03\text\eng\briefings\0030.hlt
+ 9E30D8A       86 data\maps\campaign_01_04\text\eng\briefings\0002.hlt
+ 9E312D0       9E data\maps\campaign_01_04\text\eng\briefings\0011.hlt
+ 9E31706       84 data\maps\campaign_01_04\text\eng\briefings\0020.hlt
+ A4BBECC       7F data\maps\campaign_01_05\text\eng\briefings\0001.hlt
+ A4BC44F       AB data\maps\campaign_01_05\text\eng\briefings\0010.hlt
+ A97A14B      179 data\maps\campaign_01_06\text\eng\briefings\0000.hlt
+ BA0C124       88 data\maps\campaign_01_10\text\eng\briefings\0005.hlt
+ BA0C686       9B data\maps\campaign_01_10\text\eng\briefings\0014.hlt
+ BDAE2EE       79 data\maps\campaign_01_11\text\eng\briefings\0004.hlt
+ CF9E6C3      2B6 data\maps\multiplayer_005_special_cap-the-flag\text\eng\briefings\briefings.txt
+   3958A     2601 data\edit\macromaps\meadowdark001.cif
+ 5ECB3DB      385 data\engine2d\bin\palettes\landscapes\grass03.pcx
+ 6BB48EA     11B0 data\engine2d\bin\sounds\generic\human_fart02.wav
+ 7B1D7C2     28B0 data\engine2d\bin\sounds\static\hammer02.wav
+ 8297D57     D5E9 data\engine2d\bin\textures\tran_snow.pcx
+ 8DB87DE       80 data\maps\campaign_01_01\text\eng\briefings\0006.hlt
+ 8DB8D7C       9D data\maps\campaign_01_01\text\eng\briefings\0015.hlt
+ 8DB927F       7D data\maps\campaign_01_01\text\eng\briefings\0024.hlt
+ 8DB96EE       7B data\maps\campaign_01_01\text\eng\briefings\0033.hlt
+ 913DE00       9C data\maps\campaign_01_02\text\eng\briefings\0005.hlt
+ 913E3A0       83 data\maps\campaign_01_02\text\eng\briefings\0014.hlt
+ 913E86A       81 data\maps\campaign_01_02\text\eng\briefings\0023.hlt
+ 913ED14       81 data\maps\campaign_01_02\text\eng\briefings\0032.hlt
+ 913F1B6       7F data\maps\campaign_01_02\text\eng\briefings\0041.hlt
+ 986B3D5       9C data\maps\campaign_01_03\text\eng\briefings\0004.hlt
+ 986B9A2       7B data\maps\campaign_01_03\text\eng\briefings\0013.hlt
+ 986BE9C       A5 data\maps\campaign_01_03\text\eng\briefings\0022.hlt
+ 9E30E10       90 data\maps\campaign_01_04\text\eng\briefings\0003.hlt
+ 9E3178A       85 data\maps\campaign_01_04\text\eng\briefings\0021.hlt
+ A4BBF4B       7B data\maps\campaign_01_05\text\eng\briefings\0002.hlt
+ A4BC4FA       9A data\maps\campaign_01_05\text\eng\briefings\0011.hlt
+ A4BCA8F       81 data\maps\campaign_01_05\text\eng\briefings\0020.hlt
+ A97A2C4       A0 data\maps\campaign_01_06\text\eng\briefings\0001.hlt
+ A97A8DA       81 data\maps\campaign_01_06\text\eng\briefings\0010.hlt
+ ADBC84A      19A data\maps\campaign_01_07\text\eng\briefings\0000.hlt
+ BA0C1AC       9E data\maps\campaign_01_10\text\eng\briefings\0006.hlt
+ BA0C721       9B data\maps\campaign_01_10\text\eng\briefings\0015.hlt
+ BDAE367       79 data\maps\campaign_01_11\text\eng\briefings\0005.hlt
+ 7B20072     2D0C data\engine2d\bin\sounds\static\hammer03.wav
+ 8DB885E       83 data\maps\campaign_01_01\text\eng\briefings\0007.hlt
+ 8DB8E19       7C data\maps\campaign_01_01\text\eng\briefings\0016.hlt
+ 8DB92FC       7D data\maps\campaign_01_01\text\eng\briefings\0025.hlt
+ 913DE9C       87 data\maps\campaign_01_02\text\eng\briefings\0006.hlt
+ 913E423       A1 data\maps\campaign_01_02\text\eng\briefings\0015.hlt
+ 913E8EB       A2 data\maps\campaign_01_02\text\eng\briefings\0024.hlt
+ 913ED95       81 data\maps\campaign_01_02\text\eng\briefings\0033.hlt
+ 913F235       81 data\maps\campaign_01_02\text\eng\briefings\0042.hlt
+ 986B471       9C data\maps\campaign_01_03\text\eng\briefings\0005.hlt
+ 986BA1D       7F data\maps\campaign_01_03\text\eng\briefings\0014.hlt
+ 986BF41       84 data\maps\campaign_01_03\text\eng\briefings\0023.hlt
+ 9E30EA0       E9 data\maps\campaign_01_04\text\eng\briefings\0004.hlt
+ 9E3136E       81 data\maps\campaign_01_04\text\eng\briefings\0013.hlt
+ 9E3180F       81 data\maps\campaign_01_04\text\eng\briefings\0022.hlt
+ A4BBFC6       9C data\maps\campaign_01_05\text\eng\briefings\0003.hlt
+ A4BC594       A7 data\maps\campaign_01_05\text\eng\briefings\0012.hlt
+ A4BCB10       81 data\maps\campaign_01_05\text\eng\briefings\0021.hlt
+ A97A364       AB data\maps\campaign_01_06\text\eng\briefings\0002.hlt
+ A97A95B       82 data\maps\campaign_01_06\text\eng\briefings\0011.hlt
+ ADBC9E4       81 data\maps\campaign_01_07\text\eng\briefings\0001.hlt
+ ADBCF0E       7E data\maps\campaign_01_07\text\eng\briefings\0010.hlt
+ B2D4B2C      17B data\maps\campaign_01_08\text\eng\briefings\0000.hlt
+ BA0C24A       EC data\maps\campaign_01_10\text\eng\briefings\0007.hlt
+ BA0C7BC       9A data\maps\campaign_01_10\text\eng\briefings\0016.hlt
+ BDAE3E0       79 data\maps\campaign_01_11\text\eng\briefings\0006.hlt
+ 5EBA4D1      385 data\engine2d\bin\palettes\creatures\chicken.pcx
+ 7B22D7E      D78 data\engine2d\bin\sounds\static\hammer04.wav
+ 8DB88E1       7E data\maps\campaign_01_01\text\eng\briefings\0008.hlt
+ 8DB8E95       9D data\maps\campaign_01_01\text\eng\briefings\0017.hlt
+ 8DB9379       7D data\maps\campaign_01_01\text\eng\briefings\0026.hlt
+ 913DF23       7F data\maps\campaign_01_02\text\eng\briefings\0007.hlt
+ 913E4C4       9C data\maps\campaign_01_02\text\eng\briefings\0016.hlt
+ 913E98D       7E data\maps\campaign_01_02\text\eng\briefings\0025.hlt
+ 913EE16       84 data\maps\campaign_01_02\text\eng\briefings\0034.hlt
+ 986B50D       9C data\maps\campaign_01_03\text\eng\briefings\0006.hlt
+ 986BA9C       82 data\maps\campaign_01_03\text\eng\briefings\0015.hlt
+ 986BFC5       86 data\maps\campaign_01_03\text\eng\briefings\0024.hlt
+ 9E30F89       81 data\maps\campaign_01_04\text\eng\briefings\0005.hlt
+ 9E313EF       A6 data\maps\campaign_01_04\text\eng\briefings\0014.hlt
+ A4BC062       9D data\maps\campaign_01_05\text\eng\briefings\0004.hlt
+ A4BC63B       A0 data\maps\campaign_01_05\text\eng\briefings\0013.hlt
+ A4BCB91       7E data\maps\campaign_01_05\text\eng\briefings\0022.hlt
+ A97A40F       86 data\maps\campaign_01_06\text\eng\briefings\0003.hlt
+ A97A9DD       7E data\maps\campaign_01_06\text\eng\briefings\0012.hlt
+ ADBCA65       87 data\maps\campaign_01_07\text\eng\briefings\0002.hlt
+ ADBCF8C       7D data\maps\campaign_01_07\text\eng\briefings\0011.hlt
+ B2D4CA7       A2 data\maps\campaign_01_08\text\eng\briefings\0001.hlt
+ B2D5267       B9 data\maps\campaign_01_08\text\eng\briefings\0010.hlt
+ B6A40C0      177 data\maps\campaign_01_09\text\eng\briefings\0000.hlt
+ BA0C336       81 data\maps\campaign_01_10\text\eng\briefings\0008.hlt
+ BA0C856       9A data\maps\campaign_01_10\text\eng\briefings\0017.hlt
+  2705B0     1472 data\edit\macromaps\water000.cif
+ 7B23AF6     B54A data\engine2d\bin\sounds\static\hammer05.wav
+ 8DB895F      165 data\maps\campaign_01_01\text\eng\briefings\0009.hlt
+ 8DB8F32       9D data\maps\campaign_01_01\text\eng\briefings\0018.hlt
+ 8DB93F6       7D data\maps\campaign_01_01\text\eng\briefings\0027.hlt
+ 913DFA2       84 data\maps\campaign_01_02\text\eng\briefings\0008.hlt
+ 913E560       87 data\maps\campaign_01_02\text\eng\briefings\0017.hlt
+ 913EA0B       7F data\maps\campaign_01_02\text\eng\briefings\0026.hlt
+ 913EE9A       84 data\maps\campaign_01_02\text\eng\briefings\0035.hlt
+ 986B5A9      10F data\maps\campaign_01_03\text\eng\briefings\0007.hlt
+ 986BB1E       7F data\maps\campaign_01_03\text\eng\briefings\0016.hlt
+ 986C04B       80 data\maps\campaign_01_03\text\eng\briefings\0025.hlt
+ 9E3100A       82 data\maps\campaign_01_04\text\eng\briefings\0006.hlt
+ 9E31495       7F data\maps\campaign_01_04\text\eng\briefings\0015.hlt
+ A4BC0FF      133 data\maps\campaign_01_05\text\eng\briefings\0005.hlt
+ A4BC6DB       9D data\maps\campaign_01_05\text\eng\briefings\0014.hlt
+ A97A495       9D data\maps\campaign_01_06\text\eng\briefings\0004.hlt
+ A97AA5B       A7 data\maps\campaign_01_06\text\eng\briefings\0013.hlt
+ ADBCAEC       A5 data\maps\campaign_01_07\text\eng\briefings\0003.hlt
+ ADBD009       9F data\maps\campaign_01_07\text\eng\briefings\0012.hlt
+ B2D4D49       A7 data\maps\campaign_01_08\text\eng\briefings\0002.hlt
+ B2D5320      10E data\maps\campaign_01_08\text\eng\briefings\0011.hlt
+ B2D5865       9A data\maps\campaign_01_08\text\eng\briefings\0020.hlt
+ B6A4237       81 data\maps\campaign_01_09\text\eng\briefings\0001.hlt
+ B6A46C3       88 data\maps\campaign_01_09\text\eng\briefings\0010.hlt
+ BA0C3B7       7F data\maps\campaign_01_10\text\eng\briefings\0009.hlt
+ BA0C8F0       9B data\maps\campaign_01_10\text\eng\briefings\0018.hlt
+ 5EC70F3      386 data\engine2d\bin\palettes\landscapes\alphagrass01.pcx
+ 7B2F040     38E6 data\engine2d\bin\sounds\static\hammer06.wav
+ 8DB8FCF       7C data\maps\campaign_01_01\text\eng\briefings\0019.hlt
+ 8DB9473       7D data\maps\campaign_01_01\text\eng\briefings\0028.hlt
+ 913E026       85 data\maps\campaign_01_02\text\eng\briefings\0009.hlt
+ 913E5E7       82 data\maps\campaign_01_02\text\eng\briefings\0018.hlt
+ 913EA8A       83 data\maps\campaign_01_02\text\eng\briefings\0027.hlt
+ 913EF1E       7F data\maps\campaign_01_02\text\eng\briefings\0036.hlt
+ 986B6B8       86 data\maps\campaign_01_03\text\eng\briefings\0008.hlt
+ 986BB9D       A8 data\maps\campaign_01_03\text\eng\briefings\0017.hlt
+ 986C0CB       86 data\maps\campaign_01_03\text\eng\briefings\0026.hlt
+ 9E3108C       82 data\maps\campaign_01_04\text\eng\briefings\0007.hlt
+ 9E31514       7E data\maps\campaign_01_04\text\eng\briefings\0016.hlt
+ A4BC232       7B data\maps\campaign_01_05\text\eng\briefings\0006.hlt
+ A4BC778       A1 data\maps\campaign_01_05\text\eng\briefings\0015.hlt
+ A97A532       A5 data\maps\campaign_01_06\text\eng\briefings\0005.hlt
+ ADBCB91       8B data\maps\campaign_01_07\text\eng\briefings\0004.hlt
+ ADBD0A8       82 data\maps\campaign_01_07\text\eng\briefings\0013.hlt
+ B2D4DF0       9D data\maps\campaign_01_08\text\eng\briefings\0003.hlt
+ B2D542E       7F data\maps\campaign_01_08\text\eng\briefings\0012.hlt
+ B2D58FF       9B data\maps\campaign_01_08\text\eng\briefings\0021.hlt
+ B6A42B8       7C data\maps\campaign_01_09\text\eng\briefings\0002.hlt
+ B6A474B       86 data\maps\campaign_01_09\text\eng\briefings\0011.hlt
+ BA0C98B       9B data\maps\campaign_01_10\text\eng\briefings\0019.hlt
+ 7981D5E     3F74 data\engine2d\bin\sounds\static\arrow_hit_dirt.wav
+ 7B32926     4ED8 data\engine2d\bin\sounds\static\hammer07.wav
+ 8DB94F0       7D data\maps\campaign_01_01\text\eng\briefings\0029.hlt
+ 913E669       80 data\maps\campaign_01_02\text\eng\briefings\0019.hlt
+ 913EB0D       81 data\maps\campaign_01_02\text\eng\briefings\0028.hlt
+ 913EF9D       7D data\maps\campaign_01_02\text\eng\briefings\0037.hlt
+ 986B73E       9D data\maps\campaign_01_03\text\eng\briefings\0009.hlt
+ 986BC45       AC data\maps\campaign_01_03\text\eng\briefings\0018.hlt
+ 986C151       87 data\maps\campaign_01_03\text\eng\briefings\0027.hlt
+ 9E3110E       88 data\maps\campaign_01_04\text\eng\briefings\0008.hlt
+ 9E31592       7C data\maps\campaign_01_04\text\eng\briefings\0017.hlt
+ A4BC2AD       82 data\maps\campaign_01_05\text\eng\briefings\0007.hlt
+ A4BC819       84 data\maps\campaign_01_05\text\eng\briefings\0016.hlt
+ A97A5D7       A2 data\maps\campaign_01_06\text\eng\briefings\0006.hlt
+ ADBCC1C       EC data\maps\campaign_01_07\text\eng\briefings\0005.hlt
+ ADBD12A       7A data\maps\campaign_01_07\text\eng\briefings\0014.hlt
+ B2D4E8D       9E data\maps\campaign_01_08\text\eng\briefings\0004.hlt
+ B2D54AD       7A data\maps\campaign_01_08\text\eng\briefings\0013.hlt
+ B2D599A       9B data\maps\campaign_01_08\text\eng\briefings\0022.hlt
+ B6A4334       7F data\maps\campaign_01_09\text\eng\briefings\0003.hlt
+ B6A47D1       EA data\maps\campaign_01_09\text\eng\briefings\0012.hlt
+ 5ED1D71      385 data\engine2d\bin\palettes\landscapes\swamp01.pcx
+ 6BBEF1A     5F10 data\engine2d\bin\sounds\generic\human_laugh c 01.wav
+ 7B377FE     4448 data\engine2d\bin\sounds\static\hammer08.wav
+ 913EB8E       80 data\maps\campaign_01_02\text\eng\briefings\0029.hlt
+ 913F01A       80 data\maps\campaign_01_02\text\eng\briefings\0038.hlt
+ 986BCF1       A8 data\maps\campaign_01_03\text\eng\briefings\0019.hlt
+ 986C1D8       9D data\maps\campaign_01_03\text\eng\briefings\0028.hlt
+ 9E31196       9C data\maps\campaign_01_04\text\eng\briefings\0009.hlt
+ 9E3160E       7C data\maps\campaign_01_04\text\eng\briefings\0018.hlt
+ A4BC32F       7F data\maps\campaign_01_05\text\eng\briefings\0008.hlt
+ A4BC89D       A5 data\maps\campaign_01_05\text\eng\briefings\0017.hlt
+ A97A679      116 data\maps\campaign_01_06\text\eng\briefings\0007.hlt
+ ADBCD08       7D data\maps\campaign_01_07\text\eng\briefings\0006.hlt
+ ADBD1A4       8C data\maps\campaign_01_07\text\eng\briefings\0015.hlt
+ B2D4F2B       A8 data\maps\campaign_01_08\text\eng\briefings\0005.hlt
+ B2D5527       9B data\maps\campaign_01_08\text\eng\briefings\0014.hlt
+ B2D5A35       9B data\maps\campaign_01_08\text\eng\briefings\0023.hlt
+ B6A43B3       82 data\maps\campaign_01_09\text\eng\briefings\0004.hlt
+ B6A48BB       81 data\maps\campaign_01_09\text\eng\briefings\0013.hlt
+ D0E9FEE     3AEB data\maps\multiplayer_007_millitär\text\eng\briefings\fonts\font10.fnt
+ D8FAFC6     3847 data\maps\singleplayer_01_01\text\eng\briefings\fonts\font_10.fnt
+ E3DD94D     3847 data\maps\singleplayer_01_10\text\eng\briefings\fonts\font_10.fnt
+ 5ED20F6      385 data\engine2d\bin\palettes\landscapes\swamp02.pcx
+ 6BC4E2A     3FB0 data\engine2d\bin\sounds\generic\human_laugh c 02.wav
+ 7B3BC46      B3C data\engine2d\bin\sounds\static\hammer09.wav
+ 913F09A       7E data\maps\campaign_01_02\text\eng\briefings\0039.hlt
+ 986C275       85 data\maps\campaign_01_03\text\eng\briefings\0029.hlt
+ 9E3168A       7C data\maps\campaign_01_04\text\eng\briefings\0019.hlt
+ A4BC3AE       A1 data\maps\campaign_01_05\text\eng\briefings\0009.hlt
+ A4BC942       A8 data\maps\campaign_01_05\text\eng\briefings\0018.hlt
+ A97A78F       A9 data\maps\campaign_01_06\text\eng\briefings\0008.hlt
+ ADBCD85       81 data\maps\campaign_01_07\text\eng\briefings\0007.hlt
+ ADBD230       90 data\maps\campaign_01_07\text\eng\briefings\0016.hlt
+ B2D4FD3       AD data\maps\campaign_01_08\text\eng\briefings\0006.hlt
+ B2D55C2       7A data\maps\campaign_01_08\text\eng\briefings\0015.hlt
+ B2D5AD0       9B data\maps\campaign_01_08\text\eng\briefings\0024.hlt
+ B6A4435       81 data\maps\campaign_01_09\text\eng\briefings\0005.hlt
+ B6A493C       82 data\maps\campaign_01_09\text\eng\briefings\0014.hlt
+  26F340      50E data\edit\macromaps\swamp000.cif
+ 6BC8DDA     72E8 data\engine2d\bin\sounds\generic\human_laugh c 03.wav
+ A4BC9EA       A5 data\maps\campaign_01_05\text\eng\briefings\0019.hlt
+ A97A838       A2 data\maps\campaign_01_06\text\eng\briefings\0009.hlt
+ ADBCE06       82 data\maps\campaign_01_07\text\eng\briefings\0008.hlt
+ B2D5080       A2 data\maps\campaign_01_08\text\eng\briefings\0007.hlt
+ B2D563C       7A data\maps\campaign_01_08\text\eng\briefings\0016.hlt
+ B2D5B6B       7A data\maps\campaign_01_08\text\eng\briefings\0025.hlt
+ B6A44B6       7C data\maps\campaign_01_09\text\eng\briefings\0006.hlt
+ B6A49BE       7C data\maps\campaign_01_09\text\eng\briefings\0015.hlt
+ D0EDAD9     45B0 data\maps\multiplayer_007_millitär\text\eng\briefings\fonts\font12.fnt
+  26F84E      D62 data\edit\macromaps\swamp001.cif
+ 477898A     4DCA data\engine2d\bin\bobs\ls_houses_byzantine_s.bmd
+ 6BD00C2     35A4 data\engine2d\bin\sounds\generic\human_laugh c 04.wav
+ 6BDDC4E     8D34 data\engine2d\bin\sounds\generic\human_laugh f 01.wav
+ 7BB4B0E     4B18 data\engine2d\bin\sounds\static\magicalchest.wav
+ 8A276D6     3A37 data\logic\jobtypes.cif
+ ADBCE88       86 data\maps\campaign_01_07\text\eng\briefings\0009.hlt
+ B2D5122       A4 data\maps\campaign_01_08\text\eng\briefings\0008.hlt
+ B2D56B6       7A data\maps\campaign_01_08\text\eng\briefings\0017.hlt
+ B2D5BE5       7A data\maps\campaign_01_08\text\eng\briefings\0026.hlt
+ B6A4532       84 data\maps\campaign_01_09\text\eng\briefings\0007.hlt
+ DBFF202     3847 data\maps\singleplayer_01_04\text\eng\briefings\fonts\font_10.fnt
+ 6BD3666     38D4 data\engine2d\bin\sounds\generic\human_laugh c 05.wav
+ 6BE6982     7788 data\engine2d\bin\sounds\generic\human_laugh f 02.wav
+ B2D51C6       A1 data\maps\campaign_01_08\text\eng\briefings\0009.hlt
+ B2D5730       9A data\maps\campaign_01_08\text\eng\briefings\0018.hlt
+ B2D5C5F       7F data\maps\campaign_01_08\text\eng\briefings\0027.hlt
+ B6A45B6       88 data\maps\campaign_01_09\text\eng\briefings\0008.hlt
+ DD2DDF7     3847 data\maps\singleplayer_01_05\text\eng\briefings\fonts\font_10.fnt
+ 5EBA14C      385 data\engine2d\bin\palettes\creatures\cattle01.pcx
+ 6B2E15A     2684 data\engine2d\bin\sounds\generic\human_burp01.wav
+ 6B4D296     84A0 data\engine2d\bin\sounds\generic\human_cough c 01.wav
+ 6BD6F3A     2404 data\engine2d\bin\sounds\generic\human_laugh c 06.wav
+ 6BEE10A     553C data\engine2d\bin\sounds\generic\human_laugh f 03.wav
+ 798A6E6     5604 data\engine2d\bin\sounds\static\arrow_hit_wood.wav
+ 8D392D0    1041E data\maps\campaign_01_01\text\eng\briefings\graphics\01_01.pcx
+ 8DB9769     3231 data\maps\campaign_01_01\text\eng\briefings\briefings.txt
+ B2D57CA       9B data\maps\campaign_01_08\text\eng\briefings\0019.hlt
+ B6A463E       85 data\maps\campaign_01_09\text\eng\briefings\0009.hlt
+ B98255D    16CB6 data\maps\campaign_01_10\text\eng\briefings\graphics\10_01.pcx
+ BA0CB41     241A data\maps\campaign_01_10\text\eng\briefings\briefings.txt
+ DECBC8C     3847 data\maps\singleplayer_01_06\text\eng\briefings\fonts\font_10.fnt
+ 6B307DE     1074 data\engine2d\bin\sounds\generic\human_burp02.wav
+ 6B55736     6D00 data\engine2d\bin\sounds\generic\human_cough c 02.wav
+ 6BD933E     4910 data\engine2d\bin\sounds\generic\human_laugh c 07.wav
+ 6BF3646     A438 data\engine2d\bin\sounds\generic\human_laugh f 04.wav
+ 8D496EE    12C5B data\maps\campaign_01_01\text\eng\briefings\graphics\01_02.pcx
+ 913F2B6     3E8E data\maps\campaign_01_02\text\eng\briefings\briefings.txt
+ B999213    16A91 data\maps\campaign_01_10\text\eng\briefings\graphics\10_02.pcx
+ BDAE459      BDE data\maps\campaign_01_11\text\eng\briefings\briefings.txt
+ E01049D     3847 data\maps\singleplayer_01_07\text\eng\briefings\fonts\font_10.fnt
+ 6B5C436     641C data\engine2d\bin\sounds\generic\human_cough c 03.wav
+ 6BFDA7E     53A4 data\engine2d\bin\sounds\generic\human_laugh f 05.wav
+ 90B0F66    17FD3 data\maps\campaign_01_02\text\eng\briefings\graphics\02_01.pcx
+ 986C39F     3D71 data\maps\campaign_01_03\text\eng\briefings\briefings.txt
+ BC0991F     4233 data\maps\campaign_01_10-sub\map.cif
+ CF9E979      287 data\maps\multiplayer_005_special_cap-the-flag\text\eng\strings.cif
+ E155AD3     3847 data\maps\singleplayer_01_08\text\eng\briefings\fonts\font_10.fnt
+ 5EB9A1E       24 data\engine2d\bin\bobs\ve_test_ship_s.bmd
+ 5EC1571      385 data\engine2d\bin\palettes\creatures\special.pcx
+ 6B62852     4F3C data\engine2d\bin\sounds\generic\human_cough c 04.wav
+ 6B6778E     6FD4 data\engine2d\bin\sounds\generic\human_cough f 01.wav
+ 90C8F39    18ACD data\maps\campaign_01_02\text\eng\briefings\graphics\02_02.pcx
+ 9498B2D     3121 data\maps\campaign_01_02-sub\map.cif
+ 9E31890     1DA2 data\maps\campaign_01_04\text\eng\briefings\briefings.txt
+ E2819A4     3847 data\maps\singleplayer_01_09\text\eng\briefings\fonts\font_10.fnt
+ 5EC62DF      385 data\engine2d\bin\palettes\goods\goods_wheat.pcx
+ 6B6E762     3CB8 data\engine2d\bin\sounds\generic\human_cough f 02.wav
+ 7955296    2B39C data\engine2d\bin\sounds\jingles\jingles_technology.wav
+ 97ED01C    12603 data\maps\campaign_01_03\text\eng\briefings\graphics\03_01.pcx
+ A4BCC0F     27C1 data\maps\campaign_01_05\text\eng\briefings\briefings.txt
+ 6B7241A     67DC data\engine2d\bin\sounds\generic\human_cough f 03.wav
+ 6C02E22     6B64 data\engine2d\bin\sounds\generic\human_laugh m 01.wav
+ 84FCAAC    188A4 data\engine2d\inis\soundfx\soundfx.cif
+ 97FF61F     F9E2 data\maps\campaign_01_03\text\eng\briefings\graphics\03_02.pcx
+ A1190A3     244C data\maps\campaign_01_04-sub\map.cif
+ A97AB02     1EF1 data\maps\campaign_01_06\text\eng\briefings\briefings.txt
+   333AD      E3D data\edit\macromaps\ice000.cif
+ 6B78BF6     5CF8 data\engine2d\bin\sounds\generic\human_cough f 04.wav
+ 6C09986     595C data\engine2d\bin\sounds\generic\human_laugh m 02.wav
+ 8259564     48FA data\engine2d\bin\textures\tran_meadow_megadark_a.pcx
+ 9DADCA2    12103 data\maps\campaign_01_04\text\eng\briefings\graphics\04_01.pcx
+ A6D2532     3D25 data\maps\campaign_01_05-sub\map.cif
+ ADBD2C0     1924 data\maps\campaign_01_07\text\eng\briefings\briefings.txt
+ 4D1192C     41C8 data\engine2d\bin\bobs\ls_houses_saracen_s.bmd
+ 6B7E8EE     7954 data\engine2d\bin\sounds\generic\human_cough f 05.wav
+ 6C0F2E2     7550 data\engine2d\bin\sounds\generic\human_laugh m 03.wav
+ 7DAA76A     9FA4 data\engine2d\bin\sounds\static\treefalling01.wav
+ 9DBFDA5    14D27 data\maps\campaign_01_04\text\eng\briefings\graphics\04_02.pcx
+ B2D5CDE     2A60 data\maps\campaign_01_08\text\eng\briefings\briefings.txt
+ 41C8D77       BA data\engine2d\bin\bobs\ls_guidepost_s.bmd
+ 6C16832     A5E8 data\engine2d\bin\sounds\generic\human_laugh m 04.wav
+ 7DB470E     B8C8 data\engine2d\bin\sounds\static\treefalling02.wav
+ A441CD4    13A59 data\maps\campaign_01_05\text\eng\briefings\graphics\05_01.pcx
+ B6A4A3A     1750 data\maps\campaign_01_09\text\eng\briefings\briefings.txt
+ 5ECC574      385 data\engine2d\bin\palettes\landscapes\hausmiller01.pcx
+ 7DBFFD6     C340 data\engine2d\bin\sounds\static\treefalling03.wav
+ A45572D     A582 data\maps\campaign_01_05\text\eng\briefings\graphics\05_02.pcx
+ BC0DB52    14D04 data\maps\campaign_01_10-sub\map.dat
+ 5DA4C75       91 data\engine2d\bin\bobs\test_snow.bmd
+ 5EC6D6E      385 data\engine2d\bin\palettes\gui\menu_funatics.pcx
+ 6B86242     7FBC data\engine2d\bin\sounds\generic\human_cough m 01.wav
+ 7BE391E     163C data\engine2d\bin\sounds\static\scythe01.wav
+ 949BC4E   1049D4 data\maps\campaign_01_02-sub\map.dat
+ A8F3E3C    12EE6 data\maps\campaign_01_06\text\eng\briefings\graphics\06_01.pcx
+  118B19    56AE6 data\edit\macromaps\shiva foodchain test.cif
+ 5ECE521      385 data\engine2d\bin\palettes\landscapes\ice_statues.pcx
+ 6B8E1FE     67C8 data\engine2d\bin\sounds\generic\human_cough m 02.wav
+ 7BE4F5A     1EEC data\engine2d\bin\sounds\static\scythe02.wav
+ 7C7ABAA     4700 data\engine2d\bin\sounds\static\shovel01.wav
+ A906D22    173A3 data\maps\campaign_01_06\text\eng\briefings\graphics\06_02.pcx
+ D377323     3AEB data\maps\multiplayer_007_special_coop\text\eng\briefings\fonts\font10.fnt
+ E78EFC4     2872 data\text\eng\strings\help\goodshelp.cif
+ 568DB91      F86 data\engine2d\bin\bobs\ls_skeletons_s.bmd
+ 6B949C6     6B00 data\engine2d\bin\sounds\generic\human_cough m 03.wav
+ 77F004A    318FC data\engine2d\bin\sounds\jingles\jingles_housebuilt.wav
+ 7BE6E46     12DC data\engine2d\bin\sounds\static\scythe03.wav
+ 7C7F2AA     3A20 data\engine2d\bin\sounds\static\shovel02.wav
+ 7D54B06    17F9C data\engine2d\bin\sounds\static\switch01.wav
+ A11B4EF    A897F data\maps\campaign_01_04-sub\map.dat
+ AD3F64D    154DC data\maps\campaign_01_07\text\eng\briefings\graphics\07_01.pcx
+ 5EC4DC1      385 data\engine2d\bin\palettes\goods\goods_shoes.pcx
+ 6B9B4C6     7148 data\engine2d\bin\sounds\generic\human_cough m 04.wav
+ 7BE8122     150C data\engine2d\bin\sounds\static\scythe04.wav
+ 7C82CCA     4DE0 data\engine2d\bin\sounds\static\shovel03.wav
+ 7D6CAA2     98B0 data\engine2d\bin\sounds\static\switch02.wav
+ 7DCC316     9E58 data\engine2d\bin\sounds\static\wateringcan01.wav
+ 82FE5B0      BFA data\engine2d\inis\goods\goodgraphics.cif
+ A6D6257    2EEBF data\maps\campaign_01_05-sub\map.dat
+ AD54B29     BC9B data\maps\campaign_01_07\text\eng\briefings\graphics\07_02.pcx
+ D37AE0E     45B0 data\maps\multiplayer_007_special_coop\text\eng\briefings\fonts\font12.fnt
+ 556BE18    80E79 data\engine2d\bin\bobs\ls_misc.bmd
+ 5EC5F5A      385 data\engine2d\bin\palettes\goods\goods_water.pcx
+ 8DBC99A      4CA data\maps\campaign_01_01\text\eng\strings.cif
+ B2533F7    1324B data\maps\campaign_01_08\text\eng\briefings\graphics\08_01.pcx
+ BA0EF5B      5B1 data\maps\campaign_01_10\text\eng\strings.cif
+ BBA2529     59E8 data\maps\campaign_01_10-sub\text\eng\briefings\fonts\fonthead16bld.fnt
+ 835A5A3     647B data\engine2d\inis\humans\jobgraphics.cif
+ 9143144      41D data\maps\campaign_01_02\text\eng\strings.cif
+ 94324D0     59E8 data\maps\campaign_01_02-sub\text\eng\briefings\fonts\fonthead16bld.fnt
+ B266642    12464 data\maps\campaign_01_08\text\eng\briefings\graphics\08_02.pcx
+ BDAF037      20E data\maps\campaign_01_11\text\eng\strings.cif
+ 5EBC803      385 data\engine2d\bin\palettes\creatures\player01.pcx
+ 5EBE7B0      385 data\engine2d\bin\palettes\creatures\player10.pcx
+ 7821946    2C73C data\engine2d\bin\sounds\jingles\jingles_marriage.wav
+ 9870110      6ED data\maps\campaign_01_03\text\eng\strings.cif
+ B614C2F     E32B data\maps\campaign_01_09\text\eng\briefings\graphics\09_01.pcx
+ E552F11     59E8 data\text\eng\hypertext\history\fonts\fonthead16bld.fnt
+ 5EBCB88      385 data\engine2d\bin\palettes\creatures\player02.pcx
+ 9E33632      35A data\maps\campaign_01_04\text\eng\strings.cif
+ A0B2D47     59E8 data\maps\campaign_01_04-sub\text\eng\briefings\fonts\fonthead16bld.fnt
+ B622F5A    250E0 data\maps\campaign_01_09\text\eng\briefings\graphics\09_02.pcx
+ E52714B      38F data\text\eng\hypertext\credits\graphics\abstand.pcx
+ 4F49717   235B0C data\engine2d\bin\bobs\ls_houses_viking2.bmd
+ 5CE9026    19D3E data\engine2d\bin\bobs\ls_wall.bmd
+ 5EBCF0D      385 data\engine2d\bin\palettes\creatures\player03.pcx
+ 84C5118      2E6 data\engine2d\inis\particel\generator.cif
+ 89D9E27      385 data\gui\palettes\bar_hitpoints.pcx
+ A4BF3D0      3BC data\maps\campaign_01_05\text\eng\strings.cif
+ A66C65B     59E8 data\maps\campaign_01_05-sub\text\eng\briefings\fonts\fonthead16bld.fnt
+ 5184162   12689E data\engine2d\bin\bobs\ls_houses_viking3.bmd
+ 5EBD292      385 data\engine2d\bin\palettes\creatures\player04.pcx
+ 5EC3199      385 data\engine2d\bin\palettes\goods\goods_flour.pcx
+ A97C9F3      2C8 data\maps\campaign_01_06\text\eng\strings.cif
+ 52AD1BB   277860 data\engine2d\bin\bobs\ls_houses_viking4.bmd
+ 5EBD617      385 data\engine2d\bin\palettes\creatures\player05.pcx
+ 5EC5850      385 data\engine2d\bin\palettes\goods\goods_stone.pcx
+ 5ED0BD8      385 data\engine2d\bin\palettes\landscapes\ruins_frank.pcx
+ ADBEBE4      392 data\maps\campaign_01_07\text\eng\strings.cif
+ 5EBD99C      385 data\engine2d\bin\palettes\creatures\player06.pcx
+ 69D34FA     3818 data\engine2d\bin\sounds\generic\animals_camel01.wav
+ B2D873E      40A data\maps\campaign_01_08\text\eng\strings.cif
+ 5DA4D06     72B9 data\engine2d\bin\bobs\test_timehouse.bmd
+ 5EBDD21      385 data\engine2d\bin\palettes\creatures\player07.pcx
+ 69D6D12     3128 data\engine2d\bin\sounds\generic\animals_camel02.wav
+ 82BB381     CF55 data\engine2d\bin\textures\tran_swamp_a.pcx
+ 8D732E5    1697D data\maps\campaign_01_01\text\eng\briefings\graphics\people_dead_f.pcx
+ B6A618A      137 data\maps\campaign_01_09\text\eng\strings.cif
+ B6AE35C     59E8 data\maps\campaign_01_09-sub\text\eng\briefings\fonts\fonthead16bld.fnt
+ B9C6C40    1697D data\maps\campaign_01_10\text\eng\briefings\graphics\people_dead_f.pcx
+ 5EBE0A6      385 data\engine2d\bin\palettes\creatures\player08.pcx
+ 5ED247B      385 data\engine2d\bin\palettes\landscapes\system.pcx
+ 69D9E3A     4174 data\engine2d\bin\sounds\generic\animals_camel03.wav
+ 79D9492     3278 data\engine2d\bin\sounds\static\carpenter_hammer01.wav
+ 8A2EE49      6F5 data\logic\trianglepatterntypes.cif
+ 90F89A2    1697D data\maps\campaign_01_02\text\eng\briefings\graphics\people_dead_f.pcx
+ BD68F3C    1697D data\maps\campaign_01_11\text\eng\briefings\graphics\people_dead_f.pcx
+ 57FD783    253BE data\engine2d\bin\bobs\ls_temp.bmd
+ 5EBE42B      385 data\engine2d\bin\palettes\creatures\player09.pcx
+ 5EC9426      389 data\engine2d\bin\palettes\landscapes\fire.pcx
+ 5ECA94C      385 data\engine2d\bin\palettes\landscapes\gold.pcx
+ 7BD258A    11394 data\engine2d\bin\sounds\static\potter01.wav
+ 9825F9D    1697D data\maps\campaign_01_03\text\eng\briefings\graphics\people_dead_f.pcx
+ BBF79A8     FE36 data\maps\campaign_01_10-sub\text\eng\briefings\palettes\pal_white.bmp
+ E739166     59E8 data\text\eng\hypertext\ingamehelp\fonts\fonthead16bld.fnt
+ 410E598      12C data\engine2d\bin\bobs\ls_font.bmd
+ 5EC18F6      385 data\engine2d\bin\palettes\creatures\test_human_00.pcx
+ 948794F     FE36 data\maps\campaign_01_02-sub\text\eng\briefings\palettes\pal_white.bmp
+ 9DEBA68    1697D data\maps\campaign_01_04\text\eng\briefings\graphics\people_dead_f.pcx
+ 5EC5BD5      385 data\engine2d\bin\palettes\goods\goods_sword.pcx
+ 89DB345      388 data\gui\palettes\campaignmap.pcx
+ A476C4B    1697D data\maps\campaign_01_05\text\eng\briefings\graphics\people_dead_f.pcx
+   41904      E3D data\edit\macromaps\mud000.cif
+ 41210D4    17C23 data\engine2d\bin\bobs\ls_gathering.bmd
+ 5EC828D      385 data\engine2d\bin\palettes\landscapes\clay.pcx
+ A1081C6     FE36 data\maps\campaign_01_04-sub\text\eng\briefings\palettes\pal_white.bmp
+ A935061    1697D data\maps\campaign_01_06\text\eng\briefings\graphics\people_dead_f.pcx
+ C288BA9     9F06 data\maps\multiplayer_001_ressourcen\map.cif
+   42741     2481 data\edit\macromaps\mud001.cif
+ 5EC69E9      385 data\engine2d\bin\palettes\gui\gui_bubbles.pcx
+ A6C1ADA     FE36 data\maps\campaign_01_05-sub\text\eng\briefings\palettes\pal_white.bmp
+ AD77760    1697D data\maps\campaign_01_07\text\eng\briefings\graphics\people_dead_f.pcx
+ C6A7409     4A2E data\maps\multiplayer_002_ressourcen\map.cif
+ 5EC5146      385 data\engine2d\bin\palettes\goods\goods_spear_iron.pcx
+ B28FA42    1697D data\maps\campaign_01_08\text\eng\briefings\graphics\people_dead_f.pcx
+ C951B73     6DB6 data\maps\multiplayer_003_ressourcen\map.cif
+ D129A25      10D data\maps\multiplayer_007_millitär\text\eng\briefings\0000.hlt
+ 78B5E1E    6F75C data\engine2d\bin\sounds\jingles\jingles_missionwon.wav
+ B65EFD6    1697D data\maps\campaign_01_09\text\eng\briefings\graphics\people_dead_f.pcx
+ CB75331     412C data\maps\multiplayer_004_ressourcen\map.cif
+ 6557FFE    7A93C data\engine2d\bin\sounds\ambient\meadow1.wav
+ 7E18362     815C data\engine2d\bin\sounds\static\wolveattack01.wav
+ 822D88B     2B92 data\engine2d\bin\textures\tran_ice_a.pcx
+ 83680BB      E04 data\engine2d\inis\humans\sounds.cif
+ 859FCD1     3369 data\gui\fonts\fontdebug.fnt
+ BBD9071    1E937 data\maps\campaign_01_10-sub\text\eng\briefings\palettes\font_dark.pcx
+ CE1D8E6     5E7F data\maps\multiplayer_005_ressourcen\map.cif
+ 65D293A    A5C1C data\engine2d\bin\sounds\ambient\meadow2.wav
+ 7E204BE     8EC8 data\engine2d\bin\sounds\static\wolveattack02.wav
+ 9469018    1E937 data\maps\campaign_01_02-sub\text\eng\briefings\palettes\font_dark.pcx
+ B6D5EC2     FE36 data\maps\campaign_01_09-sub\text\eng\briefings\palettes\pal_white.bmp
+ CF6C602     3847 data\maps\multiplayer_005_special_cap-the-flag\text\eng\briefings\fonts\font_10.fnt
+ 55F02C9      336 data\engine2d\bin\bobs\ls_mushrooms_s.bmd
+ 7E3F2BB    12705 data\engine2d\bin\textures\overlay_road.pcx
+ D270986     6FD7 data\maps\multiplayer_007_ressourcen\map.cif
+ E6EB58C    1E937 data\text\eng\hypertext\history\palettes\font_dark.pcx
+ 89DBDD8      386 data\gui\palettes\font_dimmed.pcx
+ A0E988F    1E937 data\maps\campaign_01_04-sub\text\eng\briefings\palettes\font_dark.pcx
+ C292AAF   2B3879 data\maps\multiplayer_001_ressourcen\map.dat
+ D62C5A7     7207 data\maps\multiplayer_008_ressourcen\map.cif
+ E522A7F     46CC data\text\eng\hypertext\credits\fonts\font10.fnt
+ 5EC1C7B      385 data\engine2d\bin\palettes\creatures\wolves01.pcx
+ A6A31A3    1E937 data\maps\campaign_01_05-sub\text\eng\briefings\palettes\font_dark.pcx
+ C6ABE37    CBA11 data\maps\multiplayer_002_ressourcen\map.dat
+ 4101269     53CB data\engine2d\bin\bobs\ls_dungeon_s.bmd
+ 5569F46     1ED2 data\engine2d\bin\bobs\ls_meadows_s.bmd
+ 5ECEC2B      385 data\engine2d\bin\palettes\landscapes\lion.pcx
+ C958929   13DD77 data\maps\multiplayer_003_ressourcen\map.dat
+   34E04      3ED data\edit\macromaps\macromap000.cif
+ 5603493     163A data\engine2d\bin\bobs\ls_ruin_byzantine_s.bmd
+ 6A9D722     CAD8 data\engine2d\bin\sounds\generic\animals_snake01.wav
+ 82FF1AA    5B3F9 data\engine2d\inis\houses\houses.cif
+ CB7945D    46132 data\maps\multiplayer_004_ressourcen\map.dat
+ 6AAA1FA     8AD8 data\engine2d\bin\sounds\generic\animals_snake02.wav
+ CE23765   132DB3 data\maps\multiplayer_005_ressourcen\map.dat
+ 422401B     33ED data\engine2d\bin\bobs\ls_harbour_s.bmd
+ 6AB2CD2    149E4 data\engine2d\bin\sounds\generic\animals_snake03.wav
+ B6B758B    1E937 data\maps\campaign_01_09-sub\text\eng\briefings\palettes\font_dark.pcx
+ C250C3D     59E8 data\maps\multiplayer_001_ressourcen\text\eng\briefings\fonts\fonthead16bld.fnt
+ E78EDC1      116 data\text\eng\strings\gameobjects\vehicletasks.cif
+ 6A80B32     437C data\engine2d\bin\sounds\generic\animals_sheep01.wav
+ 6AC76B6     6048 data\engine2d\bin\sounds\generic\animals_snake04.wav
+ 7072B56     28A0 data\engine2d\bin\sounds\humantalk\f1ok01.wav
+ 731DF92    109F8 data\engine2d\bin\sounds\humantalk\talk_f01.wav
+ 73C811E    17B08 data\engine2d\bin\sounds\humantalk\talk_f10.wav
+ C23E83E     A364 data\maps\multiplayer_001_ressourcen\minimap\minimap.pcx
+ C66F581     59E8 data\maps\multiplayer_002_ressourcen\text\eng\briefings\fonts\fonthead16bld.fnt
+ D27795D    F4A5B data\maps\multiplayer_007_ressourcen\map.dat
+ 624764A    99CFC data\engine2d\bin\sounds\ambient\desert1.wav
+ 6A84EAE     5AB0 data\engine2d\bin\sounds\generic\animals_sheep02.wav
+ 6ACD6FE     6744 data\engine2d\bin\sounds\generic\animals_snake05.wav
+ 6C980A2     1258 data\engine2d\bin\sounds\gui\chat_incoming.wav
+ 6C992FA      470 data\engine2d\bin\sounds\gui\click_confirm.wav
+ 70753F6     4978 data\engine2d\bin\sounds\humantalk\f1ok02.wav
+ 7091E36     35BC data\engine2d\bin\sounds\humantalk\f2ok01.wav
+ 732E98A     B554 data\engine2d\bin\sounds\humantalk\talk_f02.wav
+ 73DFC26    15C9C data\engine2d\bin\sounds\humantalk\talk_f11.wav
+ 7460492    20A00 data\engine2d\bin\sounds\humantalk\talk_f20.wav
+ C65EBAC     893A data\maps\multiplayer_002_ressourcen\minimap\minimap.pcx
+ C919BFC     59E8 data\maps\multiplayer_003_ressourcen\text\eng\briefings\fonts\fonthead16bld.fnt
+ D6337AE    DDE04 data\maps\multiplayer_008_ressourcen\map.dat
+ E7467CB    1E937 data\text\eng\hypertext\ingamehelp\palettes\font_dark.pcx
+ 5ECE8A6      385 data\engine2d\bin\palettes\landscapes\iron.pcx
+ 61ED0A8     67C4 data\engine2d\bin\sounds\ambient\bird_wingflap01.wav
+ 62E1346    98DDC data\engine2d\bin\sounds\ambient\desert2.wav
+ 6A8A95E     6754 data\engine2d\bin\sounds\generic\animals_sheep03.wav
+ 6AD3E42     C934 data\engine2d\bin\sounds\generic\animals_snake06.wav
+ 7079D6E     4E08 data\engine2d\bin\sounds\humantalk\f1ok03.wav
+ 70953F2     4564 data\engine2d\bin\sounds\humantalk\f2ok02.wav
+ 70B25D6     1EB4 data\engine2d\bin\sounds\humantalk\f3ok01.wav
+ 7339EDE     9D9C data\engine2d\bin\sounds\humantalk\talk_f03.wav
+ 73F58C2    193E4 data\engine2d\bin\sounds\humantalk\talk_f12.wav
+ 7480E92     B028 data\engine2d\bin\sounds\humantalk\talk_f21.wav
+ 750529E    24AA4 data\engine2d\bin\sounds\humantalk\talk_f30.wav
+ C906F0F     AC52 data\maps\multiplayer_003_ressourcen\minimap\minimap.pcx
+ CB3D382     59E8 data\maps\multiplayer_004_ressourcen\text\eng\briefings\fonts\fonthead16bld.fnt
+ 61F386C     8624 data\engine2d\bin\sounds\ambient\bird_wingflap02.wav
+ 637A122    987F4 data\engine2d\bin\sounds\ambient\desert3.wav
+ 6A910B2     C670 data\engine2d\bin\sounds\generic\animals_sheep04.wav
+ 6AE0776     C174 data\engine2d\bin\sounds\generic\animals_snake07.wav
+ 7060CE2     3BCC data\engine2d\bin\sounds\humantalk\f1no01.wav
+ 7099956     525C data\engine2d\bin\sounds\humantalk\f2ok03.wav
+ 70B448A     54F4 data\engine2d\bin\sounds\humantalk\f3ok02.wav
+ 70D16DE     2DE0 data\engine2d\bin\sounds\humantalk\f4ok01.wav
+ 7343C7A    1C08C data\engine2d\bin\sounds\humantalk\talk_f04.wav
+ 740ECA6    12AD8 data\engine2d\bin\sounds\humantalk\talk_f13.wav
+ 748BEBA     8248 data\engine2d\bin\sounds\humantalk\talk_f22.wav
+ 7529D42     5FAC data\engine2d\bin\sounds\humantalk\talk_f31.wav
+ CB2AD4F     A598 data\maps\multiplayer_004_ressourcen\minimap\minimap.pcx
+ CDE5834     59E8 data\maps\multiplayer_005_ressourcen\text\eng\briefings\fonts\fonthead16bld.fnt
+ 4284155   2EEB6D data\engine2d\bin\bobs\ls_houses_byzantine.bmd
+ 61FBE90     6620 data\engine2d\bin\sounds\ambient\bird_wingflap03.wav
+ 6AEC8EA     6CF8 data\engine2d\bin\sounds\generic\animals_snake08.wav
+ 70648AE     4AE8 data\engine2d\bin\sounds\humantalk\f1no02.wav
+ 707EB76     4974 data\engine2d\bin\sounds\humantalk\f2no01.wav
+ 70B997E     54F4 data\engine2d\bin\sounds\humantalk\f3ok03.wav
+ 70D44BE     4F48 data\engine2d\bin\sounds\humantalk\f4ok02.wav
+ 70F3C6E     353C data\engine2d\bin\sounds\humantalk\f5ok01.wav
+ 735FD06    1024C data\engine2d\bin\sounds\humantalk\talk_f05.wav
+ 742177E    15CA8 data\engine2d\bin\sounds\humantalk\talk_f14.wav
+ 7494102     55EC data\engine2d\bin\sounds\humantalk\talk_f23.wav
+ 752FCEE    1A0F8 data\engine2d\bin\sounds\humantalk\talk_f32.wav
+ 8D35A89     3847 data\maps\campaign_01_01\text\eng\briefings\fonts\font_10.fnt
+ B97ED16     3847 data\maps\campaign_01_10\text\eng\briefings\fonts\font_10.fnt
+ CDD5132     8667 data\maps\multiplayer_005_ressourcen\minimap\minimap.pcx
+ 62024B0     4D0C data\engine2d\bin\sounds\ambient\bird_wingflap04.wav
+ 7069396     4564 data\engine2d\bin\sounds\humantalk\f1no03.wav
+ 70834EA     4D3C data\engine2d\bin\sounds\humantalk\f2no02.wav
+ 709EBB2     3970 data\engine2d\bin\sounds\humantalk\f3no01.wav
+ 70D9406     60E0 data\engine2d\bin\sounds\humantalk\f4ok03.wav
+ 70F71AA     54B8 data\engine2d\bin\sounds\humantalk\f5ok02.wav
+ 71151E2     3668 data\engine2d\bin\sounds\humantalk\f6ok01.wav
+ 736FF52     A674 data\engine2d\bin\sounds\humantalk\talk_f06.wav
+ 7437426     4D10 data\engine2d\bin\sounds\humantalk\talk_f15.wav
+ 74996EE    22F04 data\engine2d\bin\sounds\humantalk\talk_f24.wav
+ 7549DE6    1CF58 data\engine2d\bin\sounds\humantalk\talk_f33.wav
+ 90AD71F     3847 data\maps\campaign_01_02\text\eng\briefings\fonts\font_10.fnt
+ BD4E759     3847 data\maps\campaign_01_11\text\eng\briefings\fonts\font_10.fnt
+ CC09BB9     4407 data\maps\multiplayer_004_special_cap-the-cow\map.cif
+ D2389A7     59E8 data\maps\multiplayer_007_ressourcen\text\eng\briefings\fonts\fonthead16bld.fnt
+ D3B6D5A      10D data\maps\multiplayer_007_special_coop\text\eng\briefings\0000.hlt
+  5AEC2B    796E6 data\engine2d\bin\bobs\cr_ani_body_00_s.bmd
+ 5646ECE     39EE data\engine2d\bin\bobs\ls_ruin_saracen_s.bmd
+ 62071BC     576C data\engine2d\bin\sounds\ambient\bird_wingflap05.wav
+ 706D8FA     525C data\engine2d\bin\sounds\humantalk\f1no04.wav
+ 7088226     4E08 data\engine2d\bin\sounds\humantalk\f2no03.wav
+ 70A2522     4FF8 data\engine2d\bin\sounds\humantalk\f3no02.wav
+ 70BEE72     3318 data\engine2d\bin\sounds\humantalk\f4no01.wav
+ 70FC662     5A78 data\engine2d\bin\sounds\humantalk\f5ok03.wav
+ 711884A     576C data\engine2d\bin\sounds\humantalk\f6ok02.wav
+ 737A5C6    163E4 data\engine2d\bin\sounds\humantalk\talk_f07.wav
+ 743C136     7F50 data\engine2d\bin\sounds\humantalk\talk_f16.wav
+ 74BC5F2     A47C data\engine2d\bin\sounds\humantalk\talk_f25.wav
+ 7566D3E     A8B8 data\engine2d\bin\sounds\humantalk\talk_f34.wav
+ 7BE962E     8A84 data\engine2d\bin\sounds\static\ship01.wav
+ 7C6CDBA     1E1C data\engine2d\bin\sounds\static\ship10.wav
+ 97E97D5     3847 data\maps\campaign_01_03\text\eng\briefings\fonts\font_10.fnt
+ D129B32      27B data\maps\multiplayer_007_millitär\text\eng\briefings\briefings.txt
+ D2259A1     AF6B data\maps\multiplayer_007_ressourcen\minimap\minimap.pcx
+ D5F46DF     59E8 data\maps\multiplayer_008_ressourcen\text\eng\briefings\fonts\fonthead16bld.fnt
+  62DD79       24 data\engine2d\bin\bobs\cr_ani_body_01_s.bmd
+ 620C928     3D5C data\engine2d\bin\sounds\ambient\bird_wingflap06.wav
+ 708D02E     4E08 data\engine2d\bin\sounds\humantalk\f2no04.wav
+ 70A751A     5100 data\engine2d\bin\sounds\humantalk\f3no03.wav
+ 70C218A     54F4 data\engine2d\bin\sounds\humantalk\f4no02.wav
+ 70DF4E6     4B80 data\engine2d\bin\sounds\humantalk\f5no01.wav
+ 711DFB6     53C4 data\engine2d\bin\sounds\humantalk\f6ok03.wav
+ 71ACB36     3338 data\engine2d\bin\sounds\humantalk\m1ok01.wav
+ 73909AA    24224 data\engine2d\bin\sounds\humantalk\talk_f08.wav
+ 7444086     9AC0 data\engine2d\bin\sounds\humantalk\talk_f17.wav
+ 74C6A6E    10710 data\engine2d\bin\sounds\humantalk\talk_f26.wav
+ 75715F6    10BDC data\engine2d\bin\sounds\humantalk\talk_m01.wav
+ 761C682     BDD8 data\engine2d\bin\sounds\humantalk\talk_m10.wav
+ 7BF20B2     F9CC data\engine2d\bin\sounds\static\ship02.wav
+ 7C6EBD6     5D94 data\engine2d\bin\sounds\static\ship11.wav
+ 9DAA45B     3847 data\maps\campaign_01_04\text\eng\briefings\fonts\font_10.fnt
+ D5E2336     A30E data\maps\multiplayer_008_ressourcen\minimap\minimap.pcx
+ 4774508     4482 data\engine2d\bin\bobs\ls_houses_byzantine2_s.bmd
+ 70AC61A     5FBC data\engine2d\bin\sounds\humantalk\f3no04.wav
+ 70C767E     5520 data\engine2d\bin\sounds\humantalk\f4no03.wav
+ 70E4066     5484 data\engine2d\bin\sounds\humantalk\f5no02.wav
+ 71020DA     4550 data\engine2d\bin\sounds\humantalk\f6no01.wav
+ 71AFE6E     2378 data\engine2d\bin\sounds\humantalk\m1ok02.wav
+ 71D52F6     28F4 data\engine2d\bin\sounds\humantalk\m2ok01.wav
+ 73B4BCE    13550 data\engine2d\bin\sounds\humantalk\talk_f09.wav
+ 744DB46     A160 data\engine2d\bin\sounds\humantalk\talk_f18.wav
+ 74D717E    116A4 data\engine2d\bin\sounds\humantalk\talk_f27.wav
+ 75821D2     C1E4 data\engine2d\bin\sounds\humantalk\talk_m02.wav
+ 762845A     D24C data\engine2d\bin\sounds\humantalk\talk_m11.wav
+ 76DA9BE    1253C data\engine2d\bin\sounds\humantalk\talk_m20.wav
+ 7C01A7E     ECB0 data\engine2d\bin\sounds\static\ship03.wav
+ 7C7496A     3BFC data\engine2d\bin\sounds\static\ship12.wav
+ 82C82D6     EC24 data\engine2d\bin\textures\tran_water_bright.pcx
+ A43E48D     3847 data\maps\campaign_01_05\text\eng\briefings\fonts\font_10.fnt
+ 5DABFBF   10DA5F data\engine2d\bin\bobs\ve_test_ship.bmd
+ 70CCB9E     4B40 data\engine2d\bin\sounds\humantalk\f4no04.wav
+ 70E94EA     54F4 data\engine2d\bin\sounds\humantalk\f5no03.wav
+ 710662A     54F4 data\engine2d\bin\sounds\humantalk\f6no02.wav
+ 71B21E6     2368 data\engine2d\bin\sounds\humantalk\m1ok03.wav
+ 71D7BEA     4810 data\engine2d\bin\sounds\humantalk\m2ok02.wav
+ 7208E9A     4C24 data\engine2d\bin\sounds\humantalk\m3ok01.wav
+ 7457CA6     87EC data\engine2d\bin\sounds\humantalk\talk_f19.wav
+ 74E8822     83A4 data\engine2d\bin\sounds\humantalk\talk_f28.wav
+ 758E3B6    183E4 data\engine2d\bin\sounds\humantalk\talk_m03.wav
+ 76356A6    1069C data\engine2d\bin\sounds\humantalk\talk_m12.wav
+ 76ECEFA    26FBC data\engine2d\bin\sounds\humantalk\talk_m21.wav
+ 7B6CF5E     93E4 data\engine2d\bin\sounds\static\horn01.wav
+ 7C1072E     CA0C data\engine2d\bin\sounds\static\ship04.wav
+ A8F05F5     3847 data\maps\campaign_01_06\text\eng\briefings\fonts\font_10.fnt
+ C2787A3     FE36 data\maps\multiplayer_001_ressourcen\text\eng\briefings\palettes\pal_white.bmp
+ 5D9D385     1620 data\engine2d\bin\bobs\test_piles_s.bmd
+ 70EE9DE     5290 data\engine2d\bin\sounds\humantalk\f5no04.wav
+ 710BB1E     48BC data\engine2d\bin\sounds\humantalk\f6no03.wav
+ 7199782     2B74 data\engine2d\bin\sounds\humantalk\m1no01.wav
+ 71B454E     2740 data\engine2d\bin\sounds\humantalk\m1ok04.wav
+ 71DC3FA     34F4 data\engine2d\bin\sounds\humantalk\m2ok03.wav
+ 720DABE     5784 data\engine2d\bin\sounds\humantalk\m3ok02.wav
+ 724BCFA     6F38 data\engine2d\bin\sounds\humantalk\m4ok01.wav
+ 74F0BC6    146D8 data\engine2d\bin\sounds\humantalk\talk_f29.wav
+ 75A679A     EE00 data\engine2d\bin\sounds\humantalk\talk_m04.wav
+ 7645D42     F8C8 data\engine2d\bin\sounds\humantalk\talk_m13.wav
+ 7713EB6    2E980 data\engine2d\bin\sounds\humantalk\talk_m22.wav
+ 7C1D13A     F430 data\engine2d\bin\sounds\static\ship05.wav
+ AD3BE06     3847 data\maps\campaign_01_07\text\eng\briefings\fonts\font_10.fnt
+ C6970E7     FE36 data\maps\multiplayer_002_ressourcen\text\eng\briefings\palettes\pal_white.bmp
+ 5EC2385      385 data\engine2d\bin\palettes\goods\goods_bow.pcx
+ 71103DA     4E08 data\engine2d\bin\sounds\humantalk\f6no04.wav
+ 719C2F6     2978 data\engine2d\bin\sounds\humantalk\m1no02.wav
+ 71B6C8E     2A3C data\engine2d\bin\sounds\humantalk\m1ok05.wav
+ 71B96CA     1C58 data\engine2d\bin\sounds\humantalk\m2no01.wav
+ 71DF8EE     6124 data\engine2d\bin\sounds\humantalk\m2ok04.wav
+ 7213242     6084 data\engine2d\bin\sounds\humantalk\m3ok03.wav
+ 7252C32     22C0 data\engine2d\bin\sounds\humantalk\m4ok02.wav
+ 7290ECA     4BEC data\engine2d\bin\sounds\humantalk\m5ok01.wav
+ 75B559A     6540 data\engine2d\bin\sounds\humantalk\talk_m05.wav
+ 765560A    13958 data\engine2d\bin\sounds\humantalk\talk_m14.wav
+ 7C2C56A    17868 data\engine2d\bin\sounds\static\ship06.wav
+ 8368EBF    85E06 data\engine2d\inis\landscapes\landscapes.cif
+ B24FBB0     3847 data\maps\campaign_01_08\text\eng\briefings\fonts\font_10.fnt
+ C941762     FE36 data\maps\multiplayer_003_ressourcen\text\eng\briefings\palettes\pal_white.bmp
+ 719EC6E     54DC data\engine2d\bin\sounds\humantalk\m1no03.wav
+ 71BB322     4FE4 data\engine2d\bin\sounds\humantalk\m2no02.wav
+ 71E5A12     57D0 data\engine2d\bin\sounds\humantalk\m2ok05.wav
+ 71F4142     560C data\engine2d\bin\sounds\humantalk\m3no01.wav
+ 72192C6     28BC data\engine2d\bin\sounds\humantalk\m3ok04.wav
+ 7254EF2     50C0 data\engine2d\bin\sounds\humantalk\m4ok03.wav
+ 7295AB6     2C18 data\engine2d\bin\sounds\humantalk\m5ok02.wav
+ 72AE822     2B1C data\engine2d\bin\sounds\humantalk\m6ok01.wav
+ 75BBADA    30DEC data\engine2d\bin\sounds\humantalk\talk_m06.wav
+ 7668F62    18530 data\engine2d\bin\sounds\humantalk\talk_m15.wav
+ 7B9F272      980 data\engine2d\bin\sounds\static\kiss01.wav
+ 7C43DD2    1124C data\engine2d\bin\sounds\static\ship07.wav
+ 7C78566      C34 data\engine2d\bin\sounds\static\short_arrow01.wav
+ 82744BC     290D data\engine2d\bin\textures\tran_mud_a.pcx
+ B6113E8     3847 data\maps\campaign_01_09\text\eng\briefings\fonts\font_10.fnt
+ CB64EE8     FE36 data\maps\multiplayer_004_ressourcen\text\eng\briefings\palettes\pal_white.bmp
+ CC0DFC0    45EEE data\maps\multiplayer_004_special_cap-the-cow\map.dat
+ 4AB2019   25F913 data\engine2d\bin\bobs\ls_houses_saracen.bmd
+ 6412916    960D4 data\engine2d\bin\sounds\ambient\forest1.wav
+ 71A414A     53F4 data\engine2d\bin\sounds\humantalk\m1no04.wav
+ 71C0306     243C data\engine2d\bin\sounds\humantalk\m2no03.wav
+ 71EB1E2     2584 data\engine2d\bin\sounds\humantalk\m2ok06.wav
+ 71F974E     28F0 data\engine2d\bin\sounds\humantalk\m3no02.wav
+ 721BB82     20E0 data\engine2d\bin\sounds\humantalk\m3ok05.wav
+ 721DC62     31B0 data\engine2d\bin\sounds\humantalk\m4no01.wav
+ 7259FB2     6348 data\engine2d\bin\sounds\humantalk\m4ok04.wav
+ 72986CE     2A94 data\engine2d\bin\sounds\humantalk\m5ok03.wav
+ 72B133E     3A28 data\engine2d\bin\sounds\humantalk\m6ok02.wav
+ 72CD36E     3B1C data\engine2d\bin\sounds\humantalk\m7ok01.wav
+ 75EC8C6    1248C data\engine2d\bin\sounds\humantalk\talk_m07.wav
+ 7681492    14CD4 data\engine2d\bin\sounds\humantalk\talk_m16.wav
+ 7B9FBF2      718 data\engine2d\bin\sounds\static\kiss02.wav
+ 7C5501E     EBD4 data\engine2d\bin\sounds\static\ship08.wav
+ 8A1B4DE     2681 data\logic\animaltypes.cif
+ CE0D39A     FE36 data\maps\multiplayer_005_ressourcen\text\eng\briefings\palettes\pal_white.bmp
+ 41C5A9B     32DC data\engine2d\bin\bobs\ls_guidepost.bmd
+ 64A89EA    99E1C data\engine2d\bin\sounds\ambient\forest2.wav
+ 71A953E     35F8 data\engine2d\bin\sounds\humantalk\m1no05.wav
+ 71C2742     4D04 data\engine2d\bin\sounds\humantalk\m2no04.wav
+ 71ED766     20E0 data\engine2d\bin\sounds\humantalk\m2ok07.wav
+ 71FC03E     2510 data\engine2d\bin\sounds\humantalk\m3no03.wav
+ 7220E12     690C data\engine2d\bin\sounds\humantalk\m4no02.wav
+ 72602FA     2970 data\engine2d\bin\sounds\humantalk\m4ok05.wav
+ 726C80A     3080 data\engine2d\bin\sounds\humantalk\m5no01.wav
+ 72B4D66     54F4 data\engine2d\bin\sounds\humantalk\m6ok03.wav
+ 72D0E8A     46B8 data\engine2d\bin\sounds\humantalk\m7ok02.wav
+ 72EE7D2     2B8C data\engine2d\bin\sounds\humantalk\m8ok01.wav
+ 75FED52    12D30 data\engine2d\bin\sounds\humantalk\talk_m08.wav
+ 7696166    27B20 data\engine2d\bin\sounds\humantalk\talk_m17.wav
+ 7BA030A     3808 data\engine2d\bin\sounds\static\kiss03.wav
+ 7C63BF2     91C8 data\engine2d\bin\sounds\static\ship09.wav
+ C288B93       16 data\maps\multiplayer_001_ressourcen\autor.txt
+ E78EED7       ED data\text\eng\strings\gameobjects\vehicletypes.cif
+ 5EBEB35      385 data\engine2d\bin\palettes\creatures\ship01.pcx
+ 5EC0AE2      385 data\engine2d\bin\palettes\creatures\ship10.pcx
+ 5ED4428      385 data\engine2d\bin\palettes\landscapes\tree_yew01.pcx
+ 6A3B4C2     595C data\engine2d\bin\sounds\generic\animals_evilrabbit01.wav
+ 71C7446     5D80 data\engine2d\bin\sounds\humantalk\m2no05.wav
+ 71EF846     2110 data\engine2d\bin\sounds\humantalk\m2ok08.wav
+ 71FE54E     527C data\engine2d\bin\sounds\humantalk\m3no04.wav
+ 722771E     4A48 data\engine2d\bin\sounds\humantalk\m4no03.wav
+ 7262C6A     7E20 data\engine2d\bin\sounds\humantalk\m4ok06.wav
+ 726F88A     5BE8 data\engine2d\bin\sounds\humantalk\m5no02.wav
+ 729B162     39E4 data\engine2d\bin\sounds\humantalk\m6no01.wav
+ 72D5542     6BBC data\engine2d\bin\sounds\humantalk\m7ok03.wav
+ 72F135E     4BB4 data\engine2d\bin\sounds\humantalk\m8ok02.wav
+ 730F05A     4A3C data\engine2d\bin\sounds\humantalk\m9ok01.wav
+ 7611A82     AC00 data\engine2d\bin\sounds\humantalk\talk_m09.wav
+ 76BDC86     E23C data\engine2d\bin\sounds\humantalk\talk_m18.wav
+ C6A73F5       14 data\maps\multiplayer_002_ressourcen\autor.txt
+ D26050D     FE36 data\maps\multiplayer_007_ressourcen\text\eng\briefings\palettes\pal_white.bmp
+ 5EBEEBA      385 data\engine2d\bin\palettes\creatures\ship02.pcx
+ 71CD1C6     378C data\engine2d\bin\sounds\humantalk\m2no06.wav
+ 71F1956     27EC data\engine2d\bin\sounds\humantalk\m2ok09.wav
+ 72037CA     56D0 data\engine2d\bin\sounds\humantalk\m3no05.wav
+ 722C166     5614 data\engine2d\bin\sounds\humantalk\m4no04.wav
+ 726AA8A     1D80 data\engine2d\bin\sounds\humantalk\m4ok07.wav
+ 7275472     5208 data\engine2d\bin\sounds\humantalk\m5no03.wav
+ 729EB46     56AC data\engine2d\bin\sounds\humantalk\m6no02.wav
+ 72BA25A     3CC0 data\engine2d\bin\sounds\humantalk\m7no01.wav
+ 72F5F12     56AC data\engine2d\bin\sounds\humantalk\m8ok03.wav
+ 7313A96     5030 data\engine2d\bin\sounds\humantalk\m9ok02.wav
+ 76CBEC2     EAFC data\engine2d\bin\sounds\humantalk\talk_m19.wav
+ C259E6C    1E937 data\maps\multiplayer_001_ressourcen\text\eng\briefings\palettes\font_dark.pcx
+ C951B5C       17 data\maps\multiplayer_003_ressourcen\autor.txt
+ D61C245     FE36 data\maps\multiplayer_008_ressourcen\text\eng\briefings\palettes\pal_white.bmp
+ 3F6AD56    1CD9C data\engine2d\bin\bobs\cr_veh_body_00_s.bmd
+ 5D95EBD      3F9 data\engine2d\bin\bobs\test_house_s.bmd
+ 5EBF23F      385 data\engine2d\bin\palettes\creatures\ship03.pcx
+ 71D0952     49A4 data\engine2d\bin\sounds\humantalk\m2no07.wav
+ 723177A     54E0 data\engine2d\bin\sounds\humantalk\m4no05.wav
+ 727A67A     5E68 data\engine2d\bin\sounds\humantalk\m5no04.wav
+ 72A41F2     5330 data\engine2d\bin\sounds\humantalk\m6no03.wav
+ 72BDF1A     4E08 data\engine2d\bin\sounds\humantalk\m7no02.wav
+ 72DC0FE     3898 data\engine2d\bin\sounds\humantalk\m8no01.wav
+ 7318AC6     54CC data\engine2d\bin\sounds\humantalk\m9ok03.wav
+ 7D3A43E     5DA8 data\engine2d\bin\sounds\static\spear_hit01.wav
+ C6787B0    1E937 data\maps\multiplayer_002_ressourcen\text\eng\briefings\palettes\font_dark.pcx
+ CB7531A       17 data\maps\multiplayer_004_ressourcen\autor.txt
+ CBD1BC2     59E8 data\maps\multiplayer_004_special_cap-the-cow\text\eng\briefings\fonts\fonthead16bld.fnt
+ E731296     3920 data\text\eng\hypertext\ingamehelp\fonts\font10.fn_
+ 568892B     5266 data\engine2d\bin\bobs\ls_skeletons.bmd
+ 5EBF5C4      385 data\engine2d\bin\palettes\creatures\ship04.pcx
+ 7236C5A     68C4 data\engine2d\bin\sounds\humantalk\m4no06.wav
+ 72804E2     62AC data\engine2d\bin\sounds\humantalk\m5no05.wav
+ 72A9522     5300 data\engine2d\bin\sounds\humantalk\m6no04.wav
+ 72C2D22     5288 data\engine2d\bin\sounds\humantalk\m7no03.wav
+ 72DF996     54F4 data\engine2d\bin\sounds\humantalk\m8no02.wav
+ 72FB5BE     4114 data\engine2d\bin\sounds\humantalk\m9no01.wav
+ 7D401E6     16C4 data\engine2d\bin\sounds\static\spear_hit02.wav
+ C922E2B    1E937 data\maps\multiplayer_003_ressourcen\text\eng\briefings\palettes\font_dark.pcx
+ CBBF58F     A598 data\maps\multiplayer_004_special_cap-the-cow\minimap\minimap.pcx
+ CE1D8CF       17 data\maps\multiplayer_005_ressourcen\autor.txt
+ 5EBF949      385 data\engine2d\bin\palettes\creatures\ship05.pcx
+ 723D51E     51D0 data\engine2d\bin\sounds\humantalk\m4no07.wav
+ 728678E     5574 data\engine2d\bin\sounds\humantalk\m5no06.wav
+ 72C7FAA     53C4 data\engine2d\bin\sounds\humantalk\m7no04.wav
+ 72E4E8A     46B8 data\engine2d\bin\sounds\humantalk\m8no03.wav
+ 72FF6D2     5598 data\engine2d\bin\sounds\humantalk\m9no02.wav
+ 7D418AA     1D34 data\engine2d\bin\sounds\static\spear_hit03.wav
+ CB465B1    1E937 data\maps\multiplayer_004_ressourcen\text\eng\briefings\palettes\font_dark.pcx
+ 4AAD8C0     4759 data\engine2d\bin\bobs\ls_houses_frank_s.bmd
+ 5EBFCCE      385 data\engine2d\bin\palettes\creatures\ship06.pcx
+ 72426EE     4EA0 data\engine2d\bin\sounds\humantalk\m4no08.wav
+ 728BD02     51C8 data\engine2d\bin\sounds\humantalk\m5no07.wav
+ 72E9542     5290 data\engine2d\bin\sounds\humantalk\m8no04.wav
+ 7304C6A     4F84 data\engine2d\bin\sounds\humantalk\m9no03.wav
+ 7D435DE     4D38 data\engine2d\bin\sounds\static\spear_hit04.wav
+ CDEEA63    1E937 data\maps\multiplayer_005_ressourcen\text\eng\briefings\palettes\font_dark.pcx
+ D129DAD      1B7 data\maps\multiplayer_007_millitär\text\eng\strings.cif
+ D270975       11 data\maps\multiplayer_007_ressourcen\autor.txt
+ 57DF6CC     CA96 data\engine2d\bin\bobs\ls_statues_s.bmd
+ 5EC0053      385 data\engine2d\bin\palettes\creatures\ship07.pcx
+ 724758E     476C data\engine2d\bin\sounds\humantalk\m4no09.wav
+ 7309BEE     546C data\engine2d\bin\sounds\humantalk\m9no04.wav
+ 7D48316     5A68 data\engine2d\bin\sounds\static\spear_hit05.wav
+ E78538E      D80 data\text\eng\strings\gameobjects\goods.cif
+ 5EC03D8      385 data\engine2d\bin\palettes\creatures\ship08.pcx
+ D241BD6    1E937 data\maps\multiplayer_007_ressourcen\text\eng\briefings\palettes\font_dark.pcx
+ D3B6E67      216 data\maps\multiplayer_007_special_coop\text\eng\briefings\briefings.txt
+ 5EC075D      385 data\engine2d\bin\palettes\creatures\ship09.pcx
+ 8A256FE     1FD8 data\logic\humanjobexperiencetypes.cif
+ 8D5C349    16F9C data\maps\campaign_01_01\text\eng\briefings\graphics\hero_dead_f.pcx
+ B9AFCA4    16F9C data\maps\campaign_01_10\text\eng\briefings\graphics\hero_dead_f.pcx
+ D5FD90E    1E937 data\maps\multiplayer_008_ressourcen\text\eng\briefings\palettes\font_dark.pcx
+   3F089     287B data\edit\macromaps\mountain000.cif
+  A5CAA7    A4534 data\engine2d\bin\bobs\cr_hum_body_00_s.bmd
+ 90E1A06    16F9C data\maps\campaign_01_02\text\eng\briefings\graphics\hero_dead_f.pcx
+ BD51FA0    16F9C data\maps\campaign_01_11\text\eng\briefings\graphics\hero_dead_f.pcx
+  EAC83F    17394 data\engine2d\bin\bobs\cr_hum_body_10_s.bmd
+ 81D8E06     DDFD data\engine2d\bin\textures\tran_concrete_a.pcx
+ 89DCF77      385 data\gui\palettes\ingame_remap_01.pcx
+ 980F001    16F9C data\maps\campaign_01_03\text\eng\briefings\graphics\hero_dead_f.pcx
+  ED8898     5ED4 data\engine2d\bin\bobs\cr_hum_body_20_s.bmd
+ 5ED12E2      385 data\engine2d\bin\palettes\landscapes\shipwreck.pcx
+ 6C9A3E2     37E8 data\engine2d\bin\sounds\humantalk\arabian\a01.wav
+ 6CC52C2     4E98 data\engine2d\bin\sounds\humantalk\arabian\a10.wav
+ 89DD2FC      385 data\gui\palettes\ingame_remap_02.pcx
+ 9DD4ACC    16F9C data\maps\campaign_01_04\text\eng\briefings\graphics\hero_dead_f.pcx
+  EF96D3     417E data\engine2d\bin\bobs\cr_hum_body_21_s.bmd
+ 119F839    642C2 data\engine2d\bin\bobs\cr_hum_body_30_s.bmd
+ 6C9DBCA     3AB8 data\engine2d\bin\sounds\humantalk\arabian\a02.wav
+ 6CCA15A     4FDC data\engine2d\bin\sounds\humantalk\arabian\a11.wav
+ 6CF7C4E     7A70 data\engine2d\bin\sounds\humantalk\arabian\a20.wav
+ 89DA531      385 data\gui\palettes\bg_hilite.pcx
+ 89DD681      385 data\gui\palettes\ingame_remap_03.pcx
+ A45FCAF    16F9C data\maps\campaign_01_05\text\eng\briefings\graphics\hero_dead_f.pcx
+ CBF9728     FE36 data\maps\multiplayer_004_special_cap-the-cow\text\eng\briefings\palettes\pal_white.bmp
+  F10547     3778 data\engine2d\bin\bobs\cr_hum_body_22_s.bmd
+ 1623859    65016 data\engine2d\bin\bobs\cr_hum_body_40_s.bmd
+ 59FE87C      3E4 data\engine2d\bin\bobs\ls_trees_dead_s.bmd
+ 5ED04CE      385 data\engine2d\bin\palettes\landscapes\rockwater.pcx
+ 6CA1682     426C data\engine2d\bin\sounds\humantalk\arabian\a03.wav
+ 6CCF136     3B74 data\engine2d\bin\sounds\humantalk\arabian\a12.wav
+ 6CFF6BE     939C data\engine2d\bin\sounds\humantalk\arabian\a21.wav
+ 6D315BA     3D40 data\engine2d\bin\sounds\humantalk\arabian\a30.wav
+ A91E0C5    16F9C data\maps\campaign_01_06\text\eng\briefings\graphics\hero_dead_f.pcx
+ BB9A48E     3AEB data\maps\campaign_01_10-sub\text\eng\briefings\fonts\font10.fnt
+  DAB7B1    51C88 data\engine2d\bin\bobs\cr_hum_body_05_s.bmd
+ 1341E6D    311CC data\engine2d\bin\bobs\cr_hum_body_32_s.bmd
+ 1A81C73    670FC data\engine2d\bin\bobs\cr_hum_body_50_s.bmd
+ 6CA58EE     3F30 data\engine2d\bin\sounds\humantalk\arabian\a04.wav
+ 6CD2CAA     3E4C data\engine2d\bin\sounds\humantalk\arabian\a13.wav
+ 6D08A5A     6818 data\engine2d\bin\sounds\humantalk\arabian\a22.wav
+ 6D352FA     60AC data\engine2d\bin\sounds\humantalk\arabian\a31.wav
+ 6D5D53E     28CC data\engine2d\bin\sounds\humantalk\arabian\a40.wav
+ 7A4024A      128 data\engine2d\bin\sounds\static\dummy.wav
+ 942A435     3AEB data\maps\campaign_01_02-sub\text\eng\briefings\fonts\font10.fnt
+ AD607C4    16F9C data\maps\campaign_01_07\text\eng\briefings\graphics\hero_dead_f.pcx
+ 17ABE0B    2F35E data\engine2d\bin\bobs\cr_hum_body_42_s.bmd
+ 1BFDDCC    18DC0 data\engine2d\bin\bobs\cr_hum_body_60_s.bmd
+ 409A076     456D data\engine2d\bin\bobs\ls_caves_s.bmd
+ 5755808      E57 data\engine2d\bin\bobs\ls_snake_s.bmd
+ 6CA981E     5B78 data\engine2d\bin\sounds\humantalk\arabian\a05.wav
+ 6CD6AF6     4ABC data\engine2d\bin\sounds\humantalk\arabian\a14.wav
+ 6D0F272     836C data\engine2d\bin\sounds\humantalk\arabian\a23.wav
+ 6D3B3A6     6500 data\engine2d\bin\sounds\humantalk\arabian\a32.wav
+ 6D5FE0A     2A40 data\engine2d\bin\sounds\humantalk\arabian\a41.wav
+ 824B9BB     DBA9 data\engine2d\bin\textures\tran_meadow_megadark.pcx
+ B278AA6    16F9C data\maps\campaign_01_08\text\eng\briefings\graphics\hero_dead_f.pcx
+ BB9DF79     45B0 data\maps\campaign_01_10-sub\text\eng\briefings\fonts\font12.fnt
+ E54AE76     3AEB data\text\eng\hypertext\history\fonts\font10.fnt
+ 1B943BA    1E9E2 data\engine2d\bin\bobs\cr_hum_body_52_s.bmd
+ 1C70AD0    14D74 data\engine2d\bin\bobs\cr_hum_body_61_s.bmd
+ 1E9ADA7    292C2 data\engine2d\bin\bobs\cr_hum_body_70_s.bmd
+ 6CAF396     307C data\engine2d\bin\sounds\humantalk\arabian\a06.wav
+ 6CDB5B2     4D94 data\engine2d\bin\sounds\humantalk\arabian\a15.wav
+ 6D175DE     4148 data\engine2d\bin\sounds\humantalk\arabian\a24.wav
+ 6D418A6     5BBC data\engine2d\bin\sounds\humantalk\arabian\a33.wav
+ 942DF20     45B0 data\maps\campaign_01_02-sub\text\eng\briefings\fonts\font12.fnt
+ A0AACAC     3AEB data\maps\campaign_01_04-sub\text\eng\briefings\fonts\font10.fnt
+ B64803A    16F9C data\maps\campaign_01_09\text\eng\briefings\graphics\hero_dead_f.pcx
+ BF80ED0     9FBA data\maps\multiplayer_001_militär\map.cif
+ 1CE6D82    19C16 data\engine2d\bin\bobs\cr_hum_body_62_s.bmd
+ 4120286      E4E data\engine2d\bin\bobs\ls_gates_s.bmd
+ 6CB2412     330C data\engine2d\bin\sounds\humantalk\arabian\a07.wav
+ 6CE0346     4BC0 data\engine2d\bin\sounds\humantalk\arabian\a16.wav
+ 6D1B726     4C44 data\engine2d\bin\sounds\humantalk\arabian\a25.wav
+ 6D47462     515C data\engine2d\bin\sounds\humantalk\arabian\a34.wav
+ A6645C0     3AEB data\maps\campaign_01_05-sub\text\eng\briefings\fonts\font10.fnt
+ C58EB43     4658 data\maps\multiplayer_002_militär\map.cif
+ CC09BA2       17 data\maps\multiplayer_004_special_cap-the-cow\autor.txt
+ E54E961     45B0 data\text\eng\hypertext\history\fonts\font12.fnt
+ 1D60EDB    118C8 data\engine2d\bin\bobs\cr_hum_body_63_s.bmd
+ 6CB571E     6510 data\engine2d\bin\sounds\humantalk\arabian\a08.wav
+ 6CE4F06     4C24 data\engine2d\bin\sounds\humantalk\arabian\a17.wav
+ 6D2036A     3D44 data\engine2d\bin\sounds\humantalk\arabian\a26.wav
+ 6D4C5BE     410C data\engine2d\bin\sounds\humantalk\arabian\a35.wav
+ A0AE797     45B0 data\maps\campaign_01_04-sub\text\eng\briefings\fonts\font12.fnt
+ C7C232C     6E6C data\maps\multiplayer_003_militär\map.cif
+ 5ED0149      385 data\engine2d\bin\palettes\landscapes\rocksnow02.pcx
+ 5ED328F      385 data\engine2d\bin\palettes\landscapes\treesnow01.pcx
+ 6CBBC2E     9694 data\engine2d\bin\sounds\humantalk\arabian\a09.wav
+ 6CE9B2A     4C9C data\engine2d\bin\sounds\humantalk\arabian\a18.wav
+ 6D240AE     45D4 data\engine2d\bin\sounds\humantalk\arabian\a27.wav
+ 6D506CA     3B60 data\engine2d\bin\sounds\humantalk\arabian\a36.wav
+ 89DE110    19F11 data\logic\atomicanimations\atomicanimations.cif
+ A6680AB     45B0 data\maps\campaign_01_05-sub\text\eng\briefings\fonts\font12.fnt
+ CAE0B4B     41EA data\maps\multiplayer_004_militär\map.cif
+ CBDADF1    1E937 data\maps\multiplayer_004_special_cap-the-cow\text\eng\briefings\palettes\font_dark.pcx
+ 40A1B6B      45A data\engine2d\bin\bobs\ls_chest_s.bmd
+ 6CEE7C6     9488 data\engine2d\bin\sounds\humantalk\arabian\a19.wav
+ 6D28682     550C data\engine2d\bin\sounds\humantalk\arabian\a28.wav
+ 6D5422A     2BFC data\engine2d\bin\sounds\humantalk\arabian\a37.wav
+ CC9C54E     5E31 data\maps\multiplayer_005_militär\map.cif
+   9D427    54CDE data\edit\macromaps\shiva empty meadow.cif
+ 5EC8612      385 data\engine2d\bin\palettes\landscapes\debris01.pcx
+ 6D2DB8E     3A2C data\engine2d\bin\sounds\humantalk\arabian\a29.wav
+ 6D56E26     3794 data\engine2d\bin\sounds\humantalk\arabian\a38.wav
+ B6A62C1     3AEB data\maps\campaign_01_09-sub\text\eng\briefings\fonts\font10.fnt
+ D3B707D      212 data\maps\multiplayer_007_special_coop\text\eng\strings.cif
+ 5EC2E14      385 data\engine2d\bin\palettes\goods\goods_crockery.pcx
+ 6A21DFE     1C80 data\engine2d\bin\sounds\generic\animals_dog01.wav
+ 6D5A5BA     2F84 data\engine2d\bin\sounds\humantalk\arabian\a39.wav
+ 89DAC3B      385 data\gui\palettes\bg_normal.pcx
+ 8A3152B     CC77 data\logic\weapontypes.cif
+ E7990E2     1DEB data\text\eng\strings\ingamegui\ingameguimiscwindow.cif
+ 6A23A7E     1FBC data\engine2d\bin\sounds\generic\animals_dog02.wav
+ 7C87AAA    43604 data\engine2d\bin\sounds\static\snore m 01.wav
+ B6A9DAC     45B0 data\maps\campaign_01_09-sub\text\eng\briefings\fonts\font12.fnt
+ BF8AE8A   2B39B4 data\maps\multiplayer_001_militär\map.dat
+ D4FD276     72BC data\maps\multiplayer_008_militär\map.cif
+ E52A1DD      BFA data\text\eng\hypertext\credits\graphics\miles.pcx
+ E72D7AB     3AEB data\text\eng\hypertext\ingamehelp\fonts\font10.fnt
+ E786BC7     6CD1 data\text\eng\strings\gameobjects\humannames.cif
+ 55EF1CB     10FE data\engine2d\bin\bobs\ls_mushrooms.bmd
+ 6A25A3A     23D4 data\engine2d\bin\sounds\generic\animals_dog03.wav
+ 7CCB0AE    43F64 data\engine2d\bin\sounds\static\snore m 02.wav
+ 84BDEEB     1391 data\engine2d\inis\misc\misc.cif
+ C59319B    CBA11 data\maps\multiplayer_002_militär\map.dat
+ D75C598     986C data\maps\multiplayer_009_militär\map.cif
+ 416C18B     5D02 data\engine2d\bin\bobs\ls_goods_s.bmd
+ 6A27E0E     390C data\engine2d\bin\sounds\generic\animals_dog04.wav
+ 7D0F012    15A24 data\engine2d\bin\sounds\static\snore m 03.wav
+ C7C9198   13DD77 data\maps\multiplayer_003_militär\map.dat
+ E734BB6     45B0 data\text\eng\hypertext\ingamehelp\fonts\font12.fnt
+ 6542806     541C data\engine2d\bin\sounds\ambient\grass_01.wav
+ 6A2B71A     2AF4 data\engine2d\bin\sounds\generic\animals_dog05.wav
+ 7C7919A     1A10 data\engine2d\bin\sounds\static\short_bow01.wav
+ 7D24A36    15A08 data\engine2d\bin\sounds\static\snore m 04.wav
+ 8804E36    EA636 data\gui\lang\eng\pictures\loadscreen.bmp
+ CAE4D35    4601A data\maps\multiplayer_004_militär\map.dat
+ E79B283     11A2 data\text\eng\strings\mainmenu\mainmenu.cif
+   351F1      ECD data\edit\macromaps\meadow000.cif
+ 1EC4069   1B0188 data\engine2d\bin\bobs\cr_hum_head_00.bmd
+ 40A1FC5    5F2A4 data\engine2d\bin\bobs\ls_dungeon.bmd
+ 552CFA0    3CFA6 data\engine2d\bin\bobs\ls_meadows.bmd
+ 6547C22     9684 data\engine2d\bin\sounds\ambient\grass_02.wav
+ CCA237F   132DB3 data\maps\multiplayer_005_militär\map.dat
+   2867D      482 data\edit\macromaps\border000.cif
+   360BE     250F data\edit\macromaps\meadow001.cif
+ 20741F1   1885A6 data\engine2d\bin\bobs\cr_hum_head_01.bmd
+ 2C2D532    61DCD data\engine2d\bin\bobs\cr_hum_head_10.bmd
+ 55F05FF    12E94 data\engine2d\bin\bobs\ls_ruin_byzantine.bmd
+ 65512A6     6D58 data\engine2d\bin\sounds\ambient\grass_03.wav
+ BF49087     59E8 data\maps\multiplayer_001_militär\text\eng\briefings\fonts\fonthead16bld.fnt
+ 21FC797   16E9F3 data\engine2d\bin\bobs\cr_hum_head_02.bmd
+ 2DC1F92    12C7E data\engine2d\bin\bobs\cr_hum_head_20.bmd
+ 89DBA52      386 data\gui\palettes\font_dark.pcx
+ BF36C88     A364 data\maps\multiplayer_001_militär\minimap\minimap.pcx
+ C556CFD     59E8 data\maps\multiplayer_002_militär\text\eng\briefings\fonts\fonthead16bld.fnt
+ 236B18A   1298E7 data\engine2d\bin\bobs\cr_hum_head_03.bmd
+ 2DD4C10    19BB0 data\engine2d\bin\bobs\cr_hum_head_21.bmd
+ 2DEE7E4   101992 data\engine2d\bin\bobs\cr_hum_head_30.bmd
+ 41D546E    4EBAD data\engine2d\bin\bobs\ls_harbour.bmd
+ C546328     893A data\maps\multiplayer_002_militär\minimap\minimap.pcx
+ C78A535     59E8 data\maps\multiplayer_003_militär\text\eng\briefings\fonts\fonthead16bld.fnt
+ D504532    DDE04 data\maps\multiplayer_008_militär\map.dat
+ 2DEE7C0       24 data\engine2d\bin\bobs\cr_hum_head_22.bmd
+ 2EF0176    D55C9 data\engine2d\bin\bobs\cr_hum_head_31.bmd
+ 3131CAB   13378D data\engine2d\bin\bobs\cr_hum_head_40.bmd
+ 82AF969     BA18 data\engine2d\bin\textures\tran_swamp.pcx
+ C777848     AC52 data\maps\multiplayer_003_militär\minimap\minimap.pcx
+ CAA8CD3     59E8 data\maps\multiplayer_004_militär\text\eng\briefings\fonts\fonthead16bld.fnt
+ D765E04   17D3DB data\maps\multiplayer_009_militär\map.dat
+ 2494A71   20C2CC data\engine2d\bin\bobs\cr_hum_head_05.bmd
+ 3265438   12D5C1 data\engine2d\bin\bobs\cr_hum_head_41.bmd
+ 351DA0A   124A7C data\engine2d\bin\bobs\cr_hum_head_50.bmd
+ 59FEC60    25B76 data\engine2d\bin\bobs\ls_trees_s.bmd
+ CA966A0     A598 data\maps\multiplayer_004_militär\minimap\minimap.pcx
+ CC645B0     59E8 data\maps\multiplayer_005_militär\text\eng\briefings\fonts\fonthead16bld.fnt
+ 26A0D3D   18BCFA data\engine2d\bin\bobs\cr_hum_head_06.bmd
+ 2C8F2FF    74D76 data\engine2d\bin\bobs\cr_hum_head_15.bmd
+ 2FC573F    BF083 data\engine2d\bin\bobs\cr_hum_head_33.bmd
+ 33929F9    C43BF data\engine2d\bin\bobs\cr_hum_head_42.bmd
+ 3642486   122152 data\engine2d\bin\bobs\cr_hum_head_51.bmd
+ CC53EAE     8667 data\maps\multiplayer_005_militär\minimap\minimap.pcx
+ 282CA37   259A71 data\engine2d\bin\bobs\cr_hum_head_07.bmd
+ 2D04075    61C50 data\engine2d\bin\bobs\cr_hum_head_16.bmd
+ 30847C2    AD4E9 data\engine2d\bin\bobs\cr_hum_head_34.bmd
+ 3456DB8    C6C52 data\engine2d\bin\bobs\cr_hum_head_43.bmd
+ 5EC0E67      385 data\engine2d\bin\palettes\creatures\ship_house.pcx
+ 8266BA3     36A3 data\engine2d\bin\textures\tran_mountain_a.pcx
+ 2A864A8   1A708A data\engine2d\bin\bobs\cr_hum_head_08.bmd
+ 2D65CC5    5C2CD data\engine2d\bin\bobs\cr_hum_head_17.bmd
+ 37645D8    F753B data\engine2d\bin\bobs\cr_hum_head_53.bmd
+ 393D36D    884AD data\engine2d\bin\bobs\cr_hum_head_80.bmd
+ 66FE896     78FC data\engine2d\bin\sounds\ambient\stone_01.wav
+ 6742942     8F68 data\engine2d\bin\sounds\ambient\stone_10.wav
+ D0F7A71     3847 data\maps\multiplayer_007_millitär\text\eng\briefings\fonts\font_10.fnt
+ D4C542F     59E8 data\maps\multiplayer_008_militär\text\eng\briefings\fonts\fonthead16bld.fnt
+ D92D315     913C data\maps\singleplayer_01_01\map.cif
+ E410BA9     DB23 data\maps\singleplayer_01_10\map.cif
+ 385BB13    E185A data\engine2d\bin\bobs\cr_hum_head_54.bmd
+ 39C581A    8141F data\engine2d\bin\bobs\cr_hum_head_81.bmd
+ 3B4BD4A    CB8EE data\engine2d\bin\bobs\cr_hum_head_90.bmd
+ 6706192     6D58 data\engine2d\bin\sounds\ambient\stone_02.wav
+ 822009A     D7F1 data\engine2d\bin\textures\tran_ice.psd
+ D4B3086     A30E data\maps\multiplayer_008_militär\minimap\minimap.pcx
+ D7245E7     59E8 data\maps\multiplayer_009_militär\text\eng\briefings\fonts\fonthead16bld.fnt
+  277FD6   336C55 data\engine2d\bin\bobs\cr_ani_body_00.bmd
+ 3A46C39    86073 data\engine2d\bin\bobs\cr_hum_head_82.bmd
+ 3C17638    AC05C data\engine2d\bin\bobs\cr_hum_head_91.bmd
+ 561DB80    2934E data\engine2d\bin\bobs\ls_ruin_saracen.bmd
+ 5EC97AF      389 data\engine2d\bin\palettes\landscapes\fire_incense.pcx
+ 670CEEA     659C data\engine2d\bin\sounds\ambient\stone_03.wav
+ 89DA8B6      385 data\gui\palettes\bg_invert.pcx
+ D7115B2     AF9A data\maps\multiplayer_009_militär\minimap\minimap.pcx
+  628311     5A68 data\engine2d\bin\bobs\cr_ani_body_01.bmd
+ 3ACCCAC    7F09E data\engine2d\bin\bobs\cr_hum_head_83.bmd
+ 3CC3694    A9AEA data\engine2d\bin\bobs\cr_hum_head_92.bmd
+ 6713486     816C data\engine2d\bin\sounds\ambient\stone_04.wav
+ BF70BED     FE36 data\maps\multiplayer_001_militär\text\eng\briefings\palettes\pal_white.bmp
+ C248BA2     3AEB data\maps\multiplayer_001_ressourcen\text\eng\briefings\fonts\font10.fnt
+ DC31D2B     8F06 data\maps\singleplayer_01_04\map.cif
+ 3D6D17E    9595A data\engine2d\bin\bobs\cr_hum_head_93.bmd
+ 4572CC2   201846 data\engine2d\bin\bobs\ls_houses_byzantine2.bmd
+ 671B5F2     33FC data\engine2d\bin\sounds\ambient\stone_05.wav
+ 7DA05EE     2A64 data\engine2d\bin\sounds\static\sword short hit01.wav
+ C57E863     FE36 data\maps\multiplayer_002_militär\text\eng\briefings\palettes\pal_white.bmp
+ C6674E6     3AEB data\maps\multiplayer_002_ressourcen\text\eng\briefings\fonts\font10.fnt
+ DD60DDC     C328 data\maps\singleplayer_01_05\map.cif
+ 671E9EE     7F58 data\engine2d\bin\sounds\ambient\stone_06.wav
+ 7135EEE     2DCC data\engine2d\bin\sounds\humantalk\m10ok01.wav
+ 7DA3052     2B58 data\engine2d\bin\sounds\static\sword short hit02.wav
+ 7E39ACF     57EC data\engine2d\bin\textures\overlay_house_a.pcx
+ 8212504     DB96 data\engine2d\bin\textures\tran_ice.pcx
+ C24C68D     45B0 data\maps\multiplayer_001_ressourcen\text\eng\briefings\fonts\font12.fnt
+ C7B209B     FE36 data\maps\multiplayer_003_militär\text\eng\briefings\palettes\pal_white.bmp
+ C911B61     3AEB data\maps\multiplayer_003_ressourcen\text\eng\briefings\fonts\font10.fnt
+ DEFED53     60BF data\maps\singleplayer_01_06\map.cif
+ 5D962B6     70CF data\engine2d\bin\bobs\test_piles.bmd
+ 6726946     C110 data\engine2d\bin\sounds\ambient\stone_07.wav
+ 7138CBA     4454 data\engine2d\bin\sounds\humantalk\m10ok02.wav
+ 71532B6     1C68 data\engine2d\bin\sounds\humantalk\m11ok01.wav
+ 7DA5BAA     2828 data\engine2d\bin\sounds\static\sword short hit03.wav
+ C66AFD1     45B0 data\maps\multiplayer_002_ressourcen\text\eng\briefings\fonts\font12.fnt
+ CAD0839     FE36 data\maps\multiplayer_004_militär\text\eng\briefings\palettes\pal_white.bmp
+ CB352E7     3AEB data\maps\multiplayer_004_ressourcen\text\eng\briefings\fonts\font10.fnt
+ E0441C5     CD65 data\maps\singleplayer_01_07\map.cif
+ 6732A56     65CC data\engine2d\bin\sounds\ambient\stone_08.wav
+ 713D10E     553C data\engine2d\bin\sounds\humantalk\m10ok03.wav
+ 7154F1E     47C4 data\engine2d\bin\sounds\humantalk\m11ok02.wav
+ 71710BA     22EC data\engine2d\bin\sounds\humantalk\m12ok01.wav
+ 7DA83D2      D10 data\engine2d\bin\sounds\static\sword short hit04.wav
+ C91564C     45B0 data\maps\multiplayer_003_ressourcen\text\eng\briefings\fonts\font12.fnt
+ CC8C116     FE36 data\maps\multiplayer_005_militär\text\eng\briefings\palettes\pal_white.bmp
+ CDDD799     3AEB data\maps\multiplayer_005_ressourcen\text\eng\briefings\fonts\font10.fnt
+ D936451   2B46E7 data\maps\singleplayer_01_01\map.dat
+ E188900     62B0 data\maps\singleplayer_01_08\map.cif
+ E41E6CC   1043B3 data\maps\singleplayer_01_10\map.dat
+ E796F5C      CAF data\text\eng\strings\ingamegui\ingameguimessages.cif
+ 5D9EA36     623F data\engine2d\bin\bobs\test_smoke.bmd
+ 5EC8997      385 data\engine2d\bin\palettes\landscapes\dungeon.pcx
+ 5EC9B38      385 data\engine2d\bin\palettes\landscapes\flower01.pcx
+ 6739022     9920 data\engine2d\bin\sounds\ambient\stone_09.wav
+ 712337A     3B20 data\engine2d\bin\sounds\humantalk\m10no01.wav
+ 71596E2     5278 data\engine2d\bin\sounds\humantalk\m11ok03.wav
+ 71733A6     44B0 data\engine2d\bin\sounds\humantalk\m12ok02.wav
+ 718F0A6     1FB4 data\engine2d\bin\sounds\humantalk\m13ok01.wav
+ 7AAD70A     4724 data\engine2d\bin\sounds\static\fishing01.wav
+ 7B02F66     CE00 data\engine2d\bin\sounds\static\fishing10.wav
+ 7DA90E2     1688 data\engine2d\bin\sounds\static\sword short hit05.wav
+ BF80EBA       16 data\maps\multiplayer_001_militär\autor.txt
+ CB38DD2     45B0 data\maps\multiplayer_004_ressourcen\text\eng\briefings\fonts\font12.fnt
+ E2B4BDF     8A2F data\maps\singleplayer_01_09\map.cif
+ 561C0D7     1AA9 data\engine2d\bin\bobs\ls_ruin_frank_s.bmd
+ 5EC9EBD      385 data\engine2d\bin\palettes\landscapes\flower02.pcx
+ 674B8AA    B9B54 data\engine2d\bin\sounds\ambient\volcano.wav
+ 7126E9A     5198 data\engine2d\bin\sounds\humantalk\m10no02.wav
+ 714264A     2FE4 data\engine2d\bin\sounds\humantalk\m11no01.wav
+ 7177856     54E4 data\engine2d\bin\sounds\humantalk\m12ok03.wav
+ 719105A     3CE4 data\engine2d\bin\sounds\humantalk\m13ok02.wav
+ 7AB1E2E     2B80 data\engine2d\bin\sounds\static\fishing02.wav
+ 89DCBF2      385 data\gui\palettes\iconsleft.pcx
+ C58EB2F       14 data\maps\multiplayer_002_militär\autor.txt
+ CDE1284     45B0 data\maps\multiplayer_005_ressourcen\text\eng\briefings\fonts\font12.fnt
+ D23090C     3AEB data\maps\multiplayer_007_ressourcen\text\eng\briefings\fonts\font10.fnt
+ 57FC33B     1448 data\engine2d\bin\bobs\ls_stonehenge_s.bmd
+ 5EB9DC7      385 data\engine2d\bin\palettes\creatures\butterfly01.pcx
+ 5ECA242      385 data\engine2d\bin\palettes\landscapes\flower03.pcx
+ 712C032     4FF8 data\engine2d\bin\sounds\humantalk\m10no03.wav
+ 714562E     4C1C data\engine2d\bin\sounds\humantalk\m11no02.wav
+ 715E95A     3234 data\engine2d\bin\sounds\humantalk\m12no01.wav
+ 7194D3E     4A44 data\engine2d\bin\sounds\humantalk\m13ok03.wav
+ 7AB49AE     74AC data\engine2d\bin\sounds\static\fishing03.wav
+ BF522B6    1E937 data\maps\multiplayer_001_militär\text\eng\briefings\palettes\font_dark.pcx
+ C7C2315       17 data\maps\multiplayer_003_militär\autor.txt
+ D4ECF95     FE36 data\maps\multiplayer_008_militär\text\eng\briefings\palettes\pal_white.bmp
+ D5EC644     3AEB data\maps\multiplayer_008_ressourcen\text\eng\briefings\fonts\font10.fnt
+ DC3AC31    DEA59 data\maps\singleplayer_01_04\map.dat
+ 5ECA5C7      385 data\engine2d\bin\palettes\landscapes\flower04.pcx
+ 62472D8      372 data\engine2d\bin\sounds\ambient\c2 ambient loops.txt
+ 713102A     4EC4 data\engine2d\bin\sounds\humantalk\m10no04.wav
+ 714A24A     4AD0 data\engine2d\bin\sounds\humantalk\m11no03.wav
+ 7161B8E     4F58 data\engine2d\bin\sounds\humantalk\m12no02.wav
+ 717CD3A     349C data\engine2d\bin\sounds\humantalk\m13no01.wav
+ 7ABBE5A     4A68 data\engine2d\bin\sounds\static\fishing04.wav
+ 7B3C782     251C data\engine2d\bin\sounds\static\hit f 01.wav
+ C55FF2C    1E937 data\maps\multiplayer_002_militär\text\eng\briefings\palettes\font_dark.pcx
+ CAE0B34       17 data\maps\multiplayer_004_militär\autor.txt
+ D2343F7     45B0 data\maps\multiplayer_007_ressourcen\text\eng\briefings\fonts\font12.fnt
+ D74C14D     FE36 data\maps\multiplayer_009_militär\text\eng\briefings\palettes\pal_white.bmp
+ DD6D104   14A906 data\maps\singleplayer_01_05\map.dat
+ 714ED1A     459C data\engine2d\bin\sounds\humantalk\m11no04.wav
+ 7166AE6     4F18 data\engine2d\bin\sounds\humantalk\m12no03.wav
+ 71801D6     4A2C data\engine2d\bin\sounds\humantalk\m13no02.wav
+ 7AC08C2     FF48 data\engine2d\bin\sounds\static\fishing05.wav
+ 7B3EC9E     2D34 data\engine2d\bin\sounds\static\hit f 02.wav
+ 84C6DAC    2F905 data\engine2d\inis\patterns\pattern.cif
+ BC077DE      104 data\maps\campaign_01_10-sub\text\eng\briefings\0000.hlt
+ C793764    1E937 data\maps\multiplayer_003_militär\text\eng\briefings\palettes\font_dark.pcx
+ CC9C537       17 data\maps\multiplayer_005_militär\autor.txt
+ D5F012F     45B0 data\maps\multiplayer_008_ressourcen\text\eng\briefings\fonts\font12.fnt
+ D8F55DE     59E8 data\maps\singleplayer_01_01\text\eng\briefings\fonts\fonthead16bld.fnt
+ DF04E12    F8FC0 data\maps\singleplayer_01_06\map.dat
+ E3D7F65     59E8 data\maps\singleplayer_01_10\text\eng\briefings\fonts\fonthead16bld.fnt
+ 3E02AD8   16827E data\engine2d\bin\bobs\cr_veh_body_00.bmd
+ 5D67DFE    2E0BF data\engine2d\bin\bobs\test_house.bmd
+ 716B9FE     56BC data\engine2d\bin\sounds\humantalk\m12no04.wav
+ 7184C02     5280 data\engine2d\bin\sounds\humantalk\m13no03.wav
+ 79AAA2A     D15C data\engine2d\bin\sounds\static\butcher01.wav
+ 7AD080A    1754C data\engine2d\bin\sounds\static\fishing06.wav
+ 7B419D2     1EB4 data\engine2d\bin\sounds\static\hit f 03.wav
+ 9497785      104 data\maps\campaign_01_02-sub\text\eng\briefings\0000.hlt
+ BC078E2       7E data\maps\campaign_01_10-sub\text\eng\briefings\0001.hlt
+ BC07D4B       7E data\maps\campaign_01_10-sub\text\eng\briefings\0010.hlt
+ CAB1F02    1E937 data\maps\multiplayer_004_militär\text\eng\briefings\palettes\font_dark.pcx
+ D8E31DF     A364 data\maps\singleplayer_01_01\minimap\minimap.pcx
+ E050F2A    F03A9 data\maps\singleplayer_01_07\map.dat
+ E3C908A     A92B data\maps\singleplayer_01_10\minimap\minimap.pcx
+ E7287FA      239 data\text\eng\hypertext\history\campaign_01_00.hlt
+ 7189E82     5224 data\engine2d\bin\sounds\humantalk\m13no04.wav
+ 79B7B86     D80C data\engine2d\bin\sounds\static\butcher02.wav
+ 7AE7D56     A4E4 data\engine2d\bin\sounds\static\fishing07.wav
+ 7B43886     344C data\engine2d\bin\sounds\static\hit f 04.wav
+ 82FB208     250C data\engine2d\inis\animals\jobgraphics.cif
+ 89D9AA2      385 data\gui\palettes\bar_disabled.pcx
+ 9497889       7B data\maps\campaign_01_02-sub\text\eng\briefings\0001.hlt
+ BC07960       7B data\maps\campaign_01_10-sub\text\eng\briefings\0002.hlt
+ BC07DC9       7E data\maps\campaign_01_10-sub\text\eng\briefings\0011.hlt
+ CC6D7DF    1E937 data\maps\multiplayer_005_militär\text\eng\briefings\palettes\font_dark.pcx
+ E18EBB0    DE587 data\maps\singleplayer_01_08\map.dat
+ E728A33      239 data\text\eng\hypertext\history\campaign_01_01.hlt
+ E729BF9      23C data\text\eng\hypertext\history\campaign_01_10.hlt
+ 79C5392     6930 data\engine2d\bin\sounds\static\butcher03.wav
+ 7AF223A     6194 data\engine2d\bin\sounds\static\fishing08.wav
+ 7B46CD2     3320 data\engine2d\bin\sounds\static\hit f 05.wav
+ 9497904       82 data\maps\campaign_01_02-sub\text\eng\briefings\0002.hlt
+ A117FFC      10A data\maps\campaign_01_04-sub\text\eng\briefings\0000.hlt
+ BC079DB       81 data\maps\campaign_01_10-sub\text\eng\briefings\0003.hlt
+ BC07E47       7E data\maps\campaign_01_10-sub\text\eng\briefings\0012.hlt
+ DBF981A     59E8 data\maps\singleplayer_01_04\text\eng\briefings\fonts\fonthead16bld.fnt
+ E2BD60E   10BA7C data\maps\singleplayer_01_09\map.dat
+ E728C6C      239 data\text\eng\hypertext\history\campaign_01_02.hlt
+ E729E35      23C data\text\eng\hypertext\history\campaign_01_11.hlt
+ 477D754   33016C data\engine2d\bin\bobs\ls_houses_frank.bmd
+ 7985CD2     4A14 data\engine2d\bin\sounds\static\arrow_hit_water.wav
+ 79CBCC2     D7D0 data\engine2d\bin\sounds\static\butcher04.wav
+ 7AF83CE     AB98 data\engine2d\bin\sounds\static\fishing09.wav
+ 7B49FF2     2D4C data\engine2d\bin\sounds\static\hit f 06.wav
+ 9497986       85 data\maps\campaign_01_02-sub\text\eng\briefings\0003.hlt
+ A118106       86 data\maps\campaign_01_04-sub\text\eng\briefings\0001.hlt
+ A6D1910      106 data\maps\campaign_01_05-sub\text\eng\briefings\0000.hlt
+ BC07A5C       79 data\maps\campaign_01_10-sub\text\eng\briefings\0004.hlt
+ BC07EC5       7E data\maps\campaign_01_10-sub\text\eng\briefings\0013.hlt
+ D384DA6     3847 data\maps\multiplayer_007_special_coop\text\eng\briefings\fonts\font_10.fnt
+ DBEAB38     A732 data\maps\singleplayer_01_04\minimap\minimap.pcx
+ DD2840F     59E8 data\maps\singleplayer_01_05\text\eng\briefings\fonts\fonthead16bld.fnt
+ E728EA5      237 data\text\eng\hypertext\history\campaign_01_03.hlt
+ 575665F    8906D data\engine2d\bin\bobs\ls_statues.bmd
+ 7B4CD3E     2138 data\engine2d\bin\sounds\static\hit f 07.wav
+ 82396C7     41E5 data\engine2d\bin\textures\tran_meadow_a.pcx
+ 9497A0B       80 data\maps\campaign_01_02-sub\text\eng\briefings\0004.hlt
+ A11818C       81 data\maps\campaign_01_04-sub\text\eng\briefings\0002.hlt
+ A6D1A16       7E data\maps\campaign_01_05-sub\text\eng\briefings\0001.hlt
+ BC07AD5       79 data\maps\campaign_01_10-sub\text\eng\briefings\0005.hlt
+ BC07F43       7E data\maps\campaign_01_10-sub\text\eng\briefings\0014.hlt
+ D4CE65E    1E937 data\maps\multiplayer_008_militär\text\eng\briefings\palettes\font_dark.pcx
+ DD1968A     A7D5 data\maps\singleplayer_01_05\minimap\minimap.pcx
+ DEC62A4     59E8 data\maps\singleplayer_01_06\text\eng\briefings\fonts\fonthead16bld.fnt
+ E7290DC      239 data\text\eng\hypertext\history\campaign_01_04.hlt
+ 7B4EE76     6BF8 data\engine2d\bin\sounds\static\hit f 08.wav
+ 7B5986E     3220 data\engine2d\bin\sounds\static\hit m 01.wav
+ 7B6AD72      DE8 data\engine2d\bin\sounds\static\hit m 10.wav
+ 82470C1     48FA data\engine2d\bin\textures\tran_meadow_dark_a.pcx
+ 8A1DDC3     33D4 data\logic\goodtypes.cif
+ 9497A8B       80 data\maps\campaign_01_02-sub\text\eng\briefings\0005.hlt
+ A11820D       7F data\maps\campaign_01_04-sub\text\eng\briefings\0003.hlt
+ A6D1A94       81 data\maps\campaign_01_05-sub\text\eng\briefings\0002.hlt
+ BC07B4E       79 data\maps\campaign_01_10-sub\text\eng\briefings\0006.hlt
+ BC07FC1       7E data\maps\campaign_01_10-sub\text\eng\briefings\0015.hlt
+ D72D816    1E937 data\maps\multiplayer_009_militär\text\eng\briefings\palettes\font_dark.pcx
+ DEB7A0A     A2EA data\maps\singleplayer_01_06\minimap\minimap.pcx
+ E00AAB5     59E8 data\maps\singleplayer_01_07\text\eng\briefings\fonts\fonthead16bld.fnt
+ E729315      239 data\text\eng\hypertext\history\campaign_01_05.hlt
+ 7B55A6E     3E00 data\engine2d\bin\sounds\static\hit f 09.wav
+ 7B5CA8E     344C data\engine2d\bin\sounds\static\hit m 02.wav
+ 7B6BB5A     1404 data\engine2d\bin\sounds\static\hit m 11.wav
+ 8A3E1A2   14CBFC data\maps\campaign_01_01\sfx\eng\0001.wav
+ 9497B0B       83 data\maps\campaign_01_02-sub\text\eng\briefings\0006.hlt
+ A11828C       81 data\maps\campaign_01_04-sub\text\eng\briefings\0004.hlt
+ A6D1B15       7F data\maps\campaign_01_05-sub\text\eng\briefings\0003.hlt
+ BC07BC7       87 data\maps\campaign_01_10-sub\text\eng\briefings\0007.hlt
+ BC0803F       7E data\maps\campaign_01_10-sub\text\eng\briefings\0016.hlt
+ DFFDDD2     8733 data\maps\singleplayer_01_07\minimap\minimap.pcx
+ E1500EB     59E8 data\maps\singleplayer_01_08\text\eng\briefings\fonts\fonthead16bld.fnt
+ E72954E      239 data\text\eng\hypertext\history\campaign_01_06.hlt
+  62DD9D   42ED0A data\engine2d\bin\bobs\cr_hum_body_00.bmd
+ 5D5B908     16D5 data\engine2d\bin\bobs\test_arrow.bmd
+ 7B5FEDA     2240 data\engine2d\bin\sounds\static\hit m 03.wav
+ 8A2B10D     3D3C data\logic\landscapetypes.cif
+ 8B8AD9E   19D268 data\maps\campaign_01_01\sfx\eng\0002.wav
+ 9497B8E       7F data\maps\campaign_01_02-sub\text\eng\briefings\0007.hlt
+ A11830D       81 data\maps\campaign_01_04-sub\text\eng\briefings\0005.hlt
+ A6D1B94       7D data\maps\campaign_01_05-sub\text\eng\briefings\0004.hlt
+ B6E5CF8       7D data\maps\campaign_01_09-sub\text\eng\briefings\0000.hlt
+ B831A83   13F810 data\maps\campaign_01_10\sfx\eng\0020.wav
+ BC07C4E       7E data\maps\campaign_01_10-sub\text\eng\briefings\0008.hlt
+ BC080BD       9F data\maps\campaign_01_10-sub\text\eng\briefings\0017.hlt
+ E1412D3     A868 data\maps\singleplayer_01_08\minimap\minimap.pcx
+ E27BFBC     59E8 data\maps\singleplayer_01_09\text\eng\briefings\fonts\fonthead16bld.fnt
+ E729787      239 data\text\eng\hypertext\history\campaign_01_07.hlt
+  DFD439    AF406 data\engine2d\bin\bobs\cr_hum_body_10.bmd
+ 79939EE     9FAC data\engine2d\bin\sounds\static\baker_shovel01.wav
+ 7B6211A     1930 data\engine2d\bin\sounds\static\hit m 04.wav
+ 9497C0D       A5 data\maps\campaign_01_02-sub\text\eng\briefings\0008.hlt
+ A11838E       83 data\maps\campaign_01_04-sub\text\eng\briefings\0006.hlt
+ B6E5D75       7C data\maps\campaign_01_09-sub\text\eng\briefings\0001.hlt
+ BC07CCC       7F data\maps\campaign_01_10-sub\text\eng\briefings\0009.hlt
+ BC0815C       9F data\maps\campaign_01_10-sub\text\eng\briefings\0018.hlt
+ CBC9B27     3AEB data\maps\multiplayer_004_special_cap-the-cow\text\eng\briefings\fonts\font10.fnt
+ E26D137     A8D5 data\maps\singleplayer_01_09\minimap\minimap.pcx
+ E7299C0      239 data\text\eng\hypertext\history\campaign_01_08.hlt
+  EC3BD3    14CC5 data\engine2d\bin\bobs\cr_hum_body_20.bmd
+ 799D99A     6E0C data\engine2d\bin\sounds\static\baker_shovel02.wav
+ 7B63A4A     2A50 data\engine2d\bin\sounds\static\hit m 05.wav
+ 8F0B06C    8A048 data\maps\campaign_01_02\sfx\eng\0003.wav
+ A118411       7C data\maps\campaign_01_04-sub\text\eng\briefings\0007.hlt
+ B6E5DF1       7B data\maps\campaign_01_09-sub\text\eng\briefings\0002.hlt
+ BC081FB       A0 data\maps\campaign_01_10-sub\text\eng\briefings\0019.hlt
+ BC22856   11E480 data\maps\campaign_01_11\sfx\eng\0021.wav
+ D91D144     FE36 data\maps\singleplayer_01_01\text\eng\briefings\palettes\pal_white.bmp
+ E3FFACB     FE36 data\maps\singleplayer_01_10\text\eng\briefings\palettes\pal_white.bmp
+  EDE76C    1AF67 data\engine2d\bin\bobs\cr_hum_body_21.bmd
+  F13CBF   28BB7A data\engine2d\bin\bobs\cr_hum_body_30.bmd
+ 7B6649A      FF0 data\engine2d\bin\sounds\static\hit m 06.wav
+ 84F66B1     63FB data\engine2d\inis\patterntransitions\transitions.cif
+ 8F950B4   10ABE8 data\maps\campaign_01_02\sfx\eng\0004.wav
+ A11848D       82 data\maps\campaign_01_04-sub\text\eng\briefings\0008.hlt
+ A322A4A   10DFC0 data\maps\campaign_01_05\sfx\eng\0010.wav
+ B6E5E6C       81 data\maps\campaign_01_09-sub\text\eng\briefings\0003.hlt
+ CBCD612     45B0 data\maps\multiplayer_004_special_cap-the-cow\text\eng\briefings\fonts\font12.fnt
+  EFD851    12CF6 data\engine2d\bin\bobs\cr_hum_body_22.bmd
+ 1373039   2B0820 data\engine2d\bin\bobs\cr_hum_body_40.bmd
+ 59FD182     16FA data\engine2d\bin\bobs\ls_trees_dead.bmd
+ 7B6748A     1024 data\engine2d\bin\sounds\static\hit m 07.wav
+ B6E5EED       7C data\maps\campaign_01_09-sub\text\eng\briefings\0004.hlt
+  B00FDB   2AA7D6 data\engine2d\bin\bobs\cr_hum_body_05.bmd
+ 1203AFB   13E372 data\engine2d\bin\bobs\cr_hum_body_32.bmd
+ 17DB169   2A6B0A data\engine2d\bin\bobs\cr_hum_body_50.bmd
+ 5ECEFB0      385 data\engine2d\bin\palettes\landscapes\reed01.pcx
+ 7B684AE     1274 data\engine2d\bin\sounds\static\hit m 08.wav
+ 95A0622    A9DD0 data\maps\campaign_01_03\sfx\eng\0005.wav
+ A705116   113818 data\maps\campaign_01_06\sfx\eng\0011.wav
+ B6E5F69       7E data\maps\campaign_01_09-sub\text\eng\briefings\0005.hlt
+ DC21380     FE36 data\maps\singleplayer_01_04\text\eng\briefings\palettes\pal_white.bmp
+ 168886F   12359C data\engine2d\bin\bobs\cr_hum_body_42.bmd
+ 1BB2D9C    4B030 data\engine2d\bin\bobs\cr_hum_body_60.bmd
+ 3FFF606    9AA70 data\engine2d\bin\bobs\ls_caves.bmd
+ 57433AE    1245A data\engine2d\bin\bobs\ls_snake.bmd
+ 5ECF335      385 data\engine2d\bin\palettes\landscapes\reed02.pcx
+ 6C4B19A     2354 data\engine2d\bin\sounds\generic\human_sneeze c 01.wav
+ 7B69722     1650 data\engine2d\bin\sounds\static\hit m 09.wav
+ 826A246     A276 data\engine2d\bin\textures\tran_mud.pcx
+ 964A3F2   191960 data\maps\campaign_01_03\sfx\eng\0006.wav
+ A81892E    CA244 data\maps\campaign_01_06\sfx\eng\0012.wav
+ B6E5FE7       80 data\maps\campaign_01_09-sub\text\eng\briefings\0006.hlt
+ DD4FF75     FE36 data\maps\singleplayer_01_05\text\eng\briefings\palettes\pal_white.bmp
+   F2105    134DC data\edit\macromaps\shiva empty sand.cif
+ 1AE8D6F    AB64B data\engine2d\bin\bobs\cr_hum_body_52.bmd
+ 1C16B8C    59F44 data\engine2d\bin\bobs\cr_hum_body_61.bmd
+ 1D727A3   128604 data\engine2d\bin\bobs\cr_hum_body_70.bmd
+ 6C4D4EE     2E6C data\engine2d\bin\sounds\generic\human_sneeze c 02.wav
+ 7B0FD66     1188 data\engine2d\bin\sounds\static\fisthit01.wav
+ B6E6067       83 data\maps\campaign_01_09-sub\text\eng\briefings\0007.hlt
+ DEEDE0A     FE36 data\maps\singleplayer_01_06\text\eng\briefings\palettes\pal_white.bmp
+ 1C85844    6153E data\engine2d\bin\bobs\cr_hum_body_62.bmd
+ 410E6C4    11BC2 data\engine2d\bin\bobs\ls_gates.bmd
+ 6BA260E     A6C0 data\engine2d\bin\sounds\generic\human_crying c 01.wav
+ 7B10EEE     10C4 data\engine2d\bin\sounds\static\fisthit02.wav
+ 9C0A8B0    B75FC data\maps\campaign_01_04\sfx\eng\0007.wav
+ AAD3803    CC3DC data\maps\campaign_01_07\sfx\eng\0013.wav
+ B6E68DF   14B1A4 data\maps\campaign_01_10\sfx\eng\0019.wav
+ E03261B     FE36 data\maps\singleplayer_01_07\text\eng\briefings\palettes\pal_white.bmp
+ E795581      46A data\text\eng\strings\ingamegui\ingameguihumanlistwindow.cif
+ 1D00998    60543 data\engine2d\bin\bobs\cr_hum_body_63.bmd
+ 5683ECA     4A61 data\engine2d\bin\bobs\ls_shipwrecks_s.bmd
+ 6BACCCE     6EB8 data\engine2d\bin\sounds\generic\human_crying c 02.wav
+ 6C5035A     5C04 data\engine2d\bin\sounds\generic\human_sneeze f 01.wav
+ 7A02EEA    17FA8 data\engine2d\bin\sounds\static\catapult.wav
+ 7B11FB2     136C data\engine2d\bin\sounds\static\fisthit03.wav
+ 9CC1EAC    DAB2C data\maps\campaign_01_04\sfx\eng\0008.wav
+ AB9FBDF   18E7A4 data\maps\campaign_01_07\sfx\eng\0014.wav
+ BC0829B     1516 data\maps\campaign_01_10-sub\text\eng\briefings\briefings.txt
+ D8FE80D    1E937 data\maps\singleplayer_01_01\text\eng\briefings\palettes\font_dark.pcx
+ E177C51     FE36 data\maps\singleplayer_01_08\text\eng\briefings\palettes\pal_white.bmp
+ E3E1194    1E937 data\maps\singleplayer_01_10\text\eng\briefings\palettes\font_dark.pcx
+ 6C55F5E     3488 data\engine2d\bin\sounds\generic\human_sneeze f 02.wav
+ 7B1331E     1864 data\engine2d\bin\sounds\static\fisthit04.wav
+ 82FD714      E9C data\engine2d\inis\animals\sounds.cif
+ 9497CB2      CFE data\maps\campaign_01_02-sub\text\eng\briefings\briefings.txt
+ E2A3B22     FE36 data\maps\singleplayer_01_09\text\eng\briefings\palettes\pal_white.bmp
+   341EA      C1A data\edit\macromaps\lava000.cif
+ 409E5E3     3588 data\engine2d\bin\bobs\ls_chest.bmd
+ 4282A57     16FE data\engine2d\bin\bobs\ls_houses_beduines_s.bmd
+ 7A81A56    2BCB4 data\engine2d\bin\sounds\static\fireloop.wav
+ 7B14B82     1E04 data\engine2d\bin\sounds\static\fisthit05.wav
+ 8597055     46CC data\gui\fonts\font10.fnt
+ A1C3E6E   15EBDC data\maps\campaign_01_05\sfx\eng\0009.wav
+ AFD8FE9    D2944 data\maps\campaign_01_08\sfx\eng\0015.wav
+ A11850F      ABD data\maps\campaign_01_04-sub\text\eng\briefings\briefings.txt
+ B0AB92D   196800 data\maps\campaign_01_08\sfx\eng\0016.wav
+ DC02A49    1E937 data\maps\singleplayer_01_04\text\eng\briefings\palettes\font_dark.pcx
+ 859B721     45B0 data\gui\fonts\font12.fnt
+ A6D1C11      80E data\maps\campaign_01_05-sub\text\eng\briefings\briefings.txt
+ DD3163E    1E937 data\maps\singleplayer_01_05\text\eng\briefings\palettes\font_dark.pcx
+ B4D2819    B71FC data\maps\campaign_01_09\sfx\eng\0017.wav
+ DECF4D3    1E937 data\maps\singleplayer_01_06\text\eng\briefings\palettes\font_dark.pcx
+ E52B38F    1E937 data\text\eng\hypertext\credits\palettes\font_white.pcx
+ 4D26D73      869 data\engine2d\bin\bobs\ls_houses_vehicles_s.bmd
+ B589A15    79F50 data\maps\campaign_01_09\sfx\eng\0018.wav
+ E013CE4    1E937 data\maps\singleplayer_01_07\text\eng\briefings\palettes\font_dark.pcx
+ E6D0881    168D5 data\text\eng\hypertext\history\graphics\11-3c.pcx
+ 413B3C1    30DCA data\engine2d\bin\bobs\ls_goods.bmd
+ 5EC8D1C      385 data\engine2d\bin\palettes\landscapes\fern01.pcx
+ 6C593E6     4C70 data\engine2d\bin\sounds\generic\human_sneeze m 01.wav
+ E15931A    1E937 data\maps\singleplayer_01_08\text\eng\briefings\palettes\font_dark.pcx
+ E55C140    1CF23 data\text\eng\hypertext\history\graphics\00-3f.pcx
+ 5EC90A1      385 data\engine2d\bin\palettes\landscapes\fern02.pcx
+ 6C5E056     3F38 data\engine2d\bin\sounds\generic\human_sneeze m 02.wav
+ 84C69F5      3B7 data\engine2d\inis\particel\particeleffects.cif
+ B6E60EA      6C6 data\maps\campaign_01_09-sub\text\eng\briefings\briefings.txt
+ C2885D9      10D data\maps\multiplayer_001_ressourcen\text\eng\briefings\0000.hlt
+ CF9EC17     D6B9 data\maps\multiplayer_005_special_cap-the-flag\map.cif
+ E2851EB    1E937 data\maps\singleplayer_01_09\text\eng\briefings\palettes\font_dark.pcx
+ E579063    23D00 data\text\eng\hypertext\history\graphics\01-3f.pcx
+ E6B1EA2    1E9DF data\text\eng\hypertext\history\graphics\10-3f.pcx
+ 6C61F8E     33F4 data\engine2d\bin\sounds\generic\human_sneeze m 03.wav
+ 85938CC     3789 data\gui\fonts\font08.fnt
+ 89F8021    234BD data\logic\tribetypes\tribetypes.cif
+ C6A6F1D      109 data\maps\multiplayer_002_ressourcen\text\eng\briefings\0000.hlt
+ E59CD63    21438 data\text\eng\hypertext\history\graphics\02-3f.pcx
+ 568EB17    B4897 data\engine2d\bin\bobs\ls_smoke.bmd
+ 81CA5EE     E818 data\engine2d\bin\textures\tran_concrete.pcx
+ C951598      10D data\maps\multiplayer_003_ressourcen\text\eng\briefings\0000.hlt
+ E5BE19B    16133 data\text\eng\hypertext\history\graphics\03-3f.pcx
+ E79AECD      3B6 data\text\eng\strings\ingamegui\ingameguivehiclewindow.cif
+  219436    5509D data\edit\macromaps\shiva woman test.cif
+ 5ECF6BA      385 data\engine2d\bin\palettes\landscapes\rock01.pcx
+ CB74D1E      10D data\maps\multiplayer_004_ressourcen\text\eng\briefings\0000.hlt
+ E5D42CE    258E5 data\text\eng\hypertext\history\graphics\04-3f.pcx
+ 3FA22C2     25E4 data\engine2d\bin\bobs\ls_beduines_s.bmd
+ 5ECFA3F      385 data\engine2d\bin\palettes\landscapes\rock02.pcx
+ 5ED2800      385 data\engine2d\bin\palettes\landscapes\tree01.pcx
+ 6678556     486C data\engine2d\bin\sounds\ambient\owl_01.wav
+ 7BCB29E     72EC data\engine2d\bin\sounds\static\meltiron.wav
+ CE1D1D0      10D data\maps\multiplayer_005_ressourcen\text\eng\briefings\0000.hlt
+ E5F9BB3    237AF data\text\eng\hypertext\history\graphics\05-3f.pcx
+   2B17B      FBD data\edit\macromaps\desertbrown000.cif
+ 5EC7B83      385 data\engine2d\bin\palettes\landscapes\caves.pcx
+ 5ECBE6A      385 data\engine2d\bin\palettes\landscapes\haus01.pcx
+ 5ECFDC4      385 data\engine2d\bin\palettes\landscapes\rock03.pcx
+ 5ED19EC      385 data\engine2d\bin\palettes\landscapes\snake.pcx
+ 5ED2B85      385 data\engine2d\bin\palettes\landscapes\tree02.pcx
+ 667CDC2     5818 data\engine2d\bin\sounds\ambient\owl_02.wav
+ 7E0D6D2     4D58 data\engine2d\bin\sounds\static\weresnakehit01.wav
+ E61D362    2C6D9 data\text\eng\hypertext\history\graphics\06-3f.pcx
+ E783ABE      E47 data\text\eng\hypertext\ingamehelp\keys.txt
+   2E7B4      FBD data\edit\macromaps\desertstone000.cif
+ 58231AF   1D9FD3 data\engine2d\bin\bobs\ls_trees.bmd
+ 5D04514    573F4 data\engine2d\bin\bobs\ls_water.bmd
+ 5EC77FE      385 data\engine2d\bin\palettes\landscapes\bush01.pcx
+ 5ECC1EF      385 data\engine2d\bin\palettes\landscapes\haus02.pcx
+ 5ED2F0A      385 data\engine2d\bin\palettes\landscapes\tree03.pcx
+ 7E1242A     3DD4 data\engine2d\bin\sounds\static\weresnakehit02.wav
+ BC097B1      16E data\maps\campaign_01_10-sub\text\eng\strings.cif
+ D270343      10D data\maps\multiplayer_007_ressourcen\text\eng\briefings\0000.hlt
+ E649A3B    17784 data\text\eng\hypertext\history\graphics\07-3f.pcx
+   30641     2601 data\edit\macromaps\desertstone001.cif
+ 5ED47AD      386 data\engine2d\bin\palettes\landscapes\wave01.pcx
+ 6B31852     4CD0 data\engine2d\bin\sounds\generic\human_clearthroat f 01.wav
+ 7E161FE     2164 data\engine2d\bin\sounds\static\weresnakehit03.wav
+ 94989B0      17D data\maps\campaign_01_02-sub\text\eng\strings.cif
+ CFAC2D0   132DB3 data\maps\multiplayer_005_special_cap-the-flag\map.dat
+ D62C07B      105 data\maps\multiplayer_008_ressourcen\text\eng\briefings\0000.hlt
+ E6611BF    26AE2 data\text\eng\hypertext\history\graphics\08-3f.pcx
+ E791836     2454 data\text\eng\strings\help\houseshelp.cif
+ 5CCAF24    1E102 data\engine2d\bin\bobs\ls_vehicles_s.bmd
+ 5ED4B33      386 data\engine2d\bin\palettes\landscapes\wave02.pcx
+ 6B36522     8948 data\engine2d\bin\sounds\generic\human_clearthroat f 02.wav
+ E687CA1    2A201 data\text\eng\hypertext\history\graphics\09-3f.pcx
+ 5ED4EB9      386 data\engine2d\bin\palettes\landscapes\wave03.pcx
+ A118FCC       D7 data\maps\campaign_01_04-sub\text\eng\strings.cif
+ A6D241F      113 data\maps\campaign_01_05-sub\text\eng\strings.cif
+ BF40FEC     3AEB data\maps\multiplayer_001_militär\text\eng\briefings\fonts\font10.fnt
+ 5ED40A3      385 data\engine2d\bin\palettes\landscapes\tree_pear01.pcx
+ 82F205B     91AD data\engine2d\bin\textures\tran_water_coast_a.pcx
+ C54EC62     3AEB data\maps\multiplayer_002_militär\text\eng\briefings\fonts\font10.fnt
+   44FC7    58460 data\edit\macromaps\shiva construction test.cif
+ 8DBCE64     58AD data\maps\campaign_01_01\map.cif
+ BA0F50C    14D5D data\maps\campaign_01_10\map.cif
+ BF44AD7     45B0 data\maps\multiplayer_001_militär\text\eng\briefings\fonts\font12.fnt
+ C78249A     3AEB data\maps\multiplayer_003_militär\text\eng\briefings\fonts\font10.fnt
+ CF66C1A     59E8 data\maps\multiplayer_005_special_cap-the-flag\text\eng\briefings\fonts\fonthead16bld.fnt
+ 784E082    67D9C data\engine2d\bin\sounds\jingles\jingles_missionlost.wav
+ 79A47A6     6284 data\engine2d\bin\sounds\static\bearattack01.wav
+ 85685C4    15ADB data\gui\bitmaps\bg_headline.pcx
+ 9143561    12FA4 data\maps\campaign_01_02\map.cif
+ BDAF245     28F7 data\maps\campaign_01_11\map.cif
+ C55274D     45B0 data\maps\multiplayer_002_militär\text\eng\briefings\fonts\font12.fnt
+ CAA0C38     3AEB data\maps\multiplayer_004_militär\text\eng\briefings\fonts\font10.fnt
+ CF56518     8667 data\maps\multiplayer_005_special_cap-the-flag\minimap\minimap.pcx
+ 6B3EE6A     64BC data\engine2d\bin\sounds\generic\human_clearthroat m 01.wav
+ 98707FD     D2D9 data\maps\campaign_01_03\map.cif
+ B6E67B0      12F data\maps\campaign_01_09-sub\text\eng\strings.cif
+ BBC26F4    1697D data\maps\campaign_01_10-sub\text\eng\briefings\graphics\people_dead_f.pcx
+ C785F85     45B0 data\maps\multiplayer_003_militär\text\eng\briefings\fonts\font12.fnt
+ CC5C515     3AEB data\maps\multiplayer_005_militär\text\eng\briefings\fonts\font10.fnt
+   3BB8B      F5D data\edit\macromaps\meadowmegadark000.cif
+ 6B45326     7F70 data\engine2d\bin\sounds\generic\human_clearthroat m 02.wav
+ 945269B    1697D data\maps\campaign_01_02-sub\text\eng\briefings\graphics\people_dead_f.pcx
+ 9E3398C     ED17 data\maps\campaign_01_04\map.cif
+ CAA4723     45B0 data\maps\multiplayer_004_militär\text\eng\briefings\fonts\font12.fnt
+   3CAE8     25A1 data\edit\macromaps\meadowmegadark001.cif
+ A4BF78C     DE6C data\maps\campaign_01_05\map.cif
+ CC60000     45B0 data\maps\multiplayer_005_militär\text\eng\briefings\fonts\font12.fnt
+ 69DDFAE     74DC data\engine2d\bin\sounds\generic\animals_cattle01.wav
+ A0D2F12    1697D data\maps\campaign_01_04-sub\text\eng\briefings\graphics\people_dead_f.pcx
+ A97CCBB     F0E0 data\maps\campaign_01_06\map.cif
+ C2886E6      1CA data\maps\multiplayer_001_ressourcen\text\eng\briefings\briefings.txt
+ D4BD394     3AEB data\maps\multiplayer_008_militär\text\eng\briefings\fonts\font10.fnt
+ 5604ACD    1760A data\engine2d\bin\bobs\ls_ruin_frank.bmd
+ 5EC3C28      385 data\engine2d\bin\palettes\goods\goods_gold.pcx
+ 5ED1667      385 data\engine2d\bin\palettes\landscapes\smoke.pcx
+ 69E548A     8024 data\engine2d\bin\sounds\generic\animals_cattle02.wav
+ 792557A    2FD1C data\engine2d\bin\sounds\jingles\jingles_openchest.wav
+ 89DA1AC      385 data\gui\palettes\bar_standart.pcx
+ A68C826    1697D data\maps\campaign_01_05-sub\text\eng\briefings\graphics\people_dead_f.pcx
+ ADBEF76    15529 data\maps\campaign_01_07\map.cif
+ C6A7026      183 data\maps\multiplayer_002_ressourcen\text\eng\briefings\briefings.txt
+ CC0955E      10D data\maps\multiplayer_004_special_cap-the-cow\text\eng\briefings\0000.hlt
+ D71C54C     3AEB data\maps\multiplayer_009_militär\text\eng\briefings\fonts\font10.fnt
+ E528245     1F98 data\text\eng\hypertext\credits\graphics\funatics.pcx
+ 57EC162    101D9 data\engine2d\bin\bobs\ls_stonehenge.bmd
+ 69ED4AE     73C0 data\engine2d\bin\sounds\generic\animals_cattle03.wav
+ 8DC2711   14895B data\maps\campaign_01_01\map.dat
+ B2D8B48     FC52 data\maps\campaign_01_08\map.cif
+ BA24269   176225 data\maps\campaign_01_10\map.dat
+ C9516A5      1D9 data\maps\multiplayer_003_ressourcen\text\eng\briefings\briefings.txt
+ D4C0E7F     45B0 data\maps\multiplayer_008_militär\text\eng\briefings\fonts\font12.fnt
+ 5EC351E      385 data\engine2d\bin\palettes\goods\goods_food.pcx
+ 69F486E     93BC data\engine2d\bin\sounds\generic\animals_cattle04.wav
+ 9156505   2D3F30 data\maps\campaign_01_02\map.dat
+ BDB1B3C    F45B5 data\maps\campaign_01_11\map.dat
+ CB74E2B      208 data\maps\multiplayer_004_ressourcen\text\eng\briefings\briefings.txt
+ D720037     45B0 data\maps\multiplayer_009_militär\text\eng\briefings\fonts\font12.fnt
+ 5EC2A8F      385 data\engine2d\bin\palettes\goods\goods_clay.pcx
+ 5ECD70D      385 data\engine2d\bin\palettes\landscapes\haus_sepia.pcx
+ 69FDC2A     9AB8 data\engine2d\bin\sounds\generic\animals_cattle05.wav
+ 828A924     D433 data\engine2d\bin\textures\tran_sand_a.pcx
+ 987DAD6   38CDDA data\maps\campaign_01_03\map.dat
+ CE1D2DD      37C data\maps\multiplayer_005_ressourcen\text\eng\briefings\briefings.txt
+ 5ED5CCE    A5B2C data\engine2d\bin\sounds\ambient\beach1.wav
+ 9E426A3   268609 data\maps\campaign_01_04\map.dat
+ CF8E780     FE36 data\maps\multiplayer_005_special_cap-the-flag\text\eng\briefings\palettes\pal_white.bmp
+ 5F7B7FA    9A36C data\engine2d\bin\sounds\ambient\beach2.wav
+ A4CD5F8   196FC8 data\maps\campaign_01_05\map.dat
+ D270450      2C3 data\maps\multiplayer_007_ressourcen\text\eng\briefings\briefings.txt
+ 6D6284A     37DC data\engine2d\bin\sounds\humantalk\latin\l01.wav
+ 6D7B6DA     28F0 data\engine2d\bin\sounds\humantalk\latin\l10.wav
+ 7B16986     2D34 data\engine2d\bin\sounds\static\fisthitwoman01.wav
+ 8D300A1     59E8 data\maps\campaign_01_01\text\eng\briefings\fonts\fonthead16bld.fnt
+ A98BD9B   147A68 data\maps\campaign_01_06\map.dat
+ B97932E     59E8 data\maps\campaign_01_10\text\eng\briefings\fonts\fonthead16bld.fnt
+ D62C180      199 data\maps\multiplayer_008_ressourcen\text\eng\briefings\briefings.txt
+ 6BB5A9A     1A10 data\engine2d\bin\sounds\generic\human_gasp f 01.wav
+ 6C20E1A     CD10 data\engine2d\bin\sounds\generic\human_sigh f 01.wav
+ 6D66026     2BA4 data\engine2d\bin\sounds\humantalk\latin\l02.wav
+ 6D94B0E     5C8C data\engine2d\bin\sounds\humantalk\latin\l11.wav
+ 6DCDF2E     6930 data\engine2d\bin\sounds\humantalk\latin\l20.wav
+ 7B196BA     191C data\engine2d\bin\sounds\static\fisthitwoman02.wav
+ 7BB9626     9598 data\engine2d\bin\sounds\static\mason01.wav
+ 90A7D37     59E8 data\maps\campaign_01_02\text\eng\briefings\fonts\fonthead16bld.fnt
+ ADD449F   204B4A data\maps\campaign_01_07\map.dat
+ BD48D71     59E8 data\maps\campaign_01_11\text\eng\briefings\fonts\fonthead16bld.fnt
+ 6BB74AA     220C data\engine2d\bin\sounds\generic\human_gasp f 02.wav
+ 6C2DB2A     FBAC data\engine2d\bin\sounds\generic\human_sigh f 02.wav
+ 6D68BCA     31EC data\engine2d\bin\sounds\humantalk\latin\l03.wav
+ 6D9A79A     57EC data\engine2d\bin\sounds\humantalk\latin\l12.wav
+ 6DD485E     7450 data\engine2d\bin\sounds\humantalk\latin\l21.wav
+ 6E161DA     8D24 data\engine2d\bin\sounds\humantalk\latin\l30.wav
+ 7B1AFD6     1F70 data\engine2d\bin\sounds\static\fisthitwoman03.wav
+ 7BC2BBE     86E0 data\engine2d\bin\sounds\static\mason02.wav
+ 8205651     CEB3 data\engine2d\bin\textures\tran_desert_ad_a.pcx
+ 825DE5E     8D45 data\engine2d\bin\textures\tran_mountain.pcx
+ 97E3DED     59E8 data\maps\campaign_01_03\text\eng\briefings\fonts\fonthead16bld.fnt
+ B2E879A   1EA07F data\maps\campaign_01_08\map.dat
+ 5ECD003      385 data\engine2d\bin\palettes\landscapes\haus_druid.pcx
+ 6D6BDB6     2C50 data\engine2d\bin\sounds\humantalk\latin\l04.wav
+ 6D9FF86     64E8 data\engine2d\bin\sounds\humantalk\latin\l13.wav
+ 6DDBCAE     7448 data\engine2d\bin\sounds\humantalk\latin\l22.wav
+ 6E1EEFE     D00C data\engine2d\bin\sounds\humantalk\latin\l31.wav
+ 6E7906E     3D60 data\engine2d\bin\sounds\humantalk\latin\l40.wav
+ 7B9B2A2     12D4 data\engine2d\bin\sounds\static\hunter_arrow01.wav
+ 9DA4A73     59E8 data\maps\campaign_01_04\text\eng\briefings\fonts\fonthead16bld.fnt
+ CF9EC00       17 data\maps\multiplayer_005_special_cap-the-flag\autor.txt
+ 5A5087A     1720 data\engine2d\bin\bobs\ls_triggers_s.bmd
+ 6D6EA06     288C data\engine2d\bin\sounds\humantalk\latin\l05.wav
+ 6DA646E     6754 data\engine2d\bin\sounds\humantalk\latin\l14.wav
+ 6DE30F6     62B8 data\engine2d\bin\sounds\humantalk\latin\l23.wav
+ 6E2BF0A     9254 data\engine2d\bin\sounds\humantalk\latin\l32.wav
+ 6E7CDCE     4850 data\engine2d\bin\sounds\humantalk\latin\l41.wav
+ 6EB7446     AFDC data\engine2d\bin\sounds\humantalk\latin\l50.wav
+ 857E09F    1582D data\gui\bitmaps\bg_selected.pcx
+ A438AA5     59E8 data\maps\campaign_01_05\text\eng\briefings\fonts\fonthead16bld.fnt
+ E793C8A     10CD data\text\eng\strings\help\mischelp.cif
+  26E4D3      E6D data\edit\macromaps\snow000.cif
+ 6D71292     2F0C data\engine2d\bin\sounds\humantalk\latin\l06.wav
+ 6DACBC2     87FC data\engine2d\bin\sounds\humantalk\latin\l15.wav
+ 6DE93AE     75CC data\engine2d\bin\sounds\humantalk\latin\l24.wav
+ 6E3515E     95A8 data\engine2d\bin\sounds\humantalk\latin\l33.wav
+ 6E8161E     53F4 data\engine2d\bin\sounds\humantalk\latin\l42.wav
+ 6EC2422     8930 data\engine2d\bin\sounds\humantalk\latin\l51.wav
+ 6F0956A     5C94 data\engine2d\bin\sounds\humantalk\latin\l60.wav
+ A8EAC0D     59E8 data\maps\campaign_01_06\text\eng\briefings\fonts\fonthead16bld.fnt
+ CF6FE49    1E937 data\maps\multiplayer_005_special_cap-the-flag\text\eng\briefings\palettes\font_dark.pcx
+ D8ED543     3AEB data\maps\singleplayer_01_01\text\eng\briefings\fonts\font10.fnt
+ E549CC6     11B0 data\text\eng\hypertext\credits\index.hlt
+   2F771      ED0 data\edit\macromaps\desertstone000_rund.cif
+ 6D7419E     2618 data\engine2d\bin\sounds\humantalk\latin\l07.wav
+ 6DB53BE     666C data\engine2d\bin\sounds\humantalk\latin\l16.wav
+ 6DF097A     6410 data\engine2d\bin\sounds\humantalk\latin\l25.wav
+ 6E3E706     99AC data\engine2d\bin\sounds\humantalk\latin\l34.wav
+ 6E86A12     4954 data\engine2d\bin\sounds\humantalk\latin\l43.wav
+ 6ECAD52     968C data\engine2d\bin\sounds\humantalk\latin\l52.wav
+ 81F587A     FDD7 data\engine2d\bin\textures\tran_desertbrown_a.pcx
+ AD3641E     59E8 data\maps\campaign_01_07\text\eng\briefings\fonts\fonthead16bld.fnt
+ 6D767B6     2620 data\engine2d\bin\sounds\humantalk\latin\l08.wav
+ 6DBBA2A     642C data\engine2d\bin\sounds\humantalk\latin\l17.wav
+ 6DF6D8A     72E0 data\engine2d\bin\sounds\humantalk\latin\l26.wav
+ 6E480B2     8DC4 data\engine2d\bin\sounds\humantalk\latin\l35.wav
+ 6E8B366     4AEC data\engine2d\bin\sounds\humantalk\latin\l44.wav
+ 6ED43DE     9080 data\engine2d\bin\sounds\humantalk\latin\l53.wav
+ 6F0F1FE     541C data\engine2d\bin\sounds\humantalk\latin\l80.wav
+ B24A1C8     59E8 data\maps\campaign_01_08\text\eng\briefings\fonts\fonthead16bld.fnt
+ C2888B0      2E3 data\maps\multiplayer_001_ressourcen\text\eng\strings.cif
+ D8F102E     45B0 data\maps\singleplayer_01_01\text\eng\briefings\fonts\font12.fnt
+ E3D39B5     45B0 data\maps\singleplayer_01_10\text\eng\briefings\fonts\font12.fnt
+ 6BB96B6     3880 data\engine2d\bin\sounds\generic\human_gasp m 01.wav
+ 6C3D6D6     7954 data\engine2d\bin\sounds\generic\human_sigh m 01.wav
+ 6D78DD6     2904 data\engine2d\bin\sounds\humantalk\latin\l09.wav
+ 6DC1E56     5D64 data\engine2d\bin\sounds\humantalk\latin\l18.wav
+ 6DFE06A     72E4 data\engine2d\bin\sounds\humantalk\latin\l27.wav
+ 6E50E76     75FC data\engine2d\bin\sounds\humantalk\latin\l36.wav
+ 6E8FE52     4810 data\engine2d\bin\sounds\humantalk\latin\l45.wav
+ 6EDD45E     9D18 data\engine2d\bin\sounds\humantalk\latin\l54.wav
+ 6F1461A     81E4 data\engine2d\bin\sounds\humantalk\latin\l81.wav
+ 6F4991E     54B4 data\engine2d\bin\sounds\humantalk\latin\l90.wav
+ 7E2B31A     E7B5 data\engine2d\bin\textures\overlay_house.pcx
+ 84C53FE     15F7 data\engine2d\inis\particel\particel.cif
+ B60BA00     59E8 data\maps\campaign_01_09\text\eng\briefings\fonts\fonthead16bld.fnt
+ C6A71A9      24C data\maps\multiplayer_002_ressourcen\text\eng\strings.cif
+  273014     4902 data\edit\randomgroups\random_groups_landscapes.cif
+ 6BBCF36     1FE4 data\engine2d\bin\sounds\generic\human_gasp m 02.wav
+ 6C4502A     6170 data\engine2d\bin\sounds\generic\human_sigh m 02.wav
+ 6DC7BBA     6374 data\engine2d\bin\sounds\humantalk\latin\l19.wav
+ 6E0534E     82A0 data\engine2d\bin\sounds\humantalk\latin\l28.wav
+ 6E58472     AF90 data\engine2d\bin\sounds\humantalk\latin\l37.wav
+ 6E94662     4870 data\engine2d\bin\sounds\humantalk\latin\l46.wav
+ 6EE7176     985C data\engine2d\bin\sounds\humantalk\latin\l55.wav
+ 6F1C7FE     535C data\engine2d\bin\sounds\humantalk\latin\l82.wav
+ 6F4EDD2     6EF8 data\engine2d\bin\sounds\humantalk\latin\l91.wav
+ C95187E      2DE data\maps\multiplayer_003_ressourcen\text\eng\strings.cif
+ 3FFCC57     29AF data\engine2d\bin\bobs\ls_bridge_s.bmd
+ 6E0D5EE     8BEC data\engine2d\bin\sounds\humantalk\latin\l29.wav
+ 6E63402     AE38 data\engine2d\bin\sounds\humantalk\latin\l38.wav
+ 6E98ED2     8740 data\engine2d\bin\sounds\humantalk\latin\l47.wav
+ 6EF09D2     65A8 data\engine2d\bin\sounds\humantalk\latin\l56.wav
+ 6F21B5A     67F4 data\engine2d\bin\sounds\humantalk\latin\l83.wav
+ 6F55CCA     42A8 data\engine2d\bin\sounds\humantalk\latin\l92.wav
+ 89DB6CD      385 data\gui\palettes\context.pcx
+ 8DA8599     FE36 data\maps\campaign_01_01\text\eng\briefings\palettes\pal_white.bmp
+ B9FBEF4     FE36 data\maps\campaign_01_10\text\eng\briefings\palettes\pal_white.bmp
+ CB75033      2E7 data\maps\multiplayer_004_ressourcen\text\eng\strings.cif
+ DBF526A     45B0 data\maps\singleplayer_01_04\text\eng\briefings\fonts\font12.fnt
+ 6E6E23A     AE34 data\engine2d\bin\sounds\humantalk\latin\l39.wav
+ 6EA1612     99A0 data\engine2d\bin\sounds\humantalk\latin\l48.wav
+ 6EF6F7A     61F0 data\engine2d\bin\sounds\humantalk\latin\l57.wav
+ 6F2834E     42F0 data\engine2d\bin\sounds\humantalk\latin\l84.wav
+ 6F59F72     7E84 data\engine2d\bin\sounds\humantalk\latin\l93.wav
+ 7D4DD7E     1C80 data\engine2d\bin\sounds\static\swing01.wav
+ 912DC56     FE36 data\maps\campaign_01_02\text\eng\briefings\palettes\pal_white.bmp
+ BD9E1F0     FE36 data\maps\campaign_01_11\text\eng\briefings\palettes\pal_white.bmp
+ CC0966B      2E6 data\maps\multiplayer_004_special_cap-the-cow\text\eng\briefings\briefings.txt
+ CE1D659      276 data\maps\multiplayer_005_ressourcen\text\eng\strings.cif
+ DD23E5F     45B0 data\maps\singleplayer_01_05\text\eng\briefings\fonts\font12.fnt
+ 5EC4332      385 data\engine2d\bin\palettes\goods\goods_iron.pcx
+ 6210684     30A8 data\engine2d\bin\sounds\ambient\branchcrack_01.wav
+ 6EAAFB2     C494 data\engine2d\bin\sounds\humantalk\latin\l49.wav
+ 6EFD16A     6AA8 data\engine2d\bin\sounds\humantalk\latin\l58.wav
+ 6F2C63E     7F98 data\engine2d\bin\sounds\humantalk\latin\l85.wav
+ 6F61DF6     52DC data\engine2d\bin\sounds\humantalk\latin\l94.wav
+ 7D4F9FE     1928 data\engine2d\bin\sounds\static\swing02.wav
+ 8A2F53E     1FED data\logic\vehicletypes.cif
+ 985B251     FE36 data\maps\campaign_01_03\text\eng\briefings\palettes\pal_white.bmp
+ BBA7F11     3847 data\maps\campaign_01_10-sub\text\eng\briefings\fonts\font_10.fnt
+ DEC1CF4     45B0 data\maps\singleplayer_01_06\text\eng\briefings\fonts\font12.fnt
+ 5EBB66A      385 data\engine2d\bin\palettes\creatures\fishes.pcx
+ 5EC6664      385 data\engine2d\bin\palettes\goods\goods_wood.pcx
+ 621372C     6324 data\engine2d\bin\sounds\ambient\branchcrack_02.wav
+ 6F03C12     5958 data\engine2d\bin\sounds\humantalk\latin\l59.wav
+ 6F345D6     5150 data\engine2d\bin\sounds\humantalk\latin\l86.wav
+ 6F670D2     78D4 data\engine2d\bin\sounds\humantalk\latin\l95.wav
+ 7BA3B12     8158 data\engine2d\bin\sounds\static\lionattack01.wav
+ 7D51326     15AC data\engine2d\bin\sounds\static\swing03.wav
+ 8804E12       24 data\gui\lang\eng\bobs\ls_menu_logos_s.bmd
+ 9437EB8     3847 data\maps\campaign_01_02-sub\text\eng\briefings\fonts\font_10.fnt
+ 9E20D1C     FE36 data\maps\campaign_01_04\text\eng\briefings\palettes\pal_white.bmp
+ D270713      262 data\maps\multiplayer_007_ressourcen\text\eng\strings.cif
+ E006505     45B0 data\maps\singleplayer_01_07\text\eng\briefings\fonts\font12.fnt
+ E78E484       BE data\text\eng\strings\gameobjects\militarymodes.cif
+ 564A8BC    3960E data\engine2d\bin\bobs\ls_shipwrecks.bmd
+ 6219A50     72FC data\engine2d\bin\sounds\ambient\branchcrack_03.wav
+ 6F39726     65B4 data\engine2d\bin\sounds\humantalk\latin\l87.wav
+ 6F6E9A6     4E08 data\engine2d\bin\sounds\humantalk\latin\l96.wav
+ 7BABC6A     8EA4 data\engine2d\bin\sounds\static\lionattack02.wav
+ 7D528D2      E5C data\engine2d\bin\sounds\static\swing04.wav
+ A4ABEFF     FE36 data\maps\campaign_01_05\text\eng\briefings\palettes\pal_white.bmp
+ D62C319      28E data\maps\multiplayer_008_ressourcen\text\eng\strings.cif
+ E14BB3B     45B0 data\maps\singleplayer_01_08\text\eng\briefings\fonts\font12.fnt
+ E5588F9     3847 data\text\eng\hypertext\history\fonts\font_10.fnt
+ 6220D4C     5D6C data\engine2d\bin\sounds\ambient\branchcrack_04.wav
+ 6F3FCDA     36AC data\engine2d\bin\sounds\humantalk\latin\l88.wav
+ 6F737AE     7520 data\engine2d\bin\sounds\humantalk\latin\l97.wav
+ 7D5372E     13D8 data\engine2d\bin\sounds\static\swing05.wav
+ A0B872F     3847 data\maps\campaign_01_04-sub\text\eng\briefings\fonts\font_10.fnt
+ A96A315     FE36 data\maps\campaign_01_06\text\eng\briefings\palettes\pal_white.bmp
+ E277A0C     45B0 data\maps\singleplayer_01_09\text\eng\briefings\fonts\font12.fnt
+ 4227408    5B64F data\engine2d\bin\bobs\ls_houses_beduines.bmd
+ 6226AB8     7D58 data\engine2d\bin\sounds\ambient\branchcrack_05.wav
+ 6F43386     6598 data\engine2d\bin\sounds\humantalk\latin\l89.wav
+ 6F7ACCE     63E0 data\engine2d\bin\sounds\humantalk\latin\l98.wav
+ 89DC86A      388 data\gui\palettes\frame.pcx
+ A672043     3847 data\maps\campaign_01_05-sub\text\eng\briefings\fonts\font_10.fnt
+ ADACA14     FE36 data\maps\campaign_01_07\text\eng\briefings\palettes\pal_white.bmp
+  16F5FF    5509D data\edit\macromaps\shiva marriage test.cif
+ 622E810     922C data\engine2d\bin\sounds\ambient\branchcrack_06.wav
+ 6F810AE     67F4 data\engine2d\bin\sounds\humantalk\latin\l99.wav
+ 8687BDD       24 data\gui\lang\eng\bobs\ls_gui_window_s.bmd
+ 8D89C62    1E937 data\maps\campaign_01_01\text\eng\briefings\palettes\font_dark.pcx
+ B2C4CF6     FE36 data\maps\campaign_01_08\text\eng\briefings\palettes\pal_white.bmp
+ B9DD5BD    1E937 data\maps\campaign_01_10\text\eng\briefings\palettes\font_dark.pcx
+ 6237A3C     9168 data\engine2d\bin\sounds\ambient\branchcrack_07.wav
+ 910F31F    1E937 data\maps\campaign_01_02\text\eng\briefings\palettes\font_dark.pcx
+ B69428A     FE36 data\maps\campaign_01_09\text\eng\briefings\palettes\pal_white.bmp
+ BD7F8B9    1E937 data\maps\campaign_01_11\text\eng\briefings\palettes\font_dark.pcx
+ 6240BA4     6734 data\engine2d\bin\sounds\ambient\branchcrack_08.wav
+ 983C91A    1E937 data\maps\campaign_01_03\text\eng\briefings\palettes\font_dark.pcx
+ E78E5E1      7E0 data\text\eng\strings\gameobjects\tribes.cif
+ E79C425      105 data\text\eng\strings\updates\update103.cif
+ 4D15AF4    1127F data\engine2d\bin\bobs\ls_houses_vehicles.bmd
+ 6F878A2     7058 data\engine2d\bin\sounds\humantalk\oldenglish\o01.wav
+ 6FCF37E     6768 data\engine2d\bin\sounds\humantalk\oldenglish\o10.wav
+ 823041D     92AA data\engine2d\bin\textures\tran_meadow.pcx
+ 9E023E5    1E937 data\maps\campaign_01_04\text\eng\briefings\palettes\font_dark.pcx
+ B6B3D44     3847 data\maps\campaign_01_09-sub\text\eng\briefings\fonts\font_10.fnt
+ BF80A23      10D data\maps\multiplayer_001_militär\text\eng\briefings\0000.hlt
+ 6C65382     D9FC data\engine2d\bin\sounds\generic\human_yawn f 01.wav
+ 6F8E8FA     C868 data\engine2d\bin\sounds\humantalk\oldenglish\o02.wav
+ 6FD5AE6     5CAC data\engine2d\bin\sounds\humantalk\oldenglish\o11.wav
+ 701329A     644C data\engine2d\bin\sounds\humantalk\oldenglish\o20.wav
+ 823D8AC     9815 data\engine2d\bin\textures\tran_meadow_dark.pcx
+ A48D5C8    1E937 data\maps\campaign_01_05\text\eng\briefings\palettes\font_dark.pcx
+ C58E699      109 data\maps\multiplayer_002_militär\text\eng\briefings\0000.hlt
+ 6997346     E828 data\engine2d\bin\sounds\generic\animals_bear01.wav
+ 6C72D7E     B7D0 data\engine2d\bin\sounds\generic\human_yawn f 02.wav
+ 6F9B162     6030 data\engine2d\bin\sounds\humantalk\oldenglish\o03.wav
+ 6FDB792     64EC data\engine2d\bin\sounds\humantalk\oldenglish\o12.wav
+ 70196E6     5304 data\engine2d\bin\sounds\humantalk\oldenglish\o21.wav
+ 7053306     2F98 data\engine2d\bin\sounds\humantalk\oldenglish\o30.wav
+ 79DC70A     E0F8 data\engine2d\bin\sounds\static\carpenter_plane01.wav
+ A94B9DE    1E937 data\maps\campaign_01_06\text\eng\briefings\palettes\font_dark.pcx
+ C7C1ED1      10D data\maps\multiplayer_003_militär\text\eng\briefings\0000.hlt
+ E73EB4E     3847 data\text\eng\hypertext\ingamehelp\fonts\font_10.fnt
+ 5EBB2E5      385 data\engine2d\bin\palettes\creatures\djinny.pcx
+ 69A5B6E     BF44 data\engine2d\bin\sounds\generic\animals_bear02.wav
+ 6FA1192     5E50 data\engine2d\bin\sounds\humantalk\oldenglish\o04.wav
+ 6FE1C7E     6380 data\engine2d\bin\sounds\humantalk\oldenglish\o13.wav
+ 701E9EA     55D8 data\engine2d\bin\sounds\humantalk\oldenglish\o22.wav
+ 705629E     4D60 data\engine2d\bin\sounds\humantalk\oldenglish\o31.wav
+ AD8E0DD    1E937 data\maps\campaign_01_07\text\eng\briefings\palettes\font_dark.pcx
+ CAE066F      10D data\maps\multiplayer_004_militär\text\eng\briefings\0000.hlt
+ E7963FE      B5E data\text\eng\strings\ingamegui\ingameguimain.cif
+ 69B1AB2     8A58 data\engine2d\bin\sounds\generic\animals_bear03.wav
+ 6C9513A     2F68 data\engine2d\bin\sounds\gui\briefing_popup.wav
+ 6FA6FE2     B774 data\engine2d\bin\sounds\humantalk\oldenglish\o05.wav
+ 6FE7FFE     6764 data\engine2d\bin\sounds\humantalk\oldenglish\o14.wav
+ 7023FC2     9E80 data\engine2d\bin\sounds\humantalk\oldenglish\o23.wav
+ 705AFFE     2B8C data\engine2d\bin\sounds\humantalk\oldenglish\o32.wav
+ 7B7AB86    10394 data\engine2d\bin\sounds\static\housecrash01.wav
+ B2A63BF    1E937 data\maps\campaign_01_08\text\eng\briefings\palettes\font_dark.pcx
+ CC9BF4C      10D data\maps\multiplayer_005_militär\text\eng\briefings\0000.hlt
+ 5D5CFDD     AE21 data\engine2d\bin\bobs\test_effect.bmd
+ 69BA50A     4DA8 data\engine2d\bin\sounds\generic\animals_bear04.wav
+ 6FB2756     7470 data\engine2d\bin\sounds\humantalk\oldenglish\o06.wav
+ 6FEE762     642C data\engine2d\bin\sounds\humantalk\oldenglish\o15.wav
+ 702DE42     7C54 data\engine2d\bin\sounds\humantalk\oldenglish\o24.wav
+ 705DB8A     3158 data\engine2d\bin\sounds\humantalk\oldenglish\o33.wav
+ 7B8AF1A    10388 data\engine2d\bin\sounds\static\housecrash02.wav
+ 89DDD8B      385 data\gui\palettes\papyrus.pcx
+ B675953    1E937 data\maps\campaign_01_09\text\eng\briefings\palettes\font_dark.pcx
+ CC09951      251 data\maps\multiplayer_004_special_cap-the-cow\text\eng\strings.cif
+ E6E7156     4436 data\text\eng\hypertext\history\graphics\gfx_test.bmp
+ 3F87AF2    1A7D0 data\engine2d\bin\bobs\ls_beduines.bmd
+ 6FB9BC6     63C8 data\engine2d\bin\sounds\humantalk\oldenglish\o07.wav
+ 6FF4B8E     64BC data\engine2d\bin\sounds\humantalk\oldenglish\o16.wav
+ 7035A96     6BE4 data\engine2d\bin\sounds\humantalk\oldenglish\o25.wav
+  1C469C    54D9A data\edit\macromaps\shiva meadow with basic houses.cif
+ 5528F87     4019 data\engine2d\bin\bobs\ls_houses_viking_s.bmd
+ 6FBFF8E     97E8 data\engine2d\bin\sounds\humantalk\oldenglish\o08.wav
+ 6FFB04A     9938 data\engine2d\bin\sounds\humantalk\oldenglish\o17.wav
+ 703C67A     5920 data\engine2d\bin\sounds\humantalk\oldenglish\o26.wav
+ D4FCDCB      10D data\maps\multiplayer_008_militär\text\eng\briefings\0000.hlt
+ 5EBC47E      385 data\engine2d\bin\palettes\creatures\oxcart.pcx
+ 6C7E54E     E3F8 data\engine2d\bin\sounds\generic\human_yawn m 01.wav
+ 6FC9776     5C08 data\engine2d\bin\sounds\humantalk\oldenglish\o09.wav
+ 7004982     78C8 data\engine2d\bin\sounds\humantalk\oldenglish\o18.wav
+ 7041F9A     6294 data\engine2d\bin\sounds\humantalk\oldenglish\o27.wav
+ D75BF83      109 data\maps\multiplayer_009_militär\text\eng\briefings\0000.hlt
+ 5EBA856      385 data\engine2d\bin\palettes\creatures\colors.pcx
+ 6C8C946     87F4 data\engine2d\bin\sounds\generic\human_yawn m 02.wav
+ 700C24A     7050 data\engine2d\bin\sounds\humantalk\oldenglish\o19.wav
+ 704822E     5198 data\engine2d\bin\sounds\humantalk\oldenglish\o28.wav
+ 7A40372    111C0 data\engine2d\bin\sounds\static\eat01.wav
+ 5A51F9A   278F8A data\engine2d\bin\bobs\ls_vehicles.bmd
+ 5EBABDB      385 data\engine2d\bin\palettes\creatures\colors_pale.pcx
+ 704D3C6     5F40 data\engine2d\bin\sounds\humantalk\oldenglish\o29.wav
+ 7A1AE92    13FF4 data\engine2d\bin\sounds\static\catapult_impact01.wav
+ 7A51532    11888 data\engine2d\bin\sounds\static\eat02.wav
+ 82A5340     A629 data\engine2d\bin\textures\tran_snow_a.pcx
+ E797C0B      983 data\text\eng\strings\ingamegui\ingameguimisc.cif
+ 5EC7F08      385 data\engine2d\bin\palettes\landscapes\caves2.pcx
+ 7A2EE86    113C4 data\engine2d\bin\sounds\static\catapult_impact02.wav
+ 7A62DBA    10084 data\engine2d\bin\sounds\static\eat03.wav
+ BBAB758    16F9C data\maps\campaign_01_10-sub\text\eng\briefings\graphics\hero_dead_f.pcx
+ 5ECC8F9      385 data\engine2d\bin\palettes\landscapes\haus_byzantine01.pcx
+ 69BF2B2     5158 data\engine2d\bin\sounds\generic\animals_boar01.wav
+ 7A72E3E     EC18 data\engine2d\bin\sounds\static\eat04.wav
+ 7B9C576     2CFC data\engine2d\bin\sounds\static\hunter_bow01.wav
+ 7DE79FA     2054 data\engine2d\bin\sounds\static\weresnakeattack01.wav
+ 7DF529A     56B4 data\engine2d\bin\sounds\static\weresnakeattack10.wav
+ 943B6FF    16F9C data\maps\campaign_01_02-sub\text\eng\briefings\graphics\hero_dead_f.pcx
+ 5ECCC7E      385 data\engine2d\bin\palettes\landscapes\haus_byzantine02.pcx
+ 69C440A     2C0C data\engine2d\bin\sounds\generic\animals_boar02.wav
+ 798FCEA      D5C data\engine2d\bin\sounds\static\axe01.wav
+ 7DE9A4E     2B60 data\engine2d\bin\sounds\static\weresnakeattack02.wav
+ 7DFA94E     62D0 data\engine2d\bin\sounds\static\weresnakeattack11.wav
+ E742395     4436 data\text\eng\hypertext\ingamehelp\graphics\gfx_test.bmp
+ E78610E      AB9 data\text\eng\strings\gameobjects\houses.cif
+ 69C7016     42A8 data\engine2d\bin\sounds\generic\animals_boar03.wav
+ 7777782    4500C data\engine2d\bin\sounds\jingles\jingles_civildefense.wav
+ 7990A46     1978 data\engine2d\bin\sounds\static\axe02.wav
+ 7DEC5AE     3128 data\engine2d\bin\sounds\static\weresnakeattack03.wav
+ A0BBF76    16F9C data\maps\campaign_01_04-sub\text\eng\briefings\graphics\hero_dead_f.pcx
+ D129F75     6FD1 data\maps\multiplayer_007_millitär\map.cif
+ 5ECB760      385 data\engine2d\bin\palettes\landscapes\grasssnow01.pcx
+ 69CB2BE     823C data\engine2d\bin\sounds\generic\animals_boar04.wav
+ 6A2E20E     5A1C data\engine2d\bin\sounds\generic\animals_duck01.wav
+ 79923BE     1630 data\engine2d\bin\sounds\static\axe03.wav
+ 7DEF6D6     2A5C data\engine2d\bin\sounds\static\weresnakeattack04.wav
+ A67588A    16F9C data\maps\campaign_01_05-sub\text\eng\briefings\graphics\hero_dead_f.pcx
+ E709EC3    1E937 data\text\eng\hypertext\history\palettes\font_red.pcx
+ E7959EB      A13 data\text\eng\strings\ingamegui\ingameguihumanwindow.cif
+ 6A33C2A     3800 data\engine2d\bin\sounds\generic\animals_duck02.wav
+ 7DF2132     3168 data\engine2d\bin\sounds\static\weresnakeattack05.wav
+ 84BF27C     5E9C data\engine2d\inis\palettes\palettes.cif
+ 5EB9A42      385 data\engine2d\bin\palettes\creatures\bear.pcx
+ 6A3742A     2060 data\engine2d\bin\sounds\generic\animals_duck03.wav
+ 7E29386     1F94 data\engine2d\bin\sounds\static\woodenchest.wav
+ BF80B30      1BE data\maps\multiplayer_001_militär\text\eng\briefings\briefings.txt
+ C256625     3847 data\maps\multiplayer_001_ressourcen\text\eng\briefings\fonts\font_10.fnt
+ E784905      A89 data\text\eng\strings\gameobjects\experiences.cif
+   28AFF      411 data\edit\macromaps\deserta000.cif
+ 6A3948A     2038 data\engine2d\bin\sounds\generic\animals_duck04.wav
+ C58E7A2      165 data\maps\multiplayer_002_militär\text\eng\briefings\briefings.txt
+ C674F69     3847 data\maps\multiplayer_002_ressourcen\text\eng\briefings\fonts\font_10.fnt
+   28F10      F2D data\edit\macromaps\deserta001.cif
+   29E3D      411 data\edit\macromaps\desertb000.cif
+ 6A40E1E     2F3C data\engine2d\bin\sounds\generic\animals_goat01.wav
+ C7C1FDE      157 data\maps\multiplayer_003_militär\text\eng\briefings\briefings.txt
+ C91F5E4     3847 data\maps\multiplayer_003_ressourcen\text\eng\briefings\fonts\font_10.fnt
+ D92CF7A      10D data\maps\singleplayer_01_01\text\eng\briefings\0000.hlt
+ E40F901      100 data\maps\singleplayer_01_10\text\eng\briefings\0000.hlt
+   2A24E      F2D data\edit\macromaps\desertb001.cif
+   2C138      411 data\edit\macromaps\desertc000.cif
+ 6A43D5A     6660 data\engine2d\bin\sounds\generic\animals_goat02.wav
+ CAE077C      1DA data\maps\multiplayer_004_militär\text\eng\briefings\briefings.txt
+ CB42D6A     3847 data\maps\multiplayer_004_ressourcen\text\eng\briefings\fonts\font_10.fnt
+ E40FA01       79 data\maps\singleplayer_01_10\text\eng\briefings\0001.hlt
+   2C549      F2D data\edit\macromaps\desertc001.cif
+   2D476      411 data\edit\macromaps\desertd000.cif
+ 5ECD388      385 data\engine2d\bin\palettes\landscapes\haus_saracen01.pcx
+ 6A4A3BA     4000 data\engine2d\bin\sounds\generic\animals_goat03.wav
+ CC9C059      292 data\maps\multiplayer_005_militär\text\eng\briefings\briefings.txt
+ CDEB21C     3847 data\maps\multiplayer_005_ressourcen\text\eng\briefings\fonts\font_10.fnt
+ D130F46    F4A5B data\maps\multiplayer_007_millitär\map.dat
+ E40FA7A       79 data\maps\singleplayer_01_10\text\eng\briefings\0002.hlt
+ E72CF7A      831 data\text\eng\hypertext\history\index.hlt
+   2D887      F2D data\edit\macromaps\desertd001.cif
+ 6A4E3BA     4420 data\engine2d\bin\sounds\generic\animals_goat04.wav
+ 7D8DBE2     4A08 data\engine2d\bin\sounds\static\sword long swing01.wav
+ CF5EB7F     3AEB data\maps\multiplayer_005_special_cap-the-flag\text\eng\briefings\fonts\font10.fnt
+ DC311B6      100 data\maps\singleplayer_01_04\text\eng\briefings\0000.hlt
+ E40FAF3       79 data\maps\singleplayer_01_10\text\eng\briefings\0003.hlt
+ 5EBAF60      385 data\engine2d\bin\palettes\creatures\deer.pcx
+ 6A527DA     3790 data\engine2d\bin\sounds\generic\animals_goat05.wav
+ 7D925EA     4B9C data\engine2d\bin\sounds\static\sword long swing02.wav
+ D23E38F     3847 data\maps\multiplayer_007_ressourcen\text\eng\briefings\fonts\font_10.fnt
+ DC312B6       79 data\maps\singleplayer_01_04\text\eng\briefings\0001.hlt
+ DD5FDAB      13F data\maps\singleplayer_01_05\text\eng\briefings\0000.hlt
+ E40FB6C       97 data\maps\singleplayer_01_10\text\eng\briefings\0004.hlt
+ E765102    1E937 data\text\eng\hypertext\ingamehelp\palettes\font_red.pcx
+ 41BE7ED     72AE data\engine2d\bin\bobs\ls_ground_s.bmd
+ 6A55F6A     3C44 data\engine2d\bin\sounds\generic\animals_goat06.wav
+ 7D97186     450C data\engine2d\bin\sounds\static\sword long swing03.wav
+ CF6266A     45B0 data\maps\multiplayer_005_special_cap-the-flag\text\eng\briefings\fonts\font12.fnt
+ D4FCED8      167 data\maps\multiplayer_008_militär\text\eng\briefings\briefings.txt
+ D5FA0C7     3847 data\maps\multiplayer_008_ressourcen\text\eng\briefings\fonts\font_10.fnt
+ DC3132F       79 data\maps\singleplayer_01_04\text\eng\briefings\0002.hlt
+ DD5FEEA       97 data\maps\singleplayer_01_05\text\eng\briefings\0001.hlt
+ DEFDC40      100 data\maps\singleplayer_01_06\text\eng\briefings\0000.hlt
+ E40FC03       98 data\maps\singleplayer_01_10\text\eng\briefings\0005.hlt
+ E79858E      B54 data\text\eng\strings\ingamegui\ingameguimisclogic.cif
+ 7D9B692     4F5C data\engine2d\bin\sounds\static\sword long swing04.wav
+ 7E00C1E     21DC data\engine2d\bin\sounds\static\weresnakegethit01.wav
+ D75C08C      202 data\maps\multiplayer_009_militär\text\eng\briefings\briefings.txt
+ DC313A8       79 data\maps\singleplayer_01_04\text\eng\briefings\0003.hlt
+ DD5FF81       79 data\maps\singleplayer_01_05\text\eng\briefings\0002.hlt
+ DEFDD40       97 data\maps\singleplayer_01_06\text\eng\briefings\0001.hlt
+ E042451      106 data\maps\singleplayer_01_07\text\eng\briefings\0000.hlt
+ E40FC9B       97 data\maps\singleplayer_01_10\text\eng\briefings\0006.hlt
+ E52ADD7      5B8 data\text\eng\hypertext\credits\graphics\separator_00.pcx
+ 66825DA    35BAC data\engine2d\bin\sounds\ambient\sirens_01.wav
+ 68053FE    206FC data\engine2d\bin\sounds\ambient\water1.wav
+ 6A59BAE     DEBC data\engine2d\bin\sounds\generic\animals_lion01.wav
+ 7E02DFA     4960 data\engine2d\bin\sounds\static\weresnakegethit02.wav
+ 89DDA06      385 data\gui\palettes\menu_remap.pcx
+ D0F2089     59E8 data\maps\multiplayer_007_millitär\text\eng\briefings\fonts\fonthead16bld.fnt
+ DC31421       79 data\maps\singleplayer_01_04\text\eng\briefings\0004.hlt
+ DD5FFFA       79 data\maps\singleplayer_01_05\text\eng\briefings\0003.hlt
+ DEFDDD7       79 data\maps\singleplayer_01_06\text\eng\briefings\0002.hlt
+ E042557       80 data\maps\singleplayer_01_07\text\eng\briefings\0001.hlt
+ E0429E0       7E data\maps\singleplayer_01_07\text\eng\briefings\0010.hlt
+ E187A87      100 data\maps\singleplayer_01_08\text\eng\briefings\0000.hlt
+ E40FD32       A6 data\maps\singleplayer_01_10\text\eng\briefings\0007.hlt
+ E794D57      82A data\text\eng\strings\ingamegui\ingameguihousewindow.cif
+ 5EBB9EF      385 data\engine2d\bin\palettes\creatures\hair.pcx
+ 5ECBAE5      385 data\engine2d\bin\palettes\landscapes\harbour01.pcx
+ 66B8186    46710 data\engine2d\bin\sounds\ambient\sirens_02.wav
+ 6825AFA    912EC data\engine2d\bin\sounds\ambient\water2.wav
+ 6A67A6A     8BF4 data\engine2d\bin\sounds\generic\animals_lion02.wav
+ 7E0775A     5F78 data\engine2d\bin\sounds\static\weresnakegethit03.wav
+ D0DF083     AF6B data\maps\multiplayer_007_millitär\minimap\minimap.pcx
+ DC3149A       79 data\maps\singleplayer_01_04\text\eng\briefings\0005.hlt
+ DD60073       79 data\maps\singleplayer_01_05\text\eng\briefings\0004.hlt
+ DEFDE50       79 data\maps\singleplayer_01_06\text\eng\briefings\0003.hlt
+ E0425D7       7D data\maps\singleplayer_01_07\text\eng\briefings\0002.hlt
+ E042A5E       82 data\maps\singleplayer_01_07\text\eng\briefings\0011.hlt
+ E187B87       79 data\maps\singleplayer_01_08\text\eng\briefings\0001.hlt
+ E2B3958      100 data\maps\singleplayer_01_09\text\eng\briefings\0000.hlt
+ E40FDD8       A0 data\maps\singleplayer_01_10\text\eng\briefings\0008.hlt
+ 68B6DE6    BFE5C data\engine2d\bin\sounds\ambient\water3.wav
+ 6A7065E     8464 data\engine2d\bin\sounds\generic\animals_lion03.wav
+ 6D7DFCA     49B8 data\engine2d\bin\sounds\humantalk\latin\l100.wav
+ DC31513       79 data\maps\singleplayer_01_04\text\eng\briefings\0006.hlt
+ DD600EC       79 data\maps\singleplayer_01_05\text\eng\briefings\0005.hlt
+ DEFDEC9       79 data\maps\singleplayer_01_06\text\eng\briefings\0004.hlt
+ E042654       7F data\maps\singleplayer_01_07\text\eng\briefings\0003.hlt
+ E042AE0       82 data\maps\singleplayer_01_07\text\eng\briefings\0012.hlt
+ E187C00       79 data\maps\singleplayer_01_08\text\eng\briefings\0002.hlt
+ E2B3A58       79 data\maps\singleplayer_01_09\text\eng\briefings\0001.hlt
+   267F3      E9D data\edit\macromaps\beach000.cif
+ 6976C42    20704 data\engine2d\bin\sounds\ambient\water4.wav
+ 6A78AC2     8070 data\engine2d\bin\sounds\generic\animals_lion04.wav
+ 6D82982     65CC data\engine2d\bin\sounds\humantalk\latin\l101.wav
+ DD60165       97 data\maps\singleplayer_01_05\text\eng\briefings\0006.hlt
+ DEFDF42       79 data\maps\singleplayer_01_06\text\eng\briefings\0005.hlt
+ E0426D3       85 data\maps\singleplayer_01_07\text\eng\briefings\0004.hlt
+ E042B62       82 data\maps\singleplayer_01_07\text\eng\briefings\0013.hlt
+ E187C79       79 data\maps\singleplayer_01_08\text\eng\briefings\0003.hlt
+ E2B3AD1       79 data\maps\singleplayer_01_09\text\eng\briefings\0002.hlt
+ E783A39       85 data\text\eng\hypertext\ingamehelp\index.hlt
+ 5A247D6    2C0A4 data\engine2d\bin\bobs\ls_triggers.bmd
+ 6D88F4E     53CC data\engine2d\bin\sounds\humantalk\latin\l102.wav
+ D3B72A0     738B data\maps\multiplayer_007_special_coop\map.cif
+ DD601FC       97 data\maps\singleplayer_01_05\text\eng\briefings\0007.hlt
+ DEFDFBB       79 data\maps\singleplayer_01_06\text\eng\briefings\0006.hlt
+ E042758       86 data\maps\singleplayer_01_07\text\eng\briefings\0005.hlt
+ E042BE4       82 data\maps\singleplayer_01_07\text\eng\briefings\0014.hlt
+ E187CF2       79 data\maps\singleplayer_01_08\text\eng\briefings\0004.hlt
+ E2B3B4A       79 data\maps\singleplayer_01_09\text\eng\briefings\0003.hlt
+ 5EC4A3C      385 data\engine2d\bin\palettes\goods\goods_longsword.pcx
+ 6D8E31A     67F4 data\engine2d\bin\sounds\humantalk\latin\l103.wav
+ 82E432D     DD2E data\engine2d\bin\textures\tran_water_coast.pcx
+ BF80CEE      1CC data\maps\multiplayer_001_militär\text\eng\strings.cif
+ DD60293       79 data\maps\singleplayer_01_05\text\eng\briefings\0008.hlt
+ DEFE034       77 data\maps\singleplayer_01_06\text\eng\briefings\0007.hlt
+ E0427DE       80 data\maps\singleplayer_01_07\text\eng\briefings\0006.hlt
+ E042C66       9E data\maps\singleplayer_01_07\text\eng\briefings\0015.hlt
+ E187D6B       79 data\maps\singleplayer_01_08\text\eng\briefings\0005.hlt
+ E2B3BC3       98 data\maps\singleplayer_01_09\text\eng\briefings\0004.hlt
+ 6AF35E2    1F110 data\engine2d\bin\sounds\generic\animals_wolf01.wav
+ C58E907      228 data\maps\multiplayer_002_militär\text\eng\strings.cif
+ E04285E       7F data\maps\singleplayer_01_07\text\eng\briefings\0007.hlt
+ E042D04       7D data\maps\singleplayer_01_07\text\eng\briefings\0016.hlt
+ E187DE4       79 data\maps\singleplayer_01_08\text\eng\briefings\0006.hlt
+ E2B3C5B       98 data\maps\singleplayer_01_09\text\eng\briefings\0005.hlt
+ 6B126F2    1BA68 data\engine2d\bin\sounds\generic\animals_wolf02.wav
+ 8549C89    1E93B data\gui\bitmaps\bg_button_hilite.pcx
+ C7C2135      1E0 data\maps\multiplayer_003_militär\text\eng\strings.cif
+ E0428DD       81 data\maps\singleplayer_01_07\text\eng\briefings\0008.hlt
+ E2B3CF3       79 data\maps\singleplayer_01_09\text\eng\briefings\0006.hlt
+ 8D28006     3AEB data\maps\campaign_01_01\text\eng\briefings\fonts\font10.fnt
+ B971293     3AEB data\maps\campaign_01_10\text\eng\briefings\fonts\font10.fnt
+ CAE0956      1DE data\maps\multiplayer_004_militär\text\eng\strings.cif
+ E04295E       82 data\maps\singleplayer_01_07\text\eng\briefings\0009.hlt
+ E2B3D6C       7E data\maps\singleplayer_01_09\text\eng\briefings\0007.hlt
