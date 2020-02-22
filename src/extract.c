@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 #include "types.h"
-#include "sort.h"
+#include "utils/sort.h"
 
 char* read_string(FILE *fp) {
   int len;
@@ -59,6 +59,53 @@ void free_file_info_array(FileInfo **files, int len) {
   free(files);
 }
 
+void decode_cif(unsigned char *buf, int len) {
+  char B = 0;
+  int C = 71, D = 126;
+
+  for (int i = 0; i < len; i++) {
+    B = buf[i];
+    B -= 1;
+    B = B ^ C;
+    C += D;
+    D += 33;
+
+    buf[i] = B;
+  }
+}
+
+void convert_3fd_format(unsigned char* buf) {
+  CIF_3FD *cif_header = (CIF_3FD *) buf;
+  decode_cif(&buf[40], cif_header->SizeOfIndexTable);
+  decode_cif(&buf[40 + cif_header->SizeOfIndexTable + 13], cif_header->SizeOfTextTable);
+}
+
+void convert_041_format(unsigned char* buf) {
+  CIF_041 *cif_header = (CIF_041 *) buf;
+  decode_cif(&buf[22], cif_header->SizeOfIndexTable);
+
+  int SizeOfTextTable = *((int *) &buf[22 + cif_header->SizeOfIndexTable + 6]);
+  decode_cif(&buf[22 + cif_header->SizeOfIndexTable + 6 + SizeOfTextTable], SizeOfTextTable);
+}
+
+void extract_file(FileInfo *info, FILE *fp) {
+  FILE *of = fopen(info->path, "w");
+
+  unsigned char *buf = malloc(info->length);
+  fread(buf, info->length, 1, fp);
+
+  if (buf[0] == 0xFD && buf[1] == 0x03) {
+    convert_3fd_format(buf);
+  }
+  if (buf[0] == 0x41 && buf[1] == 0x00) {
+    convert_041_format(buf);
+  }
+
+  fwrite (buf, info->length, 1, of);
+  free(buf);
+  fclose(of);
+}
+
 int main() {
   FILE *fp = fopen("/mnt/c/Games/Cultures2/DataX/Libs/data0001.lib", "r");
   Header header;
@@ -69,19 +116,23 @@ int main() {
 
   int i;
 
+  printf("reading directory info...");
   for (i = 0; i < header.dirs_no; i++) {
     read_dir_info(fp);
   }
 
   FileInfo **files = (FileInfo **) malloc(header.files_no * sizeof(FileInfo *));
 
+  printf("reading file info...\n");
   for (i = 0; i < header.files_no; i++) {
     files[i] = read_file_info(fp);
   }
 
+  printf("sorting files...\n");
   mergeSort(files, 0, header.files_no - 1);
 
   for (i = 0; i < header.files_no; i++) {
+    extract_file(files[i], fp);
     printf("%8X %8X %s\n", files[i]->offset, files[i]->length, files[i]->path);
   }
 

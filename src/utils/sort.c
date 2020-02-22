@@ -1,6 +1,6 @@
 #include "stdio.h"
 #include "types.h"
-#include "sort.h"
+#include "utils/sort.h"
 
 void merge(FileInfo* arr[], int l, int m, int r)
 {
