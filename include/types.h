@@ -16,7 +16,7 @@ typedef struct DirInfo {
 } DirInfo;
 
 typedef struct FileInto {
-  unsigned char* path;
+  char* path;
   unsigned int   offset;
   unsigned int   length;
 } FileInfo;
