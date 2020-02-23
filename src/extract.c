@@ -64,8 +64,7 @@ void decode_cif(unsigned char *buf, int len) {
   int C = 71, D = 126;
 
   for (int i = 0; i < len; i++) {
-    B = buf[i];
-    B -= 1;
+    B = buf[i] - 1;
     B = B ^ C;
     C += D;
     D += 33;
