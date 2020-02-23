@@ -2,9 +2,9 @@
 #define PCX_H
 
 typedef struct RGBColor {
-  unsigned char red;
-  unsigned char green;
   unsigned char blue;
+  unsigned char green;
+  unsigned char red;
 } RGBColor;
 
 typedef struct PCX_Header {
@@ -28,6 +28,6 @@ typedef struct PCX_Header {
   unsigned char reserved_block[54];
 } PCX_Header;
 
-RGBColor** read_pcx_palette(char* path);
+RGBColor* read_pcx_palette(char* path);
 
 #endif

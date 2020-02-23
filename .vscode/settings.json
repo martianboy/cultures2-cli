@@ -1,5 +1,6 @@
 {
   "files.associations": {
-    "pcx.h": "c"
+    "pcx.h": "c",
+    "bmd.h": "c"
   }
 }
