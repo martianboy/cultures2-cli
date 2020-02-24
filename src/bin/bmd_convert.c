@@ -7,22 +7,6 @@
 #include "pcx.h"
 #include "utils/pngutil.h"
 
-// unsigned int row_boundary(BMD_File *bmd_file, int frame) {
-//   int off = bmd_file->frame_info[frame].off;
-//   int len = bmd_file->frame_info[frame].len;
-
-//   unsigned int m = 0, n = 0;
-
-//   for (int i = 0; i < bmd_file->header->num_rows; i++) {
-//     if (bmd_file->row_info[i].offset >= off && bmd_file->row_info[i].offset < off + len) {
-//       if (i < m || m == 0) m = i;
-//       if (i > n) n = i;
-//     };
-//   }
-
-//   return m + (n << 16);
-// }
-
 void set_pixel(RGBA *pixel, unsigned char red, unsigned char green, unsigned char blue, unsigned char alpha) {
   pixel->alpha = alpha;
   pixel->blue = blue;
@@ -38,21 +22,19 @@ void set_pixel_rgb(RGBA *pixel, RGBColor *color) {
 }
 
 void extract_frame(BMD_File *bmd_file, int frame, RGBColor *palette, const char *out_path) {
-  int off = bmd_file->frame_info[frame].off;
+  int frame_start = bmd_file->frame_info[frame].off;
+  int frame_count = bmd_file->frame_info[frame].len;
   int width = bmd_file->frame_info[frame].width;
 
-  unsigned char* frame_buf = &bmd_file->pixels[off];
-  // unsigned int boundary = row_boundary(bmd_file, frame);
-  int frame_start = 0; // boundary & 0xFFFF;
-  int frame_end = 47; // boundary >> 16;
+  unsigned char* frame_buf = &bmd_file->pixels[bmd_file->row_info[frame_start].offset];
 
   Bitmap bmp;
-  bmp.height = frame_end - frame_start + 1;
+  bmp.height = frame_count + 1;
   bmp.width = width;
   bmp.pixels = calloc(sizeof(RGBA), bmp.height * bmp.width);
 
-  for (int row = 0; row <= frame_end; row++) {
-    int indent = bmd_file->row_info[row].indent;
+  for (int row = 0; row < frame_count; row++) {
+    int indent = bmd_file->row_info[row + frame_start].indent;
     int i = 0;
 
     while (i < indent) {
@@ -77,7 +59,7 @@ void extract_frame(BMD_File *bmd_file, int frame, RGBColor *palette, const char 
   }
 
   save_png_to_file(&bmp, out_path);
-  free_bitmap(&bmp);
+  free(bmp.pixels);
 }
 
 void convert(char *bmd_path, char *pcx_path) {
