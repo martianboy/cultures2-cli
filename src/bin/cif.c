@@ -7,7 +7,7 @@
 void read_struct(FILE *fp) {
   CIF_3FD cif_header;
   fread(&cif_header, sizeof(CIF_3FD), 1, fp);
-  
+
   unsigned int index_table[cif_header.NrOfEntries];
   fread(&index_table, 4, cif_header.NrOfEntries, fp);
   fseek(fp, 1 + 4 + 4 + 4, SEEK_CUR);
@@ -19,7 +19,7 @@ void read_struct(FILE *fp) {
     if (text_table[index_table[i]] == 1)
       printf("\n[%s]\n", &text_table[index_table[i] + 1]);
     else
-      printf("%X %s\n", text_table[index_table[i]], &text_table[index_table[i] + 1]);
+      printf("%s\n", &text_table[index_table[i] + 1]);
   }
 }
 

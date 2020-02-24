@@ -21,13 +21,6 @@ BMD_Frame_Row* read_rows_section(FILE *fp, int len) {
   BMD_Frame_Row* rows = malloc(len);
   fread(rows, sizeof(BMD_Frame_Row), len / sizeof(BMD_Frame_Row), fp);
 
-  // for (int i = 0; i < len / 4; i++) {
-  //   printf("Row %d:\n", i);
-
-  //   printf("%6s: %10u\n", "indent", rows[i].indent);
-  //   printf("%6s: %10X\n", "offset", rows[i].offset);
-  // }
-
   return rows;
 }
 
@@ -38,16 +31,13 @@ BMD_File* read_struct(FILE *fp) {
   BMD_File *bmd_file = malloc(sizeof(BMD_File));
   bmd_file->header = bmd_header;
 
-  // printf("\nSection 1:\n");
   unsigned int frames_section_len = read_section_header(fp);
   bmd_file->frame_info = read_frames_section(fp, frames_section_len);
 
-  // printf("\nSection 2:\n");
   unsigned int pixels_section_len = read_section_header(fp);
   bmd_file->pixels = malloc(pixels_section_len);
   fread(bmd_file->pixels, pixels_section_len, 1, fp);
 
-  // printf("\nSection 3:\n");
   unsigned int rows_section_len = read_section_header(fp);
   bmd_file->row_info = read_rows_section(fp, rows_section_len);
 
