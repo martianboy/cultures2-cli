@@ -8,7 +8,7 @@ bmd:
 	gcc -I ./include src/bin/bmd.c src/bmd.c -o bin/bmd -Wall
 
 bmd_convert:
-	gcc -I ./include src/bin/bmd_convert.c src/pcx.c src/bmd.c -o bin/bmd_convert -Wall
+	gcc -I ./include src/bin/bmd_convert.c src/pcx.c src/bmd.c src/utils/pngutil.c `pkg-config --cflags --libs libpng16` -o bin/bmd_convert -Wall
 
 pcx:
 	gcc -I ./include src/bin/pcx.c src/pcx.c -o bin/pcx -Wall

@@ -1,6 +1,9 @@
 {
   "files.associations": {
     "pcx.h": "c",
-    "bmd.h": "c"
+    "bmd.h": "c",
+    "stdlib.h": "c",
+    "png.h": "c",
+    "pngutil.h": "c"
   }
 }

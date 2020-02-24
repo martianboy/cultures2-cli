@@ -19,7 +19,8 @@
         {
             "name": "WSL",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "C:/MinGW/include/libpng16"
             ],
             "defines": [
                 "_DEBUG",
