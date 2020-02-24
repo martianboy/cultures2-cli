@@ -121,12 +121,12 @@ void convert(char *bmd_path, char *pcx_path) {
   RGBColor *palette = read_pcx_palette(pcx_path);
   BMD_File *bmd_file = read_bmd(bmd_path);
 
-  extract_frame(bmd_file, 0, palette, "frame0.png");
-  extract_frame(bmd_file, 1, palette, "frame1.png");
-  extract_frame(bmd_file, 2, palette, "frame2.png");
-  extract_frame(bmd_file, 3, palette, "frame3.png");
-  extract_frame(bmd_file, 4, palette, "frame4.png");
-  extract_frame(bmd_file, 5, palette, "frame5.png");
+  char *out_path = malloc(100);
+
+  for (int i = 0; i < bmd_file->header->num_frames; i++) {
+    sprintf(out_path, "output/frame%03d.png", i);
+    extract_frame(bmd_file, i, palette, out_path);
+  }
 
   free(palette);
   free_bmd(bmd_file);
