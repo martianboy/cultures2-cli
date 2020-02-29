@@ -9,7 +9,7 @@ void read_header(FILE *fp) {
 }
 
 RGBColor* read_palette(FILE *fp) {
-  fseek(fp, -769, SEEK_END);
+  fseek(fp, -768, SEEK_END);
 
   RGBColor *extended_palette = malloc(256 * 3);
   fread(extended_palette, 3, 256, fp);

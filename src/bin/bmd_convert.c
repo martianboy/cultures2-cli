@@ -133,10 +133,9 @@ void convert(char *bmd_path, char *pcx_path) {
 }
 
 int main(int argc, char **argv) {
-  char* pcx_path = "data/engine2d/bin/palettes/landscapes/rock03.pcx";
-  char* bmd_path = "data/engine2d/bin/bobs/ls_chest.bmd";
+  char* pcx_path = "data/engine2d/bin/palettes/landscapes/dungeon01.pcx";
 
-  convert(bmd_path, pcx_path);
+  convert(argv[1], pcx_path);
 
   return 0;
 }
