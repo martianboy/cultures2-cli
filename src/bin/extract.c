@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
+#include <sys/stat.h>
 
 #include "types.h"
 #include "utils/sort.h"
@@ -16,13 +17,25 @@ char* read_string(FILE *fp) {
   return buf;
 }
 
+void posix_path(char* p) {
+  while (*p != 0) {
+    if (*p == '\\') *p = '/';
+    if (*p >= 'A' && *p <= 'Z') *p += ('a' - 'A');
+    p++;
+  }
+}
+
 void read_dir_info(FILE* fp) {
   char* path = read_string(fp);
+  posix_path(path);
 
   int depth;
   fread(&depth, 4, 1, fp);
 
-  // printf("%d %s\n", depth, path);
+  if (depth > 0) {
+    mkdir(path, 0755);
+    printf("created directory (depth=%d) %s\n", depth, path);
+  }
 
   free(path);
 }
@@ -105,8 +118,13 @@ void extract_file(FileInfo *info, FILE *fp) {
   fclose(of);
 }
 
-int main() {
-  FILE *fp = fopen("/mnt/c/Games/Cultures2/DataX/Libs/data0001.lib", "r");
+int main(int argc, char **argv) {
+  FILE *fp = fopen(argv[1], "r");
+  if (fp == NULL) {
+    printf("File could not be opened.\n");
+    return -1;
+  }
+
   Header header;
   fread(&header, sizeof(Header), 1, fp);
 
